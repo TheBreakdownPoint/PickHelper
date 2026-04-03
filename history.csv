@@ -1,5 +1,5 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
-2026-04-02,1,Ketel Marte,Reynaldo Lopez,69.92483753422569,"No Hit, 0-4",AZ,606466,625643,825105,True,4,0,0,0
+2026-04-02,1,Ketl Marte,Reynaldo Lopez,69.92483753422569,"No Hit, 0-4",AZ,606466,625643,825105,True,4,0,0,0
 2026-04-02,2,Austin Martin,Cole Ragans,68.98799448641299,"No Hit, 0-3",@KC,668885,666142,824133,True,3,0,0,0
 2026-04-02,3,Bo Bichette,Robbie Ray,68.60044350347563,"Hit, 1-4",@SF,666182,592662,823242,True,4,1,0,1
 2026-04-02,4,Luis Arraez,David Peterson,68.07440087226622,"Hit, 2-5",SF,650333,656849,823242,True,5,2,0,1
