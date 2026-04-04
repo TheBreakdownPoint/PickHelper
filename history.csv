@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-03,1,Troy Johnston,Aaron Nola,73.71090492226985,"Hit, 1-4",COL,687859,605400,824377,True,4,1,0,1
+2026-04-03,2,Trea Turner,Michael Lorenzen,73.4029149753334,"Hit, 3-4",@COL,607208,547179,824377,True,4,3,0,1
+2026-04-03,3,Jonathan Aranda,Bailey Ober,72.13352579701831,"No Hit, 0-5",@MIN,666018,641927,823732,True,5,0,0,0
+2026-04-03,4,Yandy Diaz,Bailey Ober,70.98723116272546,"Hit, 1-2",@MIN,650490,641927,823732,True,2,1,2,1
+2026-04-03,5,Nico Hoerner,Joey Cantillo,70.04589452418561,"No Hit, 0-2",@CLE,663538,676282,824458,True,2,0,2,0
+2026-04-03,6,Shohei Ohtani,Miles Mikolas,69.94842308323923,"Hit, 2-5",@WSH,660271,571945,822758,True,5,2,0,1
+2026-04-03,7,Ronald Acuna Jr.,Eduardo Rodriguez,69.9373809724567,"Hit, 1-4",@AZ,660670,593958,825103,True,4,1,0,1
+2026-04-03,8,Hunter Goodman,Aaron Nola,69.6780353575079,"No Hit, 0-4",COL,696100,605400,824377,True,4,0,0,0
+2026-04-03,9,Jose Altuve,Jeffrey Springs,69.37146988204307,"No Hit, 0-1",@OAK,514888,605488,825026,True,1,0,1,0
+2026-04-03,10,Luis Arraez,Nolan McLean,68.87024742139776,"Hit, 1-4",SF,650333,690997,823240,True,4,1,0,1
 2026-04-02,1,Ketel Marte,Reynaldo Lopez,69.92483753422569,"No Hit, 0-4",AZ,606466,625643,825105,True,4,0,0,0
 2026-04-02,2,Austin Martin,Cole Ragans,68.98799448641299,"No Hit, 0-3",@KC,668885,666142,824133,True,3,0,0,0
 2026-04-02,3,Bo Bichette,Robbie Ray,68.60044350347563,"Hit, 1-4",@SF,666182,592662,823242,True,4,1,0,1
