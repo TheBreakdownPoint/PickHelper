@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-05,1,Brendan Donovan,Ryan Johnson,74.3715360071503,Did Not Start,@LAA,680977,696270,824053,,,,,2
+2026-04-05,2,Trea Turner,Tomoyuki Sugano,73.93413563023083,"Hit, 1-4",@COL,607208,608372,824379,True,4.0,1.0,0.0,1
+2026-04-05,3,Nico Hoerner,Parker Messick,73.48854714969907,"Hit, 1-3",@CLE,663538,800048,824460,True,3.0,1.0,2.0,1
+2026-04-05,4,Jeremy Pena,Jacob Lopez,72.58806695497555,Did Not Start,@OAK,665161,682052,825025,,,,,2
+2026-04-05,5,Roman Anthony,Walker Buehler,70.72312475560696,"No Hit, 0-4",BOS,701350,621111,824781,True,4.0,0.0,1.0,0
+2026-04-05,6,Mickey Moniak,Taijuan Walker,70.33454682301904,"Hit, 2-4",COL,666160,592836,824379,True,4.0,2.0,0.0,1
+2026-04-05,7,Maikel Garcia,Kyle Harrison,70.23100965869017,"Hit, 2-5",KC,672580,690986,824131,True,5.0,2.0,0.0,1
+2026-04-05,8,Miguel Andujar,Ranger Suarez,70.20369988164998,"No Hit, 0-3",@BOS,609280,624133,824781,True,3.0,0.0,1.0,0
+2026-04-05,9,Josh Naylor,Ryan Johnson,69.90871505283074,"Hit, 1-5",@LAA,647304,696270,824053,True,5.0,1.0,0.0,1
+2026-04-05,10,Drake Baldwin,Brandon Pfaadt,69.82952264843146,"Hit, 3-5",@AZ,686948,694297,825102,True,5.0,3.0,0.0,1
 2026-04-04,1,Trea Turner,Unknown,72.99316636714451,"Hit, 2-4",@COL,607208,99999999,824378,True,4.0,2.0,1.0,1
 2026-04-04,2,Jonathan Aranda,Mick Abel,72.22143192749019,"Hit, 1-5",@MIN,666018,690953,823730,True,5.0,1.0,0.0,1
 2026-04-04,3,Yandy Diaz,Mick Abel,71.36502658632443,"Hit, 1-3",@MIN,650490,690953,823730,True,3.0,1.0,0.0,1
