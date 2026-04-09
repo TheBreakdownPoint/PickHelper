@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-08,1,Jeremy Pena,Michael Lorenzen,73.67288611565301,"Hit, 1-5",@COL,665161,547179,824374,True,5.0,1.0,0.0,1
+2026-04-08,2,Brice Turang,Sonny Gray,72.40097136175847,Did Not Start,@BOS,668930,543243,824779,,,,,2
+2026-04-08,3,Joey Loperfido,Michael Lorenzen,72.1238627447568,"Hit, 1-4",@COL,694388,547179,824374,True,4.0,1.0,0.0,1
+2026-04-08,4,Luis Arraez,Aaron Nola,71.60129523000043,"Hit, 2-2",SF,650333,605400,823234,True,2.0,2.0,1.0,1
+2026-04-08,5,Jonathan Aranda,Colin Rea,70.47904341241868,"Hit, 2-3",TB,666018,607067,823000,True,3.0,2.0,0.0,1
+2026-04-08,6,Alec Burleson,Miles Mikolas,69.99910699053227,"Hit, 3-4",@WSH,676475,571945,822753,True,4.0,3.0,1.0,1
+2026-04-08,7,Yandy Diaz,Colin Rea,69.82910917594106,"No Hit, 0-3",TB,650490,607067,823000,True,3.0,0.0,0.0,0
+2026-04-08,8,Yordan Alvarez,Michael Lorenzen,69.78721094595306,"Hit, 1-4",@COL,670541,547179,824374,True,4.0,1.0,0.0,1
+2026-04-08,9,Xavier Edwards,Brady Singer,69.44668411412034,"Hit, 2-4",MIA,669364,663903,823885,True,4.0,2.0,1.0,1
+2026-04-08,10,Trea Turner,Tyler Mahle,69.04699906107935,"No Hit, 0-3",@SF,607208,641816,823234,True,3.0,0.0,1.0,0
 2026-04-07,1,Jeremy Pena,Kyle Freeland,76.96264834439495,"No Hit, 0-3",@COL,665161,607536,824375,True,3.0,0.0,1.0,0
 2026-04-07,2,Carlos Correa,Kyle Freeland,72.12391672871054,Did Not Start,@COL,621043,607536,824375,,,,,2
 2026-04-07,3,Trea Turner,Robbie Ray,71.23369899642792,"Hit, 1-4",@SF,607208,592662,823235,True,4.0,1.0,0.0,1
