@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-09,1,Jacob Wilson,Ryan Weathers,71.77360076300577,"Hit, 1-4",@NYY,805779,677960,823565,True,4.0,1.0,0.0,1
+2026-04-09,2,Bo Bichette,Eduardo Rodriguez,70.91909062449623,"Hit, 1-3",NYM,666182,593958,823645,True,3.0,1.0,1.0,1
+2026-04-09,3,Maikel Garcia,Anthony Kay,70.80703917883876,"Hit, 2-4",KC,672580,641743,824130,True,4.0,2.0,1.0,1
+2026-04-09,4,Xavier Edwards,Rhett Lowder,70.50537760177674,"Hit, 1-3",MIA,669364,695076,823884,True,3.0,1.0,2.0,1
+2026-04-09,5,Bobby Witt Jr.,Anthony Kay,70.35169977958074,"Hit, 2-5",KC,677951,641743,824130,True,5.0,2.0,0.0,1
+2026-04-09,6,Kerry Carpenter,Mick Abel,69.39302746254137,"No Hit, 0-4",@MIN,681481,690953,823724,True,4.0,0.0,0.0,0
+2026-04-09,7,Jakob Marsee,Rhett Lowder,69.31201083363904,"No Hit, 0-4",MIA,805300,695076,823884,True,4.0,0.0,1.0,0
+2026-04-09,8,TJ Friedl,Max Meyer,67.88785296955935,"No Hit, 0-5",@MIA,670770,676974,823884,True,5.0,0.0,0.0,0
+2026-04-09,9,Shea Langeliers,Ryan Weathers,67.77321001234964,Did Not Start,@NYY,669127,677960,823565,,,,,2
+2026-04-09,10,Paul Goldschmidt,Jeffrey Springs,67.15494519923814,Did Not Start,NYY,502671,605488,823565,,,,,2
 2026-04-08,1,Jeremy Pena,Michael Lorenzen,73.67288611565301,"Hit, 1-5",@COL,665161,547179,824374,True,5.0,1.0,0.0,1
 2026-04-08,2,Brice Turang,Sonny Gray,72.40097136175847,Did Not Start,@BOS,668930,543243,824779,,,,,2
 2026-04-08,3,Joey Loperfido,Michael Lorenzen,72.1238627447568,"Hit, 1-4",@COL,694388,547179,824374,True,4.0,1.0,0.0,1
