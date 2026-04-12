@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-11,1,Luis Arraez,Chris Bassitt,72.67325513350556,"Hit, 1-3",@BAL,650333,605135,824857,True,3.0,1.0,0.0,1
+2026-04-11,2,Yandy Diaz,Max Fried,70.98741273343533,"Hit, 1-4",TB,650490,608331,822996,True,4.0,1.0,1.0,1
+2026-04-11,3,Xavier Edwards,Casey Mize,70.5972063819808,"No Hit, 0-4",@DET,669364,663554,824294,True,4.0,0.0,0.0,0
+2026-04-11,4,Trea Turner,Brandon Pfaadt,70.26242177485716,"No Hit, 0-4",PHI,607208,694297,823480,True,4.0,0.0,0.0,0
+2026-04-11,5,Ketel Marte,Taijuan Walker,69.7040751669189,"Hit, 1-4",@PHI,606466,592836,823480,True,4.0,1.0,0.0,1
+2026-04-11,6,Roman Anthony,Kyle Leahy,69.01787079158377,"Hit, 1-4",@STL,701350,681517,823074,True,4.0,1.0,1.0,1
+2026-04-11,7,Colt Keith,Janson Junk,68.97618309039474,"Hit, 1-4",DET,690993,676083,824294,True,4.0,1.0,0.0,1
+2026-04-11,8,Mickey Moniak,German Marquez,68.87578142784727,"Hit, 3-4",@SD,666160,608566,823316,True,4.0,3.0,0.0,1
+2026-04-11,9,Ronald Acuna Jr.,Parker Messick,68.77765489825501,"Hit, 1-4",ATL,660670,800048,824939,True,4.0,1.0,0.0,1
+2026-04-11,10,Jakob Marsee,Casey Mize,68.70619598669728,"No Hit, 0-4",@DET,805300,663554,824294,True,4.0,0.0,1.0,0
 2026-04-10,1,Luis Arraez,Shane Baz,72.1216375742949,"No Hit, 0-3",@BAL,650333,669358,824858,True,3.0,0.0,2.0,0
 2026-04-10,2,Paul Goldschmidt,Steven Matz,70.62403306405041,"No Hit, 0-1",@TB,502671,571927,822997,True,1.0,0.0,1.0,0
 2026-04-10,3,Xavier Edwards,Keider Montero,70.49929771922874,"Hit, 1-4",@DET,669364,672456,824297,True,4.0,1.0,0.0,1
