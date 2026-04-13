@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-12,1,Luis Arraez,Cade Povich,70.3778834975343,Did Not Start,@BAL,650333,700249,824859,,,,,2
+2026-04-12,2,Roman Anthony,Andre Pallante,69.40265663502673,"No Hit, 0-5",@STL,701350,669467,823075,True,5.0,0.0,0.0,0
+2026-04-12,3,Brendan Donovan,Cody Bolton,69.33957774439371,"No Hit, 0-3",SEA,680977,675989,823154,True,3.0,0.0,0.0,0
+2026-04-12,4,Miguel Andujar,Kyle Freeland,69.21528490377398,Did Not Start,SD,609280,607536,823317,,,,,2
+2026-04-12,5,Ketel Marte,Andrew Painter,68.77686692711748,Did Not Start,@PHI,606466,691725,823479,False,0.0,0.0,1.0,2
+2026-04-12,6,Drake Baldwin,Tanner Bibee,68.26783219510949,"No Hit, 0-5",ATL,686948,676440,824938,True,5.0,0.0,0.0,0
+2026-04-12,7,Trea Turner,Zac Gallen,68.11927697163384,"Hit, 2-4",PHI,607208,668678,823479,True,4.0,2.0,0.0,1
+2026-04-12,8,Maikel Garcia,Grant Taylor,68.08881268995587,"No Hit, 0-4",KC,672580,691799,824126,True,4.0,0.0,1.0,0
+2026-04-12,9,Brice Turang,Zack Littell,67.88129279000917,"Hit, 3-4",MIL,668930,641793,823804,True,4.0,3.0,1.0,1
+2026-04-12,10,Gunnar Henderson,Adrian Houser,67.86022009176828,"Hit, 1-5",BAL,683002,605288,824859,True,5.0,1.0,0.0,1
 2026-04-11,1,Luis Arraez,Chris Bassitt,72.67325513350556,"Hit, 1-3",@BAL,650333,605135,824857,True,3.0,1.0,0.0,1
 2026-04-11,2,Yandy Diaz,Max Fried,70.98741273343533,"Hit, 1-4",TB,650490,608331,822996,True,4.0,1.0,1.0,1
 2026-04-11,3,Xavier Edwards,Casey Mize,70.5972063819808,"No Hit, 0-4",@DET,669364,663554,824294,True,4.0,0.0,0.0,0
