@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-13,1,Nico Hoerner,Cristopher Sanchez,71.3941532153579,"No Hit, 0-3",@PHI,663538,650911,823481,True,3.0,0.0,0.0,0
+2026-04-13,2,Bo Bichette,Justin Wrobleski,70.94333832305408,"No Hit, 0-3",@LAD,666182,680736,823964,True,3.0,0.0,0.0,0
+2026-04-13,3,Brandon Nimmo,Luis Severino,69.72460201783134,"No Hit, 0-5",@OAK,607043,622663,825024,True,5.0,0.0,0.0,0
+2026-04-13,4,Roman Anthony,Bailey Ober,69.43767252712452,"Hit, 1-2",@MIN,701350,641927,823725,True,2.0,1.0,2.0,1
+2026-04-13,5,Xavier Edwards,Grant Holmes,68.41717275778896,"Hit, 2-4",@ATL,669364,656550,824937,True,4.0,2.0,1.0,1
+2026-04-13,6,Paul Goldschmidt,Yusei Kikuchi,68.26780096604661,"Hit, 1-2",NYY,502671,579328,823563,True,2.0,1.0,1.0,1
+2026-04-13,7,Brendan Donovan,Mike Burrows,68.22112015088072,"Hit, 2-4",SEA,680977,681347,823153,True,4.0,2.0,1.0,1
+2026-04-13,8,Aaron Judge,Yusei Kikuchi,67.66029432306532,"Hit, 2-5",NYY,592450,579328,823563,True,5.0,2.0,0.0,1
+2026-04-13,9,Jose Ramirez,Matthew Liberatore,67.40259060106072,"Hit, 2-4",@STL,608070,669461,823073,True,4.0,2.0,1.0,1
+2026-04-13,10,Trea Turner,Javier Assad,67.32068929477147,"Hit, 1-4",PHI,607208,665871,823481,True,4.0,1.0,0.0,1
 2026-04-12,1,Luis Arraez,Cade Povich,70.3778834975343,Did Not Start,@BAL,650333,700249,824859,,,,,2
 2026-04-12,2,Roman Anthony,Andre Pallante,69.40265663502673,"No Hit, 0-5",@STL,701350,669467,823075,True,5.0,0.0,0.0,0
 2026-04-12,3,Brendan Donovan,Cody Bolton,69.33957774439371,"No Hit, 0-3",SEA,680977,675989,823154,True,3.0,0.0,0.0,0
