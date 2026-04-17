@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-16,1,Luis Arraez,Chase Burns,69.46539012670607,"No Hit, 0-4",@CIN,650333,695505,824530,True,4.0,0.0,0.0,0
+2026-04-16,2,Brendan Donovan,Walker Buehler,69.07290773382469,"Hit, 2-3",@SD,680977,621111,823313,True,3.0,2.0,1.0,1
+2026-04-16,3,Steven Kwan,Shane Baz,67.82347586250626,"Hit, 2-4",CLE,680757,669358,824453,True,4.0,2.0,0.0,1
+2026-04-16,4,Mickey Moniak,Ryan Weiss,67.20031120888063,"Hit, 1-3",@HOU,666160,680802,824208,True,3.0,1.0,1.0,1
+2026-04-16,5,Ernie Clement,Brandon Sproat,67.16001822270754,"Hit, 1-3",@MIL,676391,687075,823801,True,3.0,1.0,0.0,1
+2026-04-16,6,Lenyn Sosa,Steven Matz,67.12919545490385,Did Not Start,CWS,672820,571927,824614,,,,,2
+2026-04-16,7,Maikel Garcia,Keider Montero,67.0685619500317,"Hit, 1-5",@DET,672580,672456,824289,True,5.0,1.0,0.0,1
+2026-04-16,8,Jonathan Aranda,Jordan Leasure,66.94783037436508,Did Not Start,@CWS,666018,673929,824614,False,1.0,0.0,2.0,2
+2026-04-16,9,Daylen Lile,Braxton Ashcraft,66.66855989665041,"Hit, 2-5",@PIT,695734,677952,823396,True,5.0,2.0,0.0,1
+2026-04-16,10,Bobby Witt Jr.,Keider Montero,66.5542826863304,"Hit, 3-5",@DET,677951,672456,824289,True,5.0,3.0,0.0,1
 2026-04-15,1,Luis Arraez,Rhett Lowder,71.95687209301396,"Hit, 1-3",@CIN,650333,695076,824532,True,3.0,1.0,1.0,1
 2026-04-15,2,Nico Hoerner,Jesus Luzardo,71.55806454590746,"Hit, 3-5",@PHI,663538,666200,823477,True,5.0,3.0,0.0,1
 2026-04-15,3,Trea Turner,Shota Imanaga,70.47314140642074,"Hit, 1-2",PHI,607208,684007,823477,True,2.0,1.0,1.0,1
