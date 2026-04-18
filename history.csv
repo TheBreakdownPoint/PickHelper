@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-17,1,Brice Turang,Janson Junk,72.07986285435031,"No Hit, 0-4",@MIA,668930,676083,823883,True,4.0,0.0,1.0,0
+2026-04-17,2,Shohei Ohtani,Tomoyuki Sugano,71.44115567633699,"Hit, 2-5",@COL,660271,608372,824373,True,5.0,2.0,0.0,1
+2026-04-17,3,Luis Arraez,Zack Littell,71.36839693592026,"Hit, 2-5",@WSH,650333,641793,822752,True,5.0,2.0,0.0,1
+2026-04-17,4,Roman Anthony,Casey Mize,70.5928031129141,"No Hit, 0-4",BOS,701350,663554,824778,True,4.0,0.0,0.0,0
+2026-04-17,5,Freddie Freeman,Tomoyuki Sugano,70.07326401260015,"Hit, 2-4",@COL,518692,608372,824373,True,4.0,2.0,1.0,1
+2026-04-17,6,Drake Baldwin,Taijuan Walker,70.05280133132682,"Hit, 2-5",@PHI,686948,592836,823476,True,5.0,2.0,0.0,1
+2026-04-17,7,Trea Turner,Martin Perez,69.25262349439978,"Hit, 1-4",PHI,607208,527048,823476,True,4.0,1.0,1.0,1
+2026-04-17,8,Daylen Lile,Logan Webb,68.85077790414023,"Hit, 1-3",WSH,695734,657277,822752,True,3.0,1.0,1.0,1
+2026-04-17,9,Kyle Tucker,Tomoyuki Sugano,68.76660005202964,"Hit, 1-5",@COL,663656,608372,824373,True,5.0,1.0,0.0,1
+2026-04-17,10,Steven Kwan,Chris Bassitt,68.66541088105966,"Hit, 1-4",CLE,680757,605135,824454,True,4.0,1.0,1.0,1
 2026-04-16,1,Luis Arraez,Chase Burns,69.46539012670607,"No Hit, 0-4",@CIN,650333,695505,824530,True,4.0,0.0,0.0,0
 2026-04-16,2,Brendan Donovan,Walker Buehler,69.07290773382469,"Hit, 2-3",@SD,680977,621111,823313,True,3.0,2.0,1.0,1
 2026-04-16,3,Steven Kwan,Shane Baz,67.82347586250626,"Hit, 2-4",CLE,680757,669358,824453,True,4.0,2.0,0.0,1
