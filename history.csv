@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-18,1,Luis Arraez,Cade Cavalli,72.15008397434642,"Hit, 2-6",@WSH,650333,676917,822751,True,6.0,2.0,0.0,1
+2026-04-18,2,Shohei Ohtani,Ryan Feltner,71.69498591329598,"Hit, 1-4",@COL,660271,663372,824372,True,4.0,1.0,0.0,1
+2026-04-18,3,Trea Turner,Chris Sale,70.33756671580915,"Hit, 1-4",PHI,607208,519242,823474,True,4.0,1.0,0.0,1
+2026-04-18,4,Freddie Freeman,Ryan Feltner,70.32928031280693,"Hit, 2-3",@COL,518692,663372,824372,True,3.0,2.0,1.0,1
+2026-04-18,5,Brice Turang,Sandy Alcantara,70.3042187781202,"Hit, 2-3",@MIA,668930,645261,823882,True,3.0,2.0,2.0,1
+2026-04-18,6,Miguel Andujar,Yusei Kikuchi,69.37286501314442,"Hit, 2-3",@LAA,609280,579328,824049,True,3.0,2.0,0.0,1
+2026-04-18,7,Ketel Marte,Max Scherzer,69.24817674207688,"No Hit, 0-3",AZ,606466,453286,825098,True,3.0,0.0,1.0,0
+2026-04-18,8,Kyle Tucker,Ryan Feltner,68.91065033003244,"Hit, 3-5",@COL,663656,663372,824372,True,5.0,3.0,0.0,1
+2026-04-18,9,Daylen Lile,Adrian Houser,68.65652659160479,"Hit, 2-6",WSH,695734,605288,822751,True,6.0,2.0,0.0,1
+2026-04-18,10,Ernie Clement,Zac Gallen,68.41111013434966,"Hit, 2-5",@AZ,676391,668678,825098,True,5.0,2.0,0.0,1
 2026-04-17,1,Brice Turang,Janson Junk,72.07986285435031,"No Hit, 0-4",@MIA,668930,676083,823883,True,4.0,0.0,1.0,0
 2026-04-17,2,Shohei Ohtani,Tomoyuki Sugano,71.44115567633699,"Hit, 2-5",@COL,660271,608372,824373,True,5.0,2.0,0.0,1
 2026-04-17,3,Luis Arraez,Zack Littell,71.36839693592026,"Hit, 2-5",@WSH,650333,641793,822752,True,5.0,2.0,0.0,1
