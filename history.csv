@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-21,1,Nico Hoerner,Jesus Luzardo,70.69258497467473,"Hit, 2-5",CHC,663538,666200,824690,True,5.0,2.0,0.0,1
+2026-04-21,2,Brice Turang,Keider Montero,70.51982578029455,"Hit, 2-5",@DET,668930,672456,824290,True,5.0,2.0,0.0,1
+2026-04-21,3,Xavier Edwards,Dustin May,70.46526602611605,"Hit, 2-4",MIA,669364,669160,823880,True,4.0,2.0,1.0,1
+2026-04-21,4,Alec Burleson,Chris Paddack,69.80349774263857,"Hit, 2-4",@MIA,676475,663978,823880,True,4.0,2.0,0.0,1
+2026-04-21,5,Trea Turner,Shota Imanaga,69.72608067647617,"No Hit, 0-4",@CHC,607208,684007,824690,True,4.0,0.0,1.0,0
+2026-04-21,6,Miguel Andujar,Unknown,69.44650008063557,"Hit, 1-4",@COL,609280,99999999,824369,True,4.0,1.0,0.0,1
+2026-04-21,7,Mickey Moniak,Randy Vasquez,68.95318716917552,"Hit, 1-4",COL,666160,681190,824369,True,4.0,1.0,0.0,1
+2026-04-21,8,Ernie Clement,Jack Kochanowicz,68.66657922694213,"Hit, 2-4",@LAA,676391,686799,824045,True,4.0,2.0,0.0,1
+2026-04-21,9,Brandon Nimmo,Carmen Mlodzinski,68.35711824123321,"No Hit, 0-5",TEX,607043,669387,822914,True,5.0,0.0,0.0,0
+2026-04-21,10,Paul Goldschmidt,Connelly Early,68.33682259506459,Did Not Start,@BOS,502671,813349,824773,,,,,2
 2026-04-20,1,Tyler Freeman,Justin Wrobleski,71.38630880549532,0-0,COL,671289,680736,824370,True,0.0,0.0,0.0,2
 2026-04-20,2,Xavier Edwards,Michael McGreevy,70.49840770683736,"Hit, 1-2",MIA,669364,700241,823879,True,2.0,1.0,2.0,1
 2026-04-20,3,Drake Baldwin,Jake Irvin,70.39431107196052,"Hit, 2-4",@WSH,686948,663623,822749,True,4.0,2.0,1.0,1
