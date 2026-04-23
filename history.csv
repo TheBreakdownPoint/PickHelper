@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-22,1,Nico Hoerner,Kyle Backhus,71.51445264371765,"Hit, 1-5",CHC,663538,679775,824688,True,5.0,1.0,0.0,1
+2026-04-22,2,Brice Turang,Casey Mize,70.7334048641163,"No Hit, 0-3",@DET,668930,663554,824286,True,3.0,0.0,2.0,0
+2026-04-22,3,Trea Turner,Matthew Boyd,70.27518135578238,"Hit, 1-4",@CHC,607208,571510,824688,True,4.0,1.0,0.0,1
+2026-04-22,4,Drake Baldwin,Zack Littell,70.22134750151244,"Hit, 2-3",@WSH,686948,641793,822748,True,3.0,2.0,1.0,1
+2026-04-22,5,Paul Goldschmidt,Ranger Suarez,70.09376857334975,"No Hit, 0-4",@BOS,502671,624133,824774,True,4.0,0.0,0.0,0
+2026-04-22,6,Alec Burleson,Janson Junk,69.97198970859375,Did Not Start,@MIA,676475,676083,823878,,,,,2
+2026-04-22,7,Xavier Edwards,Kyle Leahy,69.95414483637828,"No Hit, 0-5",MIA,669364,681517,823878,True,5.0,0.0,0.0,0
+2026-04-22,8,Aaron Judge,Ranger Suarez,69.741954726231,"Hit, 1-2",@BOS,592450,624133,824774,True,2.0,1.0,2.0,1
+2026-04-22,9,Bo Bichette,Connor Prielipp,69.54083841575365,"Hit, 1-4",NYM,666182,687570,823641,True,4.0,1.0,0.0,1
+2026-04-22,10,Mickey Moniak,Walker Buehler,69.38403654180519,"Hit, 2-4",COL,666160,621111,824367,True,4.0,2.0,0.0,1
 2026-04-21,1,Nico Hoerner,Jesus Luzardo,70.69258497467473,"Hit, 2-5",CHC,663538,666200,824690,True,5.0,2.0,0.0,1
 2026-04-21,2,Brice Turang,Keider Montero,70.51982578029455,"Hit, 2-5",@DET,668930,672456,824290,True,5.0,2.0,0.0,1
 2026-04-21,3,Xavier Edwards,Dustin May,70.46526602611605,"Hit, 2-4",MIA,669364,669160,823880,True,4.0,2.0,1.0,1
