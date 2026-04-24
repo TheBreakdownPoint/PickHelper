@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-23,1,Mickey Moniak,Matt Waldron,74.3224785168411,"Hit, 4-5",COL,666160,663362,824368,True,5.0,4.0,0.0,1
+2026-04-23,2,Amed Rosario,Payton Tolle,71.65949736844162,"Hit, 1-3",@BOS,642708,801139,824770,True,3.0,1.0,0.0,1
+2026-04-23,3,Drake Baldwin,Cade Cavalli,71.14448119260534,"Hit, 1-4",@WSH,686948,676917,822745,True,4.0,1.0,1.0,1
+2026-04-23,4,Troy Johnston,Matt Waldron,71.0835683830124,"Hit, 3-4",COL,687859,663362,824368,True,4.0,3.0,1.0,1
+2026-04-23,5,Edouard Julien,Matt Waldron,70.36731081564278,"Hit, 2-5",COL,666397,663362,824368,True,5.0,2.0,0.0,1
+2026-04-23,6,Nico Hoerner,Cristopher Sanchez,70.24867469522059,"No Hit, 0-5",CHC,663538,650911,824689,True,5.0,0.0,1.0,0
+2026-04-23,7,Aaron Judge,Payton Tolle,70.20034760902166,"Hit, 1-4",@BOS,592450,801139,824770,True,4.0,1.0,1.0,1
+2026-04-23,8,Hunter Goodman,Matt Waldron,69.2847565378255,Did Not Start,COL,696100,663362,824368,,,,,2
+2026-04-23,9,Shohei Ohtani,Logan Webb,68.57164646497311,"No Hit, 0-5",@SF,660271,657277,823233,True,5.0,0.0,0.0,0
+2026-04-23,10,Ketel Marte,Davis Martin,68.26274465778151,"Hit, 2-4",AZ,606466,663436,825096,True,4.0,2.0,0.0,1
 2026-04-22,1,Nico Hoerner,Kyle Backhus,71.51445264371765,"Hit, 1-5",CHC,663538,679775,824688,True,5.0,1.0,0.0,1
 2026-04-22,2,Brice Turang,Casey Mize,70.7334048641163,"No Hit, 0-3",@DET,668930,663554,824286,True,3.0,0.0,2.0,0
 2026-04-22,3,Trea Turner,Matthew Boyd,70.27518135578238,"Hit, 1-4",@CHC,607208,571510,824688,True,4.0,1.0,0.0,1
