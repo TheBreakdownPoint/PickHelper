@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-24,1,Juan Soto,Michael Lorenzen,79.49409330688479,"Hit, 1-4",NYM,665742,547179,823638,True,4.0,1.0,0.0,1
+2026-04-24,2,Bobby Witt Jr.,Yusei Kikuchi,75.61467379614152,"Hit, 1-4",KC,677951,579328,824124,True,4.0,1.0,0.0,1
+2026-04-24,3,Matt Olson,Andrew Painter,75.5667016665191,"Hit, 2-5",ATL,621566,691725,824932,True,5.0,2.0,0.0,1
+2026-04-24,4,Xavier Edwards,Adrian Houser,74.24145901400603,"Hit, 3-4",@SF,669364,605288,823232,True,4.0,3.0,1.0,1
+2026-04-24,5,Drake Baldwin,Andrew Painter,74.00578934984092,"No Hit, 0-5",ATL,686948,691725,824932,True,5.0,0.0,0.0,0
+2026-04-24,6,Bo Bichette,Michael Lorenzen,72.91538690790448,"Hit, 1-4",NYM,666182,547179,823638,True,4.0,1.0,0.0,1
+2026-04-24,7,Maikel Garcia,Yusei Kikuchi,72.37556801191245,Did Not Start,KC,672580,579328,824124,,,,,2
+2026-04-24,8,Yandy Diaz,Taj Bradley,71.71727682536324,"Hit, 1-4",TB,650490,671737,822992,True,4.0,1.0,0.0,1
+2026-04-24,9,Gleyber Torres,Andrew Abbott,71.61273333717286,"No Hit, 0-2",@CIN,650402,671096,824529,True,2.0,0.0,3.0,0
+2026-04-24,10,Elly De La Cruz,Framber Valdez,71.59368836448967,"Hit, 2-4",CIN,682829,664285,824529,True,4.0,2.0,1.0,1
 2026-04-23,1,Mickey Moniak,Matt Waldron,74.3224785168411,"Hit, 4-5",COL,666160,663362,824368,True,5.0,4.0,0.0,1
 2026-04-23,2,Amed Rosario,Payton Tolle,71.65949736844162,"Hit, 1-3",@BOS,642708,801139,824770,True,3.0,1.0,0.0,1
 2026-04-23,3,Drake Baldwin,Cade Cavalli,71.14448119260534,"Hit, 1-4",@WSH,686948,676917,822745,True,4.0,1.0,1.0,1
