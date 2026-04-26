@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-25,1,Ildemaro Vargas,Germ\xc3\xa1n M\xc3\xa1rquez,77.47743125353492,"Hit, 1-4",AZ,545121,608566,825093,True,4.0,1.0,0.0,1
+2026-04-25,2,Kevin McGonigle,Brady Singer,74.10198595334477,"Hit, 3-5",@CIN,805808,663903,824527,True,5.0,3.0,0.0,1
+2026-04-25,3,Cody Bellinger,Mike Burrows,73.8854183101806,"No Hit, 0-2",@HOU,641355,681347,824203,True,2.0,0.0,3.0,0
+2026-04-25,4,Yandy Diaz,Bailey Ober,73.1540815969676,"Hit, 1-3",TB,650490,641927,822989,True,3.0,1.0,0.0,1
+2026-04-25,5,Ketel Marte,Germ\xc3\xa1n M\xc3\xa1rquez,72.43445784169343,"Hit, 1-4",AZ,606466,608566,825093,True,4.0,1.0,1.0,1
+2026-04-25,6,Bobby Witt Jr.,Walbert Ure\xc3\xb1a,72.12156615944464,"Hit, 2-5",KC,677951,700712,824121,True,5.0,2.0,1.0,1
+2026-04-25,7,William Contreras,Trevor Rogers,71.93708085655743,Did Not Start,@BAL,661388,669432,824851,,,,,2
+2026-04-25,8,Colt Keith,Brady Singer,71.57297498950209,"Hit, 1-4",@CIN,690993,663903,824527,True,4.0,1.0,0.0,1
+2026-04-25,9,Fernando Tatis Jr.,Zac Gallen,71.3955813574685,"Hit, 1-4",@AZ,665487,668678,825093,True,4.0,1.0,1.0,1
+2026-04-25,10,Ernie Clement,Joey Cantillo,71.05096464731024,"Hit, 2-4",TOR,676391,676282,822826,True,4.0,2.0,0.0,1
 2026-04-24,1,Juan Soto,Michael Lorenzen,79.49409330688479,"Hit, 1-4",NYM,665742,547179,823638,True,4.0,1.0,0.0,1
 2026-04-24,2,Bobby Witt Jr.,Yusei Kikuchi,75.61467379614152,"Hit, 1-4",KC,677951,579328,824124,True,4.0,1.0,0.0,1
 2026-04-24,3,Matt Olson,Andrew Painter,75.5667016665191,"Hit, 2-5",ATL,621566,691725,824932,True,5.0,2.0,0.0,1
