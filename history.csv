@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-26,1,Matt Olson,Aaron Nola,76.20488500686463,"Hit, 1-4",ATL,621566,605400,824934,True,4.0,1.0,0.0,1
+2026-04-26,2,Yandy Diaz,Simeon Woods Richardson,74.63726817256881,"Hit, 1-3",TB,650490,680573,822991,True,3.0,1.0,1.0,1
+2026-04-26,3,Ernie Clement,Slade Cecconi,74.50229418929251,"Hit, 1-4",TOR,676391,677944,822824,True,4.0,1.0,0.0,1
+2026-04-26,4,Bobby Witt Jr.,Reid Detmers,72.99245271030168,"Hit, 2-5",KC,677951,672282,824122,True,5.0,2.0,0.0,1
+2026-04-26,5,Drake Baldwin,Aaron Nola,72.83873476847941,"Hit, 2-3",ATL,686948,605400,824934,True,3.0,2.0,1.0,1
+2026-04-26,6,Luis Arraez,Max Meyer,72.77137626150457,"No Hit, 0-3",SF,650333,676974,823230,True,3.0,0.0,0.0,0
+2026-04-26,7,Mickey Moniak,Kodai Senga,72.38214961054098,"Hit, 1-3",@NYM,666160,673540,823637,True,3.0,1.0,1.0,1
+2026-04-26,8,Juan Soto,Jose Quintana,72.25483713515179,"No Hit, 0-3",NYM,665742,500779,823635,True,3.0,0.0,1.0,0
+2026-04-26,9,Elly De La Cruz,Keider Montero,72.17074753499666,"Hit, 1-4",CIN,682829,672456,824528,True,4.0,1.0,0.0,1
+2026-04-26,10,Ildemaro Vargas,Michael King,71.94945159783644,"Hit, 3-5",AZ,545121,650633,825094,True,5.0,3.0,0.0,1
 2026-04-25,1,Ildemaro Vargas,Germ\xc3\xa1n M\xc3\xa1rquez,77.47743125353492,"Hit, 1-4",AZ,545121,608566,825093,True,4.0,1.0,0.0,1
 2026-04-25,2,Kevin McGonigle,Brady Singer,74.10198595334477,"Hit, 3-5",@CIN,805808,663903,824527,True,5.0,3.0,0.0,1
 2026-04-25,3,Cody Bellinger,Mike Burrows,73.8854183101806,"No Hit, 0-2",@HOU,641355,681347,824203,True,2.0,0.0,3.0,0
