@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-29,1,Yordan Alvarez,Chris Bassitt,77.6092563993502,Did Not Start,@BAL,670541,605135,824850,,,,,2
+2026-04-29,2,Ernie Clement,Brayan Bello,75.17926843114014,"Hit, 1-5",TOR,676391,678394,822821,True,5.0,1.0,0.0,1
+2026-04-29,3,Nico Hoerner,Matt Waldron,75.06988463025608,"Hit, 1-4",@SD,663538,663362,823312,True,4.0,1.0,0.0,1
+2026-04-29,4,Juan Soto,Cade Cavalli,74.35032939099837,"Hit, 3-5",NYM,665742,676917,823633,True,5.0,3.0,0.0,1
+2026-04-29,5,Ildemaro Vargas,Brandon Sproat,74.17503430908535,"Hit, 2-5",@MIL,545121,687075,823796,True,5.0,2.0,0.0,1
+2026-04-29,6,Elly De La Cruz,Tomoyuki Sugano,73.45941687772314,"No Hit, 0-3",CIN,682829,608372,824525,True,3.0,0.0,1.0,0
+2026-04-29,7,Bobby Witt Jr.,Luis Severino,73.05823897716775,"Hit, 2-4",@OAK,677951,622663,825015,True,4.0,2.0,0.0,1
+2026-04-29,8,Luis Arraez,Cristopher Sánchez,71.72109774492019,Did Not Start,@PHI,650333,650911,823471,,,,,2
+2026-04-29,9,Trea Turner,Logan Webb,71.40912997589967,Did Not Start,PHI,607208,657277,823471,,,,,2
+2026-04-29,10,William Contreras,Eric Lauer,70.99860509248803,Did Not Start,@TOR,661388,641778,822821,,,,,2
 2026-04-28,1,Juan Soto,Zack Littell,76.81898576327328,"Hit, 1-4",NYM,665742,641793,823636,True,4.0,1.0,0.0,1
 2026-04-28,2,Yordan Alvarez,Shane Baz,76.54600123598408,"Hit, 1-4",@BAL,670541,669358,824849,True,4.0,1.0,1.0,1
 2026-04-28,3,Bobby Witt Jr.,Jacob Lopez,75.36037036461593,"Hit, 1-5",@OAK,677951,682052,825017,True,5.0,1.0,0.0,1
