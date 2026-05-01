@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-04-30,1,Yordan Alvarez,Chris Bassitt,77.67030578611262,"No Hit, 0-4",@BAL,670541,605135,824848,True,4.0,0.0,0.0,0
+2026-04-30,2,Elly De La Cruz,Michael Lorenzen,76.91471519989561,"Hit, 1-4",CIN,682829,547179,824524,True,4.0,1.0,0.0,1
+2026-04-30,3,Juan Soto,Miles Mikolas,76.52854997718663,"Hit, 2-3",NYM,665742,571945,823634,True,3.0,2.0,1.0,1
+2026-04-30,4,Luis Arraez,Andrew Painter,76.08993003170124,"Hit, 2-6",@PHI,650333,691725,823471,True,6.0,2.0,0.0,1
+2026-04-30,5,Yordan Alvarez,Brandon Young,75.53256063266309,"Hit, 3-4",@BAL,670541,687064,824850,True,4.0,3.0,1.0,1
+2026-04-30,6,Bobby Witt Jr.,Jeffrey Springs,74.56082431851995,"No Hit, 0-3",@OAK,677951,605488,825016,True,3.0,0.0,2.0,0
+2026-04-30,7,Shea Langeliers,Noah Cameron,74.25966198136051,"Hit, 3-4",OAK,669127,702070,825016,True,4.0,3.0,0.0,1
+2026-04-30,8,Ildemaro Vargas,Brandon Woodruff,73.69796708245302,"Hit, 2-4",@MIL,545121,605540,823795,True,4.0,2.0,0.0,1
+2026-04-30,9,Kevin McGonigle,Bryce Elder,72.49203148692402,"No Hit, 0-2",@ATL,805808,693821,824929,True,2.0,0.0,3.0,0
+2026-04-30,10,Ernie Clement,Bailey Ober,71.80030665920792,"Hit, 1-3",@MIN,676391,641927,823714,True,3.0,1.0,1.0,1
 2026-04-29,1,Yordan Alvarez,Chris Bassitt,77.6092563993502,Did Not Start,@BAL,670541,605135,824850,,,,,2
 2026-04-29,2,Ernie Clement,Brayan Bello,75.17926843114014,"Hit, 1-5",TOR,676391,678394,822821,True,5.0,1.0,0.0,1
 2026-04-29,3,Nico Hoerner,Matt Waldron,75.06988463025608,"Hit, 1-4",@SD,663538,663362,823312,True,4.0,1.0,0.0,1
