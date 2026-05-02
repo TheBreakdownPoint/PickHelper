@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-01,1,Ildemaro Vargas,Colin Rea,77.08870894117045,"Hit, 4-4",@CHC,545121,607067,824686,True,4.0,4.0,1.0,1
+2026-05-01,2,Juan Soto,Walbert Ureña,75.8094651298,"Hit, 1-3",@LAA,665742,700712,824041,True,3.0,1.0,1.0,1
+2026-05-01,3,Ozzie Albies,Jose Quintana,75.00785471014892,"Hit, 1-4",@COL,645277,500779,824366,True,4.0,1.0,1.0,1
+2026-05-01,4,Mickey Moniak,Grant Holmes,74.05034112120133,"Hit, 2-5",COL,666160,656550,824366,True,5.0,2.0,0.0,1
+2026-05-01,5,Ernie Clement,Simeon Woods Richardson,73.63386308769036,Did Not Start,@MIN,676391,680573,823713,,,,,2
+2026-05-01,6,Matt Olson,Jose Quintana,73.29019003383914,"Hit, 1-3",@COL,621566,500779,824366,True,3.0,1.0,2.0,1
+2026-05-01,7,Yandy Diaz,Robbie Ray,73.18010807231173,"Hit, 1-2",TB,650490,592662,822990,True,2.0,1.0,0.0,1
+2026-05-01,8,Shea Langeliers,Joey Cantillo,72.93928045378216,"Hit, 1-4",OAK,669127,676282,825012,True,4.0,1.0,1.0,1
+2026-05-01,9,Elly De La Cruz,Mitch Keller,72.38796879122319,"No Hit, 0-4",@PIT,682829,656605,823389,True,4.0,0.0,0.0,0
+2026-05-01,10,Yordan Alvarez,Unknown,72.20087376304858,"No Hit, 0-5",@BOS,670541,99999999,824772,True,5.0,0.0,0.0,0
 2026-04-30,1,Yordan Alvarez,Chris Bassitt,77.67030578611262,"No Hit, 0-4",@BAL,670541,605135,824848,True,4.0,0.0,0.0,0
 2026-04-30,2,Elly De La Cruz,Michael Lorenzen,76.91471519989561,"Hit, 1-4",CIN,682829,547179,824524,True,4.0,1.0,0.0,1
 2026-04-30,3,Juan Soto,Miles Mikolas,76.52854997718663,"Hit, 2-3",NYM,665742,571945,823634,True,3.0,2.0,1.0,1
