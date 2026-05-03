@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-02,1,Matt Olson,Chase Dollander,75.66811042248686,"Hit, 1-5",@COL,621566,801403,824365,True,5.0,1.0,0.0,1
+2026-05-02,2,Xavier Edwards,Andrew Painter,74.45968372089538,"Hit, 2-4",MIA,669364,691725,823876,True,4.0,2.0,0.0,1
+2026-05-02,3,Elly De La Cruz,Carmen Mlodzinski,73.11608724995862,"Hit, 1-2",@PIT,682829,669387,823388,True,2.0,1.0,1.0,1
+2026-05-02,4,Luis Arraez,Griffin Jax,73.04067145127925,"Hit, 3-4",@TB,650333,643377,822988,True,4.0,3.0,0.0,1
+2026-05-02,5,Ozzie Albies,Chase Dollander,72.89294211033108,"Hit, 2-4",@COL,645277,801403,824365,True,4.0,2.0,0.0,1
+2026-05-02,6,Shea Langeliers,Slade Cecconi,72.50952490256158,"Hit, 3-5",OAK,669127,677944,825014,True,5.0,3.0,0.0,1
+2026-05-02,7,Otto Lopez,Andrew Painter,72.16277957006861,"Hit, 2-5",MIA,672640,691725,823876,True,5.0,2.0,0.0,1
+2026-05-02,8,Drake Baldwin,Chase Dollander,71.99046890125346,"Hit, 3-4",@COL,686948,801403,824365,True,4.0,3.0,1.0,1
+2026-05-02,9,Ildemaro Vargas,Shota Imanaga,71.95092415767513,"No Hit, 0-4",@CHC,545121,684007,824685,True,4.0,0.0,0.0,0
+2026-05-02,10,Juan Soto,Reid Detmers,71.43153585447806,"Hit, 1-4",@LAA,665742,672282,824042,True,4.0,1.0,1.0,1
 2026-05-01,1,Ildemaro Vargas,Colin Rea,77.08870894117045,"Hit, 4-4",@CHC,545121,607067,824686,True,4.0,4.0,1.0,1
 2026-05-01,2,Juan Soto,Walbert Ureña,75.8094651298,"Hit, 1-3",@LAA,665742,700712,824041,True,3.0,1.0,1.0,1
 2026-05-01,3,Ozzie Albies,Jose Quintana,75.00785471014892,"Hit, 1-4",@COL,645277,500779,824366,True,4.0,1.0,1.0,1
