@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-03,1,Ozzie Albies,Kyle Freeland,76.47647659768272,"Hit, 2-3",@COL,645277,607536,824364,True,3.0,2.0,2.0,1
+2026-05-03,2,Freddie Freeman,Dustin May,75.2238235845703,"Hit, 2-5",@STL,518692,669160,823065,True,5.0,2.0,0.0,1
+2026-05-03,3,Ildemaro Vargas,Matthew Boyd,75.02470692482848,"Hit, 1-4",@CHC,545121,571510,824687,True,4.0,1.0,0.0,1
+2026-05-03,4,Matt Olson,Kyle Freeland,74.56179076833772,"Hit, 2-4",@COL,621566,607536,824364,True,4.0,2.0,1.0,1
+2026-05-03,5,Otto Lopez,Jesús Luzardo,74.47133012178855,"Hit, 2-4",MIA,672640,666200,823875,True,4.0,2.0,0.0,1
+2026-05-03,6,Ronald Acuna Jr.,Kyle Freeland,74.34981807189514,Did Not Start,@COL,660670,607536,824364,,,,,2
+2026-05-03,7,Brice Turang,Zack Littell,74.06032937467805,Did Not Start,@WSH,668930,641793,822742,,,,,2
+2026-05-03,8,Yandy Diaz,Tyler Mahle,73.9021316772525,Did Not Start,TB,650490,641816,822987,,,,,2
+2026-05-03,9,Juan Soto,Jack Kochanowicz,73.77398564098378,"No Hit, 0-5",@LAA,665742,686799,824043,True,5.0,0.0,0.0,0
+2026-05-03,10,Trea Turner,Chris Paddack,73.69956956800125,"Hit, 1-5",@MIA,607208,663978,823875,True,5.0,1.0,0.0,1
 2026-05-02,1,Matt Olson,Chase Dollander,75.66811042248686,"Hit, 1-5",@COL,621566,801403,824365,True,5.0,1.0,0.0,1
 2026-05-02,2,Xavier Edwards,Andrew Painter,74.45968372089538,"Hit, 2-4",MIA,669364,691725,823876,True,4.0,2.0,0.0,1
 2026-05-02,3,Elly De La Cruz,Carmen Mlodzinski,73.11608724995862,"Hit, 1-2",@PIT,682829,669387,823388,True,2.0,1.0,1.0,1
