@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-04,1,Juan Soto,Tomoyuki Sugano,77.86329582354558,"No Hit, 0-3",@COL,665742,608372,824363,True,3.0,0.0,1.0,0
+2026-05-04,2,Yandy Diaz,Eric Lauer,75.9197967612841,"No Hit, 0-4",TB,650490,641778,822984,True,4.0,0.0,0.0,0
+2026-05-04,3,Xavier Edwards,Aaron Nola,74.68462937613796,"Hit, 1-4",MIA,669364,605400,823874,True,4.0,1.0,0.0,1
+2026-05-04,4,Bo Bichette,Tomoyuki Sugano,74.53267378712903,"No Hit, 0-4",@COL,666182,608372,824363,True,4.0,0.0,0.0,0
+2026-05-04,5,Matt Olson,Logan Gilbert,73.80340214331368,"Hit, 1-3",@SEA,621566,669302,823143,True,3.0,1.0,1.0,1
+2026-05-04,6,Bobby Witt Jr.,Tanner Bibee,73.11293621068188,"Hit, 1-4",KC,677951,676440,824120,True,4.0,1.0,0.0,1
+2026-05-04,7,Brice Turang,Kyle Leahy,72.93505224914227,"Hit, 3-5",@STL,668930,681517,823064,True,5.0,3.0,0.0,1
+2026-05-04,8,William Contreras,Kyle Leahy,72.55418840202015,"Hit, 1-5",@STL,661388,681517,823064,True,5.0,1.0,0.0,1
+2026-05-04,9,Otto Lopez,Aaron Nola,72.39787266961356,"Hit, 1-4",MIA,672640,605400,823874,True,4.0,1.0,0.0,1
+2026-05-04,10,Luis Arraez,Randy Vásquez,71.43047287421669,"Hit, 2-3",SF,650333,681190,823228,True,3.0,2.0,0.0,1
 2026-05-03,1,Ozzie Albies,Kyle Freeland,76.47647659768272,"Hit, 2-3",@COL,645277,607536,824364,True,3.0,2.0,2.0,1
 2026-05-03,2,Freddie Freeman,Dustin May,75.2238235845703,"Hit, 2-5",@STL,518692,669160,823065,True,5.0,2.0,0.0,1
 2026-05-03,3,Ildemaro Vargas,Matthew Boyd,75.02470692482848,"Hit, 1-4",@CHC,545121,571510,824687,True,4.0,1.0,0.0,1
