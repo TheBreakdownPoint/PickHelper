@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-05,1,Juan Soto,Michael Lorenzen,79.24384437696482,Did Not Start,@COL,665742,547179,824362,,,,,2
+2026-05-05,2,Bo Bichette,Michael Lorenzen,77.40688460653445,Did Not Start,@COL,666182,547179,824362,,,,,2
+2026-05-05,3,Xavier Edwards,Chris Bassitt,75.79770396535193,"Hit, 1-3",MIA,669364,605135,823873,True,3.0,1.0,2.0,1
+2026-05-05,4,Nico Hoerner,Andrew Abbott,75.40540215127017,"Hit, 1-3",CHC,663538,671096,824682,True,3.0,1.0,2.0,1
+2026-05-05,5,Ildemaro Vargas,Bubba Chandler,74.86015015615347,"Hit, 1-5",AZ,545121,696149,825092,True,5.0,1.0,0.0,1
+2026-05-05,6,Mickey Moniak,Freddy Peralta,74.56836297139635,Did Not Start,COL,666160,642547,824362,,,,,2
+2026-05-05,7,Kevin McGonigle,Brayan Bello,74.37012153416025,"No Hit, 0-3",DET,805808,678394,824281,True,3.0,0.0,1.0,0
+2026-05-05,8,Luis Arraez,Walker Buehler,74.07418264299105,Did Not Start,SF,650333,621111,823227,,,,,2
+2026-05-05,9,Matt Olson,George Kirby,73.5135333108642,"Hit, 2-3",@SEA,621566,669923,823142,True,3.0,2.0,1.0,1
+2026-05-05,10,Otto Lopez,Chris Bassitt,73.23910491371127,"Hit, 1-5",MIA,672640,605135,823873,True,5.0,1.0,0.0,1
 2026-05-04,1,Juan Soto,Tomoyuki Sugano,77.86329582354558,"No Hit, 0-3",@COL,665742,608372,824363,True,3.0,0.0,1.0,0
 2026-05-04,2,Yandy Diaz,Eric Lauer,75.9197967612841,"No Hit, 0-4",TB,650490,641778,822984,True,4.0,0.0,0.0,0
 2026-05-04,3,Xavier Edwards,Aaron Nola,74.68462937613796,"Hit, 1-4",MIA,669364,605400,823874,True,4.0,1.0,0.0,1
