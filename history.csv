@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-06,1,Luis Arraez,Matt Waldron,77.58412712572019,Did Not Start,SF,650333,663362,823226,,,,,2
+2026-05-06,2,Yandy Diaz,Patrick Corbin,76.55487002701113,"Hit, 1-4",TB,650490,571578,822985,True,4.0,1.0,0.0,1
+2026-05-06,3,Xavier Edwards,Brandon Young,76.00527254156526,"No Hit, 0-4",MIA,669364,687064,823872,True,4.0,0.0,0.0,0
+2026-05-06,4,Bo Bichette,Jose Quintana,75.46480142996454,"Hit, 2-5",@COL,666182,500779,824361,True,5.0,2.0,0.0,1
+2026-05-06,5,Bobby Witt Jr.,Joey Cantillo,74.64492483622193,"No Hit, 0-4",KC,677951,676282,824118,True,4.0,0.0,0.0,0
+2026-05-06,6,Nico Hoerner,Brady Singer,74.38703333767754,"No Hit, 0-5",CHC,663538,663903,824683,True,5.0,0.0,0.0,0
+2026-05-06,7,William Contreras,Matthew Liberatore,74.26852452908676,"No Hit, 0-4",@STL,661388,669461,823063,True,4.0,0.0,0.0,0
+2026-05-06,8,Ildemaro Vargas,Paul Skenes,73.74898546831008,"No Hit, 0-3",AZ,545121,694973,825091,True,3.0,0.0,0.0,0
+2026-05-06,9,Otto Lopez,Brandon Young,73.1933693347775,Did Not Start,MIA,672640,687064,823872,False,2.0,1.0,0.0,1
+2026-05-06,10,Matt Olson,Bryan Woo,73.05134166158403,"No Hit, 0-3",@SEA,621566,693433,823141,True,3.0,0.0,1.0,0
 2026-05-05,1,Juan Soto,Michael Lorenzen,79.24384437696482,Did Not Start,@COL,665742,547179,824362,,,,,2
 2026-05-05,2,Bo Bichette,Michael Lorenzen,77.40688460653445,Did Not Start,@COL,666182,547179,824362,,,,,2
 2026-05-05,3,Xavier Edwards,Chris Bassitt,75.79770396535193,"Hit, 1-3",MIA,669364,605135,823873,True,3.0,1.0,2.0,1
