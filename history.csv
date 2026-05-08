@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-07,1,Otto Lopez,Cade Povich,75.64980875553468,"Hit, 2-4",MIA,672640,700249,823870,True,4.0,2.0,0.0,1
+2026-05-07,2,Bo Bichette,Jose Quintana,75.49936907176915,"No Hit, 0-3",@COL,666182,500779,824362,True,3.0,0.0,1.0,0
+2026-05-07,3,Ildemaro Vargas,Mitch Keller,74.14394918351312,"Hit, 1-4",AZ,545121,656605,825090,True,4.0,1.0,0.0,1
+2026-05-07,4,Bobby Witt Jr.,Slade Cecconi,73.71839380475443,"Hit, 4-4",KC,677951,677944,824117,True,4.0,4.0,1.0,1
+2026-05-07,5,Mickey Moniak,Christian Scott,72.9115064371279,"No Hit, 0-3",COL,666160,681035,824362,True,3.0,0.0,1.0,0
+2026-05-07,6,Juan Soto,Jose Quintana,72.419375891701,"Hit, 1-4",@COL,665742,500779,824362,True,4.0,1.0,0.0,1
+2026-05-07,7,Oneil Cruz,Zac Gallen,72.16222193273055,"No Hit, 0-3",@AZ,665833,668678,825090,True,3.0,0.0,1.0,0
+2026-05-07,8,Brandon Nimmo,Paul Blackburn,71.7802374834761,"Hit, 2-5",@NYY,607043,621112,823551,True,5.0,2.0,0.0,1
+2026-05-07,9,Xavier Edwards,Cade Povich,71.76660812228228,Did Not Start,MIA,669364,700249,823870,False,1.0,1.0,0.0,1
+2026-05-07,10,Nico Hoerner,Rhett Lowder,70.66925955503778,"Hit, 1-4",CHC,663538,695076,824681,True,4.0,1.0,1.0,1
 2026-05-06,1,Luis Arraez,Matt Waldron,77.58412712572019,Did Not Start,SF,650333,663362,823226,,,,,2
 2026-05-06,2,Yandy Diaz,Patrick Corbin,76.55487002701113,"Hit, 1-4",TB,650490,571578,822985,True,4.0,1.0,0.0,1
 2026-05-06,3,Xavier Edwards,Brandon Young,76.00527254156526,"No Hit, 0-4",MIA,669364,687064,823872,True,4.0,0.0,0.0,0
