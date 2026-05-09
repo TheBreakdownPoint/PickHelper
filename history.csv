@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-08,1,Yandy Diaz,Connelly Early,74.78328775245657,"No Hit, 0-3",@BOS,650490,813349,824768,True,3.0,0.0,0.0,0
+2026-05-08,2,Luis Arraez,Carmen Mlodzinski,74.73422797421418,"Hit, 1-4",SF,650333,669387,823225,True,4.0,1.0,0.0,1
+2026-05-08,3,Juan Soto,Ryne Nelson,73.57183256454134,"No Hit, 0-4",@AZ,665742,669194,825088,True,4.0,0.0,0.0,0
+2026-05-08,4,JJ Bleday,Mike Burrows,73.55688113495613,"No Hit, 0-3",CIN,668709,681347,824522,True,3.0,0.0,1.0,0
+2026-05-08,5,Otto Lopez,Foster Griffin,73.21522464808189,"Hit, 3-4",MIA,672640,656492,823871,True,4.0,3.0,0.0,1
+2026-05-08,6,Nico Hoerner,Kumar Rocker,72.60508050593646,"No Hit, 0-5",@TEX,663538,677958,822904,True,5.0,0.0,0.0,0
+2026-05-08,7,Matt Olson,Emmet Sheehan,72.38717022031375,"No Hit, 0-4",@LAD,621566,686218,823957,True,4.0,0.0,0.0,0
+2026-05-08,8,Shea Langeliers,Kyle Bradish,71.89527792776985,"Hit, 1-5",@BAL,669127,680694,824846,True,5.0,1.0,0.0,1
+2026-05-08,9,Bobby Witt Jr.,Keider Montero,71.81771789293992,"Hit, 1-3",KC,677951,672456,824116,True,3.0,1.0,1.0,1
+2026-05-08,10,Elly De La Cruz,Mike Burrows,71.737718036349,"Hit, 2-4",CIN,682829,681347,824522,True,4.0,2.0,0.0,1
 2026-05-07,1,Otto Lopez,Cade Povich,75.64980875553468,"Hit, 2-4",MIA,672640,700249,823870,True,4.0,2.0,0.0,1
 2026-05-07,2,Bo Bichette,Jose Quintana,75.49936907176915,"No Hit, 0-3",@COL,666182,500779,824362,True,3.0,0.0,1.0,0
 2026-05-07,3,Ildemaro Vargas,Mitch Keller,74.14394918351312,"Hit, 1-4",AZ,545121,656605,825090,True,4.0,1.0,0.0,1
