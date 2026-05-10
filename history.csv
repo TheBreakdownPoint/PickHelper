@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-09,1,Juan Soto,Merrill Kelly,75.68987961388144,"No Hit, 0-3",@AZ,665742,518876,825089,True,3.0,0.0,1.0,0
+2026-05-09,2,Xavier Edwards,Zack Littell,74.57619996322887,"Hit, 1-5",MIA,669364,641793,823869,True,5.0,1.0,0.0,1
+2026-05-09,3,Mickey Moniak,Aaron Nola,74.57174306050452,"No Hit, 0-4",@PHI,666160,605400,823468,True,4.0,0.0,0.0,0
+2026-05-09,4,Ildemaro Vargas,Clay Holmes,72.79674547484616,"Hit, 1-4",AZ,545121,605280,825089,True,4.0,1.0,0.0,1
+2026-05-09,5,Shea Langeliers,Shane Baz,72.77900393438674,"Hit, 2-3",@BAL,669127,669358,824847,True,3.0,2.0,1.0,1
+2026-05-09,6,Otto Lopez,Zack Littell,72.72573812193575,"Hit, 2-5",MIA,672640,641793,823869,True,5.0,2.0,0.0,1
+2026-05-09,7,Trea Turner,Kyle Freeland,72.29485327992658,"Hit, 4-5",PHI,607208,607536,823468,True,5.0,4.0,0.0,1
+2026-05-09,8,Bobby Witt Jr.,Burch Smith,72.03193155344543,"Hit, 1-4",KC,677951,572143,824115,True,4.0,1.0,0.0,1
+2026-05-09,9,Bo Bichette,Merrill Kelly,71.34047069203382,"No Hit, 0-3",@AZ,666182,518876,825089,True,3.0,0.0,1.0,0
+2026-05-09,10,Luis Arraez,Braxton Ashcraft,71.26048124988526,"Hit, 1-4",SF,650333,677952,823224,True,4.0,1.0,0.0,1
 2026-05-08,1,Yandy Diaz,Connelly Early,74.78328775245657,"No Hit, 0-3",@BOS,650490,813349,824768,True,3.0,0.0,0.0,0
 2026-05-08,2,Luis Arraez,Carmen Mlodzinski,74.73422797421418,"Hit, 1-4",SF,650333,669387,823225,True,4.0,1.0,0.0,1
 2026-05-08,3,Juan Soto,Ryne Nelson,73.57183256454134,"No Hit, 0-4",@AZ,665742,669194,825088,True,4.0,0.0,0.0,0
