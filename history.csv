@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-10,1,Xavier Edwards,Cade Cavalli,74.97288053756634,"Hit, 1-4",MIA,669364,676917,823868,True,4.0,1.0,0.0,1
+2026-05-10,2,Shea Langeliers,Chris Bassitt,73.99431356275922,"No Hit, 0-2",@BAL,669127,605135,824845,True,2.0,0.0,1.0,0
+2026-05-10,3,Otto Lopez,Cade Cavalli,73.39055279189918,"No Hit, 0-4",MIA,672640,676917,823868,True,4.0,0.0,0.0,0
+2026-05-10,4,Bobby Witt Jr.,Brenan Hanifee,72.67895657895892,"Hit, 2-4",KC,677951,669724,824113,True,4.0,2.0,0.0,1
+2026-05-10,5,Ildemaro Vargas,Huascar Brazobán,72.60679962621612,"No Hit, 0-3",AZ,545121,623211,825085,True,3.0,0.0,1.0,0
+2026-05-10,6,Yandy Diaz,Payton Tolle,70.5951631828094,"Hit, 1-4",@BOS,650490,801139,824765,True,4.0,1.0,0.0,1
+2026-05-10,7,Bo Bichette,Eduardo Rodríguez,70.52682765223544,"No Hit, 0-3",@AZ,666182,593958,825085,True,3.0,0.0,1.0,0
+2026-05-10,8,Luis Arraez,Bubba Chandler,70.41541795873101,"Hit, 1-4",SF,650333,696149,823221,True,4.0,1.0,2.0,1
+2026-05-10,9,Nick Kurtz,Chris Bassitt,69.90443179730113,"No Hit, 0-3",@BAL,701762,605135,824845,True,3.0,0.0,1.0,0
+2026-05-10,10,Brandon Marsh,Tomoyuki Sugano,69.7963924153736,"Hit, 4-4",PHI,669016,608372,823463,True,4.0,4.0,0.0,1
 2026-05-09,1,Juan Soto,Merrill Kelly,75.68987961388144,"No Hit, 0-3",@AZ,665742,518876,825089,True,3.0,0.0,1.0,0
 2026-05-09,2,Xavier Edwards,Zack Littell,74.57619996322887,"Hit, 1-5",MIA,669364,641793,823869,True,5.0,1.0,0.0,1
 2026-05-09,3,Mickey Moniak,Aaron Nola,74.57174306050452,"No Hit, 0-4",@PHI,666160,605400,823468,True,4.0,0.0,0.0,0
