@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-11,1,Ildemaro Vargas,Nathan Eovaldi,72.74985611368773,"No Hit, 0-4",@TEX,545121,543135,822901,True,4.0,0.0,0.0,0
+2026-05-11,2,Cody Bellinger,Brandon Young,72.43857129078253,"No Hit, 0-2",@BAL,641355,687064,824844,True,2.0,0.0,2.0,0
+2026-05-11,3,Luis Arraez,Roki Sasaki,72.23937632090691,"Hit, 2-6",@LAD,650333,808963,823953,True,6.0,2.0,0.0,1
+2026-05-11,4,Yandy Diaz,Kevin Gausman,70.67418812063492,"No Hit, 0-5",@TOR,650490,592332,822818,True,5.0,0.0,0.0,0
+2026-05-11,5,Yordan Alvarez,George Kirby,69.54676193038864,"Hit, 1-5",HOU,670541,669923,824199,True,5.0,1.0,0.0,1
+2026-05-11,6,Ben Rice,Brandon Young,69.23628249101169,"Hit, 2-4",@BAL,700250,687064,824844,True,4.0,2.0,0.0,1
+2026-05-11,7,Aaron Judge,Brandon Young,68.42834897734356,"Hit, 1-4",@BAL,592450,687064,824844,True,4.0,1.0,0.0,1
+2026-05-11,8,Brandon Nimmo,Michael Soroka,67.86112995087737,"Hit, 1-4",TEX,607043,647336,822901,True,4.0,1.0,0.0,1
+2026-05-11,9,Adley Rutschman,Ryan Weathers,67.75941845135111,"Hit, 1-4",BAL,668939,677960,824844,True,4.0,1.0,0.0,1
+2026-05-11,10,Zach Neto,Joey Cantillo,66.40151121543228,"Hit, 1-5",@CLE,687263,676282,824441,True,5.0,1.0,0.0,1
 2026-05-10,1,Xavier Edwards,Cade Cavalli,74.97288053756634,"Hit, 1-4",MIA,669364,676917,823868,True,4.0,1.0,0.0,1
 2026-05-10,2,Shea Langeliers,Chris Bassitt,73.99431356275922,"No Hit, 0-2",@BAL,669127,605135,824845,True,2.0,0.0,1.0,0
 2026-05-10,3,Otto Lopez,Cade Cavalli,73.39055279189918,"No Hit, 0-4",MIA,672640,676917,823868,True,4.0,0.0,0.0,0
