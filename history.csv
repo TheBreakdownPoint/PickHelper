@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-12,1,Yandy Diaz,Patrick Corbin,74.7231537073945,"No Hit, 0-5",@TOR,650490,571578,822817,True,5.0,0.0,1.0,0
+2026-05-12,2,Matt Olson,Colin Rea,74.05698452366344,"Hit, 1-4",ATL,621566,607067,824927,True,4.0,1.0,0.0,1
+2026-05-12,3,Oneil Cruz,Michael Lorenzen,73.65673169615172,"Hit, 3-4",PIT,665833,547179,823385,True,4.0,3.0,0.0,1
+2026-05-12,4,Elly De La Cruz,Miles Mikolas,72.68308799241885,"Hit, 2-5",CIN,682829,571945,824521,True,5.0,2.0,0.0,1
+2026-05-12,5,Ryan O'Hearn,Michael Lorenzen,72.08464989936634,"No Hit, 0-4",PIT,656811,547179,823385,True,4.0,0.0,0.0,0
+2026-05-12,6,Ozzie Albies,Colin Rea,72.05734432584073,"No Hit, 0-3",ATL,645277,607067,824927,True,3.0,0.0,1.0,0
+2026-05-12,7,Xavier Edwards,Bailey Ober,72.03787931672744,"No Hit, 0-4",@MIN,669364,641927,823712,True,4.0,0.0,0.0,0
+2026-05-12,8,Shea Langeliers,Andre Pallante,71.52743472455926,"Hit, 2-4",OAK,669127,669467,825011,True,4.0,2.0,0.0,1
+2026-05-12,9,Ivan Herrera,Jeffrey Springs,71.5207580641128,"Hit, 2-5",@OAK,671056,605488,825011,True,5.0,2.0,0.0,1
+2026-05-12,10,Brandon Lowe,Michael Lorenzen,71.45125768085306,"Hit, 1-3",PIT,664040,547179,823385,True,3.0,1.0,1.0,1
 2026-05-11,1,Ildemaro Vargas,Nathan Eovaldi,72.74985611368773,"No Hit, 0-4",@TEX,545121,543135,822901,True,4.0,0.0,0.0,0
 2026-05-11,2,Cody Bellinger,Brandon Young,72.43857129078253,"No Hit, 0-2",@BAL,641355,687064,824844,True,2.0,0.0,2.0,0
 2026-05-11,3,Luis Arraez,Roki Sasaki,72.23937632090691,"Hit, 2-6",@LAD,650333,808963,823953,True,6.0,2.0,0.0,1
