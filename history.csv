@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-13,1,Shea Langeliers,Matthew Liberatore,75.89396443433603,"No Hit, 0-4",OAK,669127,669461,825010,True,4.0,0.0,1.0,0
+2026-05-13,2,Ildemaro Vargas,Kumar Rocker,74.03694800594376,"Hit, 1-5",@TEX,545121,677958,822900,True,5.0,1.0,0.0,1
+2026-05-13,3,Brandon Marsh,Sonny Gray,73.8436411267293,"No Hit, 0-3",@BOS,669016,543243,824763,True,3.0,0.0,0.0,0
+2026-05-13,4,Xavier Edwards,Simeon Woods Richardson,73.77253728595782,"Hit, 2-4",@MIN,669364,680573,823710,True,4.0,2.0,1.0,1
+2026-05-13,5,Otto Lopez,Simeon Woods Richardson,72.41281329964701,"Hit, 1-4",@MIN,672640,680573,823710,True,4.0,1.0,1.0,1
+2026-05-13,6,William Contreras,Andrew Painter,72.1111161504842,Did Not Start,BOS,661388,691725,824763,,,,,2
+2026-05-13,7,Elly De La Cruz,Jake Irvin,71.3718942925196,"Hit, 2-5",CIN,682829,663623,824519,True,5.0,2.0,0.0,1
+2026-05-13,8,Wilyer Abreu,Andrew Painter,70.79937571640798,"Hit, 3-4",BOS,677800,691725,824763,True,4.0,3.0,0.0,1
+2026-05-13,9,Bryce Harper,Sonny Gray,70.67008768189889,"No Hit, 0-4",@BOS,547180,543243,824763,True,4.0,0.0,0.0,0
+2026-05-13,10,Mickey Moniak,Mitch Keller,70.28535486326368,"Hit, 3-5",@PIT,666160,656605,823386,True,5.0,3.0,0.0,1
 2026-05-12,1,Yandy Diaz,Patrick Corbin,74.7231537073945,"No Hit, 0-5",@TOR,650490,571578,822817,True,5.0,0.0,1.0,0
 2026-05-12,2,Matt Olson,Colin Rea,74.05698452366344,"Hit, 1-4",ATL,621566,607067,824927,True,4.0,1.0,0.0,1
 2026-05-12,3,Oneil Cruz,Michael Lorenzen,73.65673169615172,"Hit, 3-4",PIT,665833,547179,823385,True,4.0,3.0,0.0,1
