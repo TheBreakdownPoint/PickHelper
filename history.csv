@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-17,1,Ildemaro Vargas,Michael Lorenzen,79.80238824098441,"Hit, 1-5",@COL,545121,547179,824358,True,5.0,1.0,0.0,1
+2026-05-17,2,Mickey Moniak,Michael Soroka,74.57905060659334,"No Hit, 0-4",COL,666160,647336,824358,True,4.0,0.0,1.0,0
+2026-05-17,3,Matt Olson,Brayan Bello,73.80742400774723,"No Hit, 0-3",ATL,621566,678394,824923,True,3.0,0.0,1.0,0
+2026-05-17,4,Bobby Witt Jr.,Andre Pallante,73.49540250188281,"No Hit, 0-4",@STL,677951,669467,823058,True,4.0,0.0,0.0,0
+2026-05-17,5,Ketel Marte,Michael Lorenzen,73.42185644914396,Did Not Start,@COL,606466,547179,824358,,,,,2
+2026-05-17,6,Corbin Carroll,Michael Lorenzen,73.13530486857144,"Hit, 2-4",@COL,682998,547179,824358,True,4.0,2.0,1.0,1
+2026-05-17,7,Drake Baldwin,Brayan Bello,73.04245773408353,"No Hit, 0-2",ATL,686948,678394,824923,True,2.0,0.0,2.0,0
+2026-05-17,8,Shea Langeliers,Adrian Houser,72.5101607433939,Did Not Start,OAK,669127,605288,825006,,,,,2
+2026-05-17,9,Geraldo Perdomo,Michael Lorenzen,71.82843825605649,"Hit, 2-4",@COL,672695,547179,824358,True,4.0,2.0,1.0,1
+2026-05-17,10,Gunnar Henderson,Miles Mikolas,70.14211497019869,"Hit, 4-5",@WSH,683002,571945,822738,True,5.0,4.0,0.0,1
 2026-05-16,1,Ildemaro Vargas,Tomoyuki Sugano,77.25698553588128,"No Hit, 0-4",@COL,545121,608372,824359,True,4.0,0.0,0.0,0
 2026-05-16,2,Bobby Witt Jr.,Kyle Leahy,74.60100433132386,"Hit, 1-3",@STL,677951,681517,823060,True,3.0,1.0,1.0,1
 2026-05-16,3,Luis Arraez,Luis Severino,73.49242456479831,"Hit, 1-3",@OAK,650333,622663,825007,True,3.0,1.0,2.0,1
