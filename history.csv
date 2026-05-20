@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-19,1,William Contreras,Bailey Falter,77.24735484565771,Did Not Start,@KC,661388,663559,824112,,,,,2
+2026-05-19,2,Ceddanne Rafaela,Bailey Falter,74.48187789292459,"Hit, 2-5",@KC,678882,663559,824112,True,5.0,2.0,0.0,1
+2026-05-19,3,Bobby Witt Jr.,Ranger Suarez,73.97513865674031,"Hit, 1-4",KC,677951,624133,824112,True,4.0,1.0,0.0,1
+2026-05-19,4,Mickey Moniak,Kumar Rocker,73.811549773614,"No Hit, 0-3",COL,666160,677958,824356,True,3.0,0.0,0.0,0
+2026-05-19,5,Ronald Acuna Jr.,Braxton Garrett,72.8359038064924,"Hit, 1-4",@MIA,660670,666129,823865,True,4.0,1.0,2.0,1
+2026-05-19,6,Luis Arraez,Ryne Nelson,72.31740842422145,"Hit, 1-5",@AZ,650333,669194,825086,True,5.0,1.0,0.0,1
+2026-05-19,7,Elly De La Cruz,Jesús Luzardo,72.20772343431369,"Hit, 1-3",@PHI,682829,666200,823464,True,3.0,1.0,1.0,1
+2026-05-19,8,Matt Olson,Braxton Garrett,72.14931500952318,"Hit, 2-3",@MIA,621566,666129,823865,True,3.0,2.0,2.0,1
+2026-05-19,9,Ildemaro Vargas,Landen Roupp,72.10438623606562,"Hit, 2-4",AZ,545121,694738,825086,True,4.0,2.0,0.0,1
+2026-05-19,10,Shea Langeliers,Reid Detmers,72.02825377667736,"No Hit, 0-4",@LAA,669127,672282,824033,True,4.0,0.0,2.0,0
 2026-05-18,1,Luis Arraez,Zac Gallen,75.49143582800245,"No Hit, 0-2",@AZ,650333,668678,825087,True,2.0,0.0,0.0,0
 2026-05-18,2,Elly De La Cruz,Andrew Painter,74.30732378251079,"No Hit, 0-3",@PHI,682829,691725,823465,True,3.0,0.0,1.0,0
 2026-05-18,3,Yandy Diaz,Trevor Rogers,74.10665273531342,"Hit, 4-5",TB,650490,669432,822980,True,5.0,4.0,0.0,1
