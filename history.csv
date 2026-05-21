@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-20,1,Ildemaro Vargas,Tyler Mahle,74.33572018469276,"No Hit, 0-4",AZ,545121,641816,825084,True,4.0,0.0,0.0,0
+2026-05-20,2,Bobby Witt Jr.,Connelly Early,74.20143755556664,"Hit, 1-4",KC,677951,813349,824111,True,4.0,1.0,0.0,1
+2026-05-20,3,Juan Soto,Zack Littell,74.20087279365886,"Hit, 2-4",@WSH,665742,641793,822735,True,4.0,2.0,0.0,1
+2026-05-20,4,Luis Arraez,Merrill Kelly,73.93818376692141,"Hit, 1-4",@AZ,650333,518876,825084,True,4.0,1.0,0.0,1
+2026-05-20,5,Matt Olson,Janson Junk,73.68946462812514,"Hit, 1-5",@MIA,621566,676083,823866,True,5.0,1.0,0.0,1
+2026-05-20,6,Josh Jung,Kyle Freeland,73.51911258343581,"Hit, 3-4",@COL,673962,607536,824355,True,4.0,3.0,1.0,1
+2026-05-20,7,Elly De La Cruz,Aaron Nola,73.37215599390355,"No Hit, 0-5",@PHI,682829,605400,823462,True,5.0,0.0,0.0,0
+2026-05-20,8,Yandy Diaz,Shane Baz,73.19485366921785,Did Not Start,TB,650490,669358,822977,,,,,2
+2026-05-20,9,Jake Burger,Kyle Freeland,72.35145395151767,"Hit, 2-5",@COL,669394,607536,824355,True,5.0,2.0,0.0,1
+2026-05-20,10,Xavier Edwards,Chris Sale,71.63367144174498,"Hit, 1-4",MIA,669364,519242,823866,True,4.0,1.0,0.0,1
 2026-05-19,1,William Contreras,Bailey Falter,77.24735484565771,Did Not Start,@KC,661388,663559,824112,,,,,2
 2026-05-19,2,Ceddanne Rafaela,Bailey Falter,74.48187789292459,"Hit, 2-5",@KC,678882,663559,824112,True,5.0,2.0,0.0,1
 2026-05-19,3,Bobby Witt Jr.,Ranger Suarez,73.97513865674031,"Hit, 1-4",KC,677951,624133,824112,True,4.0,1.0,0.0,1
