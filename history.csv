@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-21,1,Juan Soto,Cade Cavalli,74.94730031348658,"No Hit, 0-3",@WSH,665742,676917,822733,True,3.0,0.0,1.0,0
+2026-05-21,2,Ildemaro Vargas,Zach Agnos,74.48851075804072,"No Hit, 0-3",AZ,545121,688642,825083,True,3.0,0.0,1.0,0
+2026-05-21,3,Matt Olson,Sandy Alcantara,72.63422786955591,"No Hit, 0-5",@MIA,621566,645261,823864,True,5.0,0.0,0.0,0
+2026-05-21,4,Oneil Cruz,Dustin May,71.22481363699164,"Hit, 1-5",@STL,665833,669160,823056,True,5.0,1.0,0.0,1
+2026-05-21,5,Xavier Edwards,Spencer Strider,70.04388494914222,"Hit, 1-4",MIA,669364,675911,823864,True,4.0,1.0,0.0,1
+2026-05-21,6,Brandon Lowe,Dustin May,68.0159503533821,"Hit, 2-4",@STL,664040,669160,823056,True,4.0,2.0,1.0,1
+2026-05-21,7,Ketel Marte,Zach Agnos,67.6999373412982,"Hit, 2-4",AZ,606466,688642,825083,True,4.0,2.0,1.0,1
+2026-05-21,8,Bo Bichette,Cade Cavalli,67.67523822539577,"Hit, 1-4",@WSH,666182,676917,822733,True,4.0,1.0,0.0,1
+2026-05-21,9,Corbin Carroll,Zach Agnos,67.580263018293,"Hit, 1-5",AZ,682998,688642,825083,True,5.0,1.0,0.0,1
+2026-05-21,10,Alec Burleson,Braxton Ashcraft,67.45275994312813,"Hit, 2-4",STL,676475,677952,823056,True,4.0,2.0,0.0,1
 2026-05-20,1,Ildemaro Vargas,Tyler Mahle,74.33572018469276,"No Hit, 0-4",AZ,545121,641816,825084,True,4.0,0.0,0.0,0
 2026-05-20,2,Bobby Witt Jr.,Connelly Early,74.20143755556664,"Hit, 1-4",KC,677951,813349,824111,True,4.0,1.0,0.0,1
 2026-05-20,3,Juan Soto,Zack Littell,74.20087279365886,"Hit, 2-4",@WSH,665742,641793,822735,True,4.0,2.0,0.0,1
