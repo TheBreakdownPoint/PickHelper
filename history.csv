@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-22,1,Xavier Edwards,Tobias Myers,75.49571888911974,"No Hit, 0-4",MIA,669364,668964,823863,True,4.0,0.0,0.0,0
+2026-05-22,2,Ildemaro Vargas,Tomoyuki Sugano,73.44629968281622,"No Hit, 0-4",AZ,545121,608372,825082,True,4.0,0.0,0.0,0
+2026-05-22,3,Matt Olson,Miles Mikolas,73.32980190194036,"No Hit, 0-5",ATL,621566,571945,824922,True,5.0,0.0,0.0,0
+2026-05-22,4,Luis Arraez,Davis Martin,72.35664421536588,"Hit, 2-5",SF,650333,663436,823223,True,5.0,2.0,0.0,1
+2026-05-22,5,Riley Greene,Chris Bassitt,72.30109279627179,"Hit, 1-4",@BAL,682985,605135,824842,True,4.0,1.0,0.0,1
+2026-05-22,6,Alec Burleson,Chris Paddack,72.05986113787695,Did Not Start,@CIN,676475,663978,824518,,,,,2
+2026-05-22,7,Bobby Witt Jr.,Logan Gilbert,71.93978737503069,"No Hit, 0-4",KC,677951,669302,824110,True,4.0,0.0,0.0,0
+2026-05-22,8,Kevin McGonigle,Chris Bassitt,71.32062495135942,"Hit, 1-4",@BAL,805808,605135,824842,True,4.0,1.0,0.0,1
+2026-05-22,9,Julio Rodriguez,Noah Cameron,71.21931182429547,"Hit, 2-4",@KC,677594,702070,824110,True,4.0,2.0,0.0,1
+2026-05-22,10,Elly De La Cruz,Kyle Leahy,70.99272760344829,Did Not Start,CIN,682829,681517,824518,,,,,2
 2026-05-21,1,Juan Soto,Cade Cavalli,74.94730031348658,"No Hit, 0-3",@WSH,665742,676917,822733,True,3.0,0.0,1.0,0
 2026-05-21,2,Ildemaro Vargas,Zach Agnos,74.48851075804072,"No Hit, 0-3",AZ,545121,688642,825083,True,3.0,0.0,1.0,0
 2026-05-21,3,Matt Olson,Sandy Alcantara,72.63422786955591,"No Hit, 0-5",@MIA,621566,645261,823864,True,5.0,0.0,0.0,0
