@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-23,1,Ildemaro Vargas,Michael Lorenzen,75.35062278967594,"No Hit, 0-3",AZ,545121,547179,825080,True,3.0,0.0,1.0,0
+2026-05-23,2,Ketel Marte,Michael Lorenzen,72.80183643081985,"Hit, 3-4",AZ,606466,547179,825080,True,4.0,3.0,1.0,1
+2026-05-23,3,Bobby Witt Jr.,George Kirby,72.21446879129329,"Hit, 2-4",KC,677951,669923,824109,True,4.0,2.0,0.0,1
+2026-05-23,4,Xavier Edwards,Freddy Peralta,71.9776590987803,"Hit, 1-4",MIA,669364,642547,823862,True,4.0,1.0,0.0,1
+2026-05-23,5,Corbin Carroll,Michael Lorenzen,71.96148311742067,"Hit, 1-5",AZ,682998,547179,825080,True,5.0,1.0,0.0,1
+2026-05-23,6,Alec Burleson,Chris Paddack,71.9461476905629,"Hit, 2-4",@CIN,676475,663978,824518,True,4.0,2.0,1.0,1
+2026-05-23,7,Jeremy Pena,Colin Rea,71.80297231993833,"No Hit, 0-4",@CHC,665161,607067,824674,True,4.0,0.0,0.0,0
+2026-05-23,8,Brandon Marsh,Slade Cecconi,71.63950234049878,"No Hit, 0-3",PHI,669016,677944,823458,True,3.0,0.0,1.0,0
+2026-05-23,9,Riley Greene,Brandon Young,71.62943138027816,Did Not Start,@BAL,682985,687064,824840,,,,,2
+2026-05-23,10,Matt Olson,Jake Irvin,71.40660675615305,"No Hit, 0-3",ATL,621566,663623,824920,True,3.0,0.0,1.0,0
 2026-05-22,1,Xavier Edwards,Tobias Myers,75.49571888911974,"No Hit, 0-4",MIA,669364,668964,823863,True,4.0,0.0,0.0,0
 2026-05-22,2,Ildemaro Vargas,Tomoyuki Sugano,73.44629968281622,"No Hit, 0-4",AZ,545121,608372,825082,True,4.0,0.0,0.0,0
 2026-05-22,3,Matt Olson,Miles Mikolas,73.32980190194036,"No Hit, 0-5",ATL,621566,571945,824922,True,5.0,0.0,0.0,0
