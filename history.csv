@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-24,1,Xavier Edwards,Christian Scott,73.47237855038402,"Hit, 2-3",MIA,669364,681035,823861,True,3.0,2.0,2.0,1
+2026-05-24,2,Yandy Diaz,Ryan Weathers,72.76283862270434,"Hit, 2-4",@NYY,650490,677960,823544,True,4.0,2.0,0.0,1
+2026-05-24,3,Alec Burleson,Brady Singer,72.16149866068203,Did Not Start,@CIN,676475,663903,824514,,,,,2
+2026-05-24,4,Riley Greene,Brandon Young,71.42615149556772,"No Hit, 0-4",@BAL,682985,687064,824839,True,4.0,0.0,0.0,0
+2026-05-24,5,Ildemaro Vargas,Jose Quintana,70.81288906730475,"No Hit, 0-3",AZ,545121,500779,825081,True,3.0,0.0,0.0,0
+2026-05-24,6,Ivan Herrera,Brady Singer,70.77034283945363,Did Not Start,@CIN,671056,663903,824514,,,,,2
+2026-05-24,7,Kevin McGonigle,Brandon Young,70.6924618472551,"Hit, 1-5",@BAL,805808,687064,824839,True,5.0,1.0,0.0,1
+2026-05-24,8,Bobby Witt Jr.,Bryan Woo,70.0243164292205,"Hit, 1-5",KC,677951,693433,824108,True,5.0,1.0,0.0,1
+2026-05-24,9,Ketel Marte,Jose Quintana,69.6384932306646,"Hit, 3-4",AZ,606466,500779,825081,True,4.0,3.0,0.0,1
+2026-05-24,10,Jeremy Pena,Shota Imanaga,69.62146760612022,"Hit, 1-4",@CHC,665161,684007,824676,True,4.0,1.0,0.0,1
 2026-05-23,1,Ildemaro Vargas,Michael Lorenzen,75.35062278967594,"No Hit, 0-3",AZ,545121,547179,825080,True,3.0,0.0,1.0,0
 2026-05-23,2,Ketel Marte,Michael Lorenzen,72.80183643081985,"Hit, 3-4",AZ,606466,547179,825080,True,4.0,3.0,1.0,1
 2026-05-23,3,Bobby Witt Jr.,George Kirby,72.21446879129329,"Hit, 2-4",KC,677951,669923,824109,True,4.0,2.0,0.0,1
