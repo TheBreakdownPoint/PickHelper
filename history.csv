@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-25,1,Jackson Chourio,Matthew Liberatore,73.80100549322117,"No Hit, 0-3",MIL,694192,669461,823784,True,3.0,0.0,1.0,0
+2026-05-25,2,Luis Arraez,Merrill Kelly,72.8285365840028,"Hit, 1-4",SF,650333,518876,823219,True,4.0,1.0,0.0,1
+2026-05-25,3,Bobby Witt Jr.,Will Warren,72.02355081627275,"Hit, 1-4",KC,677951,701542,824107,True,4.0,1.0,0.0,1
+2026-05-25,4,William Contreras,Matthew Liberatore,71.9861886779334,"Hit, 1-3",MIL,661388,669461,823784,True,3.0,1.0,1.0,1
+2026-05-25,5,Xavier Edwards,Trey Yesavage,71.56864156668262,"Hit, 1-5",@TOR,669364,702056,822812,True,5.0,1.0,0.0,1
+2026-05-25,6,Shohei Ohtani,Tanner Gordon,71.3994864448135,"Hit, 1-3",LAD,660271,685299,823948,True,3.0,1.0,1.0,1
+2026-05-25,7,Freddie Freeman,Tanner Gordon,70.76018912489641,"Hit, 1-4",LAD,518692,685299,823948,True,4.0,1.0,0.0,1
+2026-05-25,8,Nico Hoerner,Carmen Mlodzinski,70.15488723433467,Did Not Start,@PIT,663538,669387,823380,False,1.0,0.0,0.0,2
+2026-05-25,9,Byron Buxton,Anthony Kay,69.7415246344493,"Hit, 1-3",@CWS,621439,641743,824598,True,3.0,1.0,1.0,1
+2026-05-25,10,Jeremy Pena,Kumar Rocker,69.5799190900834,"Hit, 1-2",@TEX,665161,677958,822899,True,2.0,1.0,0.0,1
 2026-05-24,1,Xavier Edwards,Christian Scott,73.47237855038402,"Hit, 2-3",MIA,669364,681035,823861,True,3.0,2.0,2.0,1
 2026-05-24,2,Yandy Diaz,Ryan Weathers,72.76283862270434,"Hit, 2-4",@NYY,650490,677960,823544,True,4.0,2.0,0.0,1
 2026-05-24,3,Alec Burleson,Brady Singer,72.16149866068203,Did Not Start,@CIN,676475,663903,824514,,,,,2
