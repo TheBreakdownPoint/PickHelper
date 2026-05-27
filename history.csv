@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-26,1,Aaron Judge,Bailey Falter,74.4972126750643,"Hit, 2-3",@KC,592450,663559,824106,True,3.0,2.0,2.0,1
+2026-05-26,2,Cody Bellinger,Bailey Falter,71.6022562480642,"Hit, 2-5",@KC,641355,663559,824106,True,5.0,2.0,0.0,1
+2026-05-26,3,Ketel Marte,Tyler Mahle,70.98314743888356,"Hit, 1-5",@SF,606466,641816,823216,True,5.0,1.0,0.0,1
+2026-05-26,4,Amed Rosario,Bailey Falter,70.33417954402337,"Hit, 4-6",@KC,642708,663559,824106,True,6.0,4.0,0.0,1
+2026-05-26,5,Corbin Carroll,Tyler Mahle,70.02177958098207,"No Hit, 0-3",@SF,682998,641816,823216,True,3.0,0.0,2.0,0
+2026-05-26,6,Yandy Diaz,Shane Baz,69.99012001162403,"Hit, 1-4",@BAL,650490,669358,824837,True,4.0,1.0,0.0,1
+2026-05-26,7,Paul Goldschmidt,Bailey Falter,69.95629899901527,"Hit, 2-6",@KC,502671,663559,824106,True,6.0,2.0,0.0,1
+2026-05-26,8,Chandler Simpson,Shane Baz,69.72024365565667,"Hit, 2-4",@BAL,802415,669358,824837,True,4.0,2.0,0.0,1
+2026-05-26,9,Junior Caminero,Shane Baz,69.52795435421348,"Hit, 1-3",@BAL,691406,669358,824837,True,3.0,1.0,1.0,1
+2026-05-26,10,Bobby Witt Jr.,Cam Schlittler,69.09585890150419,"Hit, 1-3",KC,677951,693645,824106,True,3.0,1.0,0.0,1
 2026-05-25,1,Jackson Chourio,Matthew Liberatore,73.80100549322117,"No Hit, 0-3",MIL,694192,669461,823784,True,3.0,0.0,1.0,0
 2026-05-25,2,Luis Arraez,Merrill Kelly,72.8285365840028,"Hit, 1-4",SF,650333,518876,823219,True,4.0,1.0,0.0,1
 2026-05-25,3,Bobby Witt Jr.,Will Warren,72.02355081627275,"Hit, 1-4",KC,677951,701542,824107,True,4.0,1.0,0.0,1
