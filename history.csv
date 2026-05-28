@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-27,1,Xavier Edwards,Kevin Gausman,72.24028909663758,"Hit, 3-3",@TOR,669364,592332,822809,True,3.0,3.0,1.0,1
+2026-05-27,2,Yandy Diaz,Unknown,71.5597176284445,"No Hit, 0-1",@BAL,650490,99999999,824836,True,1.0,0.0,2.0,0
+2026-05-27,3,Luis Arraez,Michael Soroka,71.4462902162671,"Hit, 3-4",SF,650333,647336,823217,True,4.0,3.0,0.0,1
+2026-05-27,4,Julio Rodriguez,Jeffrey Springs,70.71606580415644,"Hit, 1-5",@OAK,677594,605488,825003,True,5.0,1.0,0.0,1
+2026-05-27,5,Aaron Judge,Noah Cameron,70.20410027384467,"No Hit, 0-3",@KC,592450,702070,824104,True,3.0,0.0,0.0,0
+2026-05-27,6,Ketel Marte,Trevor McDonald,69.74091882739626,"Hit, 2-5",@SF,606466,686790,823217,True,5.0,2.0,0.0,1
+2026-05-27,7,Brandon Marsh,Walker Buehler,69.71272954897752,Did Not Start,@SD,669016,621111,823295,,,,,2
+2026-05-27,8,Jackson Chourio,Dustin May,69.22976628755086,"No Hit, 0-4",MIL,694192,669160,823783,True,4.0,0.0,0.0,0
+2026-05-27,9,William Contreras,Dustin May,69.10574540810983,"No Hit, 0-3",MIL,661388,669160,823783,True,3.0,0.0,0.0,0
+2026-05-27,10,Junior Caminero,Unknown,68.33432006711848,"No Hit, 0-3",@BAL,691406,99999999,824836,True,3.0,0.0,0.0,0
 2026-05-26,1,Aaron Judge,Bailey Falter,74.4972126750643,"Hit, 2-3",@KC,592450,663559,824106,True,3.0,2.0,2.0,1
 2026-05-26,2,Cody Bellinger,Bailey Falter,71.6022562480642,"Hit, 2-5",@KC,641355,663559,824106,True,5.0,2.0,0.0,1
 2026-05-26,3,Ketel Marte,Tyler Mahle,70.98314743888356,"Hit, 1-5",@SF,606466,641816,823216,True,5.0,1.0,0.0,1
