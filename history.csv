@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-28,1,Jeremy Pena,Nathan Eovaldi,69.00408552311966,"Hit, 2-4",@TEX,665161,543135,822896,True,4.0,2.0,0.0,1
+2026-05-28,2,Oneil Cruz,Colin Rea,68.99118316704399,"No Hit, 0-3",PIT,665833,607067,823378,True,3.0,0.0,1.0,0
+2026-05-28,3,Brandon Lowe,Colin Rea,68.31831034408607,"No Hit, 0-3",PIT,664040,607067,823378,True,3.0,0.0,0.0,0
+2026-05-28,4,William Contreras,Chris Sale,67.7670634807011,Did Not Start,BOS,661388,519242,824757,,,,,2
+2026-05-28,5,Ernie Clement,Chris Bassitt,67.53056941847177,"Hit, 1-4",@BAL,676391,605135,824834,True,4.0,1.0,0.0,1
+2026-05-28,6,Yordan Alvarez,Nathan Eovaldi,67.50434593693835,"No Hit, 0-3",@TEX,670541,543135,822896,True,3.0,0.0,1.0,0
+2026-05-28,7,Jesus Sanchez,Chris Bassitt,66.94329219231547,"Hit, 1-2",@BAL,660821,605135,824834,True,2.0,1.0,0.0,1
+2026-05-28,8,Daulton Varsho,Chris Bassitt,66.93915645538982,"No Hit, 0-3",@BAL,662139,605135,824834,True,3.0,0.0,1.0,0
+2026-05-28,9,Ceddanne Rafaela,Chris Sale,66.69072130770965,"Hit, 1-5",BOS,678882,519242,824757,True,5.0,1.0,0.0,1
+2026-05-28,10,Taylor Ward,Patrick Corbin,66.68596284000698,"Hit, 2-3",BAL,621493,571578,824834,True,3.0,2.0,1.0,1
 2026-05-27,1,Xavier Edwards,Kevin Gausman,72.24028909663758,"Hit, 3-3",@TOR,669364,592332,822809,True,3.0,3.0,1.0,1
 2026-05-27,2,Yandy Diaz,Unknown,71.5597176284445,"No Hit, 0-1",@BAL,650490,99999999,824836,True,1.0,0.0,2.0,0
 2026-05-27,3,Luis Arraez,Michael Soroka,71.4462902162671,"Hit, 3-4",SF,650333,647336,823217,True,4.0,3.0,0.0,1
