@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-05-29,1,Luis Arraez,Michael Lorenzen,79.14172972952491,"Hit, 2-4",@COL,650333,547179,824353,True,4.0,2.0,0.0,1
+2026-05-29,2,Rafael Devers,Michael Lorenzen,74.18366756187831,"Hit, 2-4",@COL,646240,547179,824353,True,4.0,2.0,1.0,1
+2026-05-29,3,Ernie Clement,Trevor Rogers,72.85678446138921,"Hit, 1-4",@BAL,676391,669432,824835,True,4.0,1.0,0.0,1
+2026-05-29,4,Matt Olson,Chris Paddack,72.74713754781868,"Hit, 2-5",@CIN,621566,663978,824515,True,5.0,2.0,0.0,1
+2026-05-29,5,Bobby Witt Jr.,MacKenzie Gore,72.2095595445706,"No Hit, 0-4",@TEX,677951,669022,822894,True,4.0,0.0,0.0,0
+2026-05-29,6,Casey Schmitt,Michael Lorenzen,72.17238375007358,"Hit, 1-5",@COL,669477,547179,824353,True,5.0,1.0,0.0,1
+2026-05-29,7,Willy Adames,Michael Lorenzen,72.11693158152201,"No Hit, 0-4",@COL,642715,547179,824353,True,4.0,0.0,0.0,0
+2026-05-29,8,Ozzie Albies,Chris Paddack,70.77137819095606,"Hit, 1-5",@CIN,645277,663978,824515,True,5.0,1.0,0.0,1
+2026-05-29,9,Ketel Marte,George Kirby,70.19667991565517,"No Hit, 0-4",@SEA,606466,669923,823135,True,4.0,0.0,2.0,0
+2026-05-29,10,Xavier Edwards,Freddy Peralta,70.11476295385745,"Hit, 2-4",@NYM,669364,642547,823623,True,4.0,2.0,1.0,1
 2026-05-28,1,Jeremy Pena,Nathan Eovaldi,69.00408552311966,"Hit, 2-4",@TEX,665161,543135,822896,True,4.0,2.0,0.0,1
 2026-05-28,2,Oneil Cruz,Colin Rea,68.99118316704399,"No Hit, 0-3",PIT,665833,607067,823378,True,3.0,0.0,1.0,0
 2026-05-28,3,Brandon Lowe,Colin Rea,68.31831034408607,"No Hit, 0-3",PIT,664040,607067,823378,True,3.0,0.0,0.0,0
