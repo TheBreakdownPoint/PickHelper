@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-02,1,Xavier Edwards,Miles Mikolas,77.1019565325309,"No Hit, 0-3",@WSH,669364,571945,822728,True,3.0,0.0,1.0,0
+2026-06-02,2,Bobby Witt Jr.,Andrew Abbott,74.37047346434272,"No Hit, 0-3",@CIN,677951,671096,824511,True,3.0,0.0,2.0,0
+2026-06-02,3,Maikel Garcia,Andrew Abbott,71.4399022354401,Did Not Start,@CIN,672580,671096,824511,,,,,2
+2026-06-02,4,Spencer Horwitz,Mike Burrows,70.25922953378627,"No Hit, 0-4",@HOU,687462,681347,824189,True,4.0,0.0,1.0,0
+2026-06-02,5,Shohei Ohtani,Michael Soroka,70.20426441476309,"Hit, 2-4",@AZ,660271,647336,825079,True,4.0,2.0,1.0,1
+2026-06-02,6,Matt Olson,Kevin Gausman,69.5325232163647,"Hit, 2-4",ATL,621566,592332,824918,True,4.0,2.0,0.0,1
+2026-06-02,7,Otto Lopez,Miles Mikolas,69.46084513324536,"Hit, 2-5",@WSH,672640,571945,822728,True,5.0,2.0,0.0,1
+2026-06-02,8,Brandon Marsh,Randy Vásquez,69.40202179162624,"Hit, 4-4",PHI,669016,681190,823460,True,4.0,4.0,0.0,1
+2026-06-02,9,Junior Caminero,Jack Flaherty,69.32832018095351,"Hit, 1-4",TB,691406,656427,822971,True,4.0,1.0,0.0,1
+2026-06-02,10,Freddie Freeman,Michael Soroka,69.3067469425142,"Hit, 3-5",@AZ,518692,647336,825079,True,5.0,3.0,0.0,1
 2026-05-29,1,Luis Arraez,Michael Lorenzen,79.14172972952491,"Hit, 2-4",@COL,650333,547179,824353,True,4.0,2.0,0.0,1
 2026-05-29,2,Rafael Devers,Michael Lorenzen,74.18366756187831,"Hit, 2-4",@COL,646240,547179,824353,True,4.0,2.0,1.0,1
 2026-05-29,3,Ernie Clement,Trevor Rogers,72.85678446138921,"Hit, 1-4",@BAL,676391,669432,824835,True,4.0,1.0,0.0,1
