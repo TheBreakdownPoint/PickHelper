@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-03,1,Xavier Edwards,Andrew Alvarez,72.96523129671777,"Hit, 2-5",@WSH,669364,674841,822727,True,5.0,2.0,0.0,1
+2026-06-03,2,Freddie Freeman,Zac Gallen,72.00285378685527,"Hit, 2-6",@AZ,518692,668678,825077,True,6.0,2.0,0.0,1
+2026-06-03,3,Jarren Duran,Chris Bassitt,70.31769053642789,"Hit, 1-5",BOS,680776,605135,824755,True,5.0,1.0,0.0,1
+2026-06-03,4,Otto Lopez,Andrew Alvarez,70.28317501319192,"Hit, 1-5",@WSH,672640,674841,822727,True,5.0,1.0,0.0,1
+2026-06-03,5,Kevin McGonigle,Nick Martinez,70.02157194177978,"Hit, 2-5",@TB,805808,607259,822973,True,5.0,2.0,0.0,1
+2026-06-03,6,Ronald Acuna Jr.,Patrick Corbin,69.91765578211108,"Hit, 1-4",ATL,660670,571578,824917,True,4.0,1.0,0.0,1
+2026-06-03,7,Wilyer Abreu,Chris Bassitt,69.84178555140569,"Hit, 2-5",BOS,677800,605135,824755,True,5.0,2.0,0.0,1
+2026-06-03,8,Riley Greene,Nick Martinez,69.70846569946157,"Hit, 2-4",@TB,682985,607259,822973,True,4.0,2.0,1.0,1
+2026-06-03,9,Brandon Marsh,Walker Buehler,69.6736783590378,"Hit, 2-4",PHI,669016,621111,823456,True,4.0,2.0,0.0,1
+2026-06-03,10,Nico Hoerner,Jeffrey Springs,69.44381373149778,"Hit, 1-5",CHC,663538,605488,824671,True,5.0,1.0,0.0,1
 2026-06-02,1,Xavier Edwards,Miles Mikolas,77.1019565325309,"No Hit, 0-3",@WSH,669364,571945,822728,True,3.0,0.0,1.0,0
 2026-06-02,2,Bobby Witt Jr.,Andrew Abbott,74.37047346434272,"No Hit, 0-3",@CIN,677951,671096,824511,True,3.0,0.0,2.0,0
 2026-06-02,3,Maikel Garcia,Andrew Abbott,71.4399022354401,Did Not Start,@CIN,672580,671096,824511,,,,,2
