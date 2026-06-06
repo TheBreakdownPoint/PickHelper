@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-05,1,Junior Caminero,Ryan Gusto,75.82124953095658,"Hit, 3-3",@MIA,691406,687473,823860,True,3.0,3.0,2.0,1
+2026-06-05,2,Jackson Chourio,Ryan Feltner,75.064082989825,"No Hit, 0-5",@COL,694192,663372,824350,True,5.0,0.0,0.0,0
+2026-06-05,3,Chandler Simpson,Ryan Gusto,74.76339656193784,"No Hit, 0-2",@MIA,802415,687473,823860,True,2.0,0.0,0.0,0
+2026-06-05,4,Yandy Diaz,Ryan Gusto,74.37098704658574,"Hit, 3-5",@MIA,650490,687473,823860,True,5.0,3.0,0.0,1
+2026-06-05,5,Luis Arraez,Edward Cabrera,72.95437253402565,"Hit, 2-5",@CHC,650333,665795,824673,True,5.0,2.0,0.0,1
+2026-06-05,6,Jonathan Aranda,Ryan Gusto,72.75446005852105,"Hit, 1-3",@MIA,666018,687473,823860,True,3.0,1.0,2.0,1
+2026-06-05,7,Xavier Edwards,Drew Rasmussen,72.61172468686503,"No Hit, 0-3",MIA,669364,656876,823860,True,3.0,0.0,0.0,0
+2026-06-05,8,Bobby Witt Jr.,Zebby Matthews,72.49781789432143,"Hit, 1-3",@MIN,677951,805673,823699,True,3.0,1.0,1.0,1
+2026-06-05,9,Alec Burleson,Brady Singer,71.68648734097265,"Hit, 2-4",STL,676475,663903,823049,True,4.0,2.0,1.0,1
+2026-06-05,10,Brice Turang,Ryan Feltner,71.67077533074279,"Hit, 1-4",@COL,668930,663372,824350,True,4.0,1.0,1.0,1
 2026-06-04,1,Jeremy Pena,Jared Jones,76.06600222505942,"Hit, 2-4",HOU,665161,683003,824185,True,4.0,2.0,0.0,1
 2026-06-04,2,Yordan Alvarez,Jared Jones,72.66276304869062,"Hit, 1-3",HOU,670541,683003,824185,True,3.0,1.0,1.0,1
 2026-06-04,3,Ernie Clement,Chris Sale,71.33146297758998,"Hit, 3-5",@ATL,676391,519242,824919,True,5.0,3.0,0.0,1
