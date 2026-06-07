@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-06,1,Jackson Chourio,Unknown,73.59734684165224,"No Hit, 0-5",@COL,694192,99999999,824351,True,5.0,0.0,0.0,0
+2026-06-06,2,Jeremy Pena,Kade Morris,72.25252676282204,"Hit, 1-4",HOU,665161,99999999,824184,True,4.0,1.0,1.0,1
+2026-06-06,3,Spencer Steer,Matthew Liberatore,71.7944916609627,"No Hit, 0-2",@STL,668715,669461,823048,True,2.0,0.0,2.0,0
+2026-06-06,4,Luis Arraez,Ben Brown,71.76172164535348,"Hit, 1-5",@CHC,650333,676962,824669,True,5.0,1.0,0.0,1
+2026-06-06,5,Xavier Edwards,Shane McClanahan,70.54660311571128,"Hit, 1-4",MIA,669364,663556,823859,True,4.0,1.0,0.0,1
+2026-06-06,6,Bobby Witt Jr.,Joe Ryan,70.21042875776729,"Hit, 2-5",@MIN,677951,657746,823697,True,5.0,2.0,0.0,1
+2026-06-06,7,William Contreras,Unknown,70.11014938527524,"Hit, 2-5",@COL,661388,99999999,824351,True,5.0,2.0,0.0,1
+2026-06-06,8,Ivan Herrera,Nick Lodolo,69.41745835827106,"Hit, 1-4",STL,671056,666157,823048,True,4.0,1.0,0.0,1
+2026-06-06,9,Matt Olson,Braxton Ashcraft,69.17857626146741,"Hit, 1-4",ATL,621566,677952,824915,True,4.0,1.0,0.0,1
+2026-06-06,10,Trea Turner,Brandon Eisert,69.10123528865977,"Hit, 1-3",PHI,607208,685126,823454,True,3.0,1.0,1.0,1
 2026-06-05,1,Junior Caminero,Ryan Gusto,75.82124953095658,"Hit, 3-3",@MIA,691406,687473,823860,True,3.0,3.0,2.0,1
 2026-06-05,2,Jackson Chourio,Ryan Feltner,75.064082989825,"No Hit, 0-5",@COL,694192,663372,824350,True,5.0,0.0,0.0,0
 2026-06-05,3,Chandler Simpson,Ryan Gusto,74.76339656193784,"No Hit, 0-2",@MIA,802415,687473,823860,True,2.0,0.0,0.0,0
