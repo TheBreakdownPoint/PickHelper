@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-07,1,Jackson Chourio,Kyle Freeland,78.68649303103662,"Hit, 3-6",@COL,694192,607536,824349,True,6.0,3.0,0.0,1
+2026-06-07,2,William Contreras,Kyle Freeland,76.70004680410649,"Hit, 2-5",@COL,661388,607536,824349,True,5.0,2.0,0.0,1
+2026-06-07,3,Xavier Edwards,Griffin Jax,74.09657161252969,"No Hit, 0-3",MIA,669364,643377,823857,True,3.0,0.0,1.0,0
+2026-06-07,4,Luis Arraez,Jameson Taillon,73.15709473443239,"Hit, 1-4",@CHC,650333,592791,824670,True,4.0,1.0,0.0,1
+2026-06-07,5,Brice Turang,Kyle Freeland,72.8589742686767,"Hit, 1-5",@COL,668930,607536,824349,True,5.0,1.0,0.0,1
+2026-06-07,6,Andrew Vaughn,Kyle Freeland,72.73685371667497,"Hit, 3-5",@COL,683734,607536,824349,True,5.0,3.0,0.0,1
+2026-06-07,7,Junior Caminero,Sandy Alcantara,70.75203093528152,"No Hit, 0-4",@MIA,691406,645261,823857,True,4.0,0.0,0.0,0
+2026-06-07,8,Trea Turner,Tyler Gilbert,70.38929376700531,"Hit, 2-5",PHI,607208,656457,823453,True,5.0,2.0,0.0,1
+2026-06-07,9,Yandy Diaz,Sandy Alcantara,70.04928668783961,"Hit, 1-4",@MIA,650490,645261,823857,True,4.0,1.0,0.0,1
+2026-06-07,10,Byron Buxton,Noah Cameron,69.13234883848844,Did Not Start,MIN,621439,702070,823696,,,,,2
 2026-06-06,1,Jackson Chourio,Unknown,73.59734684165224,"No Hit, 0-5",@COL,694192,99999999,824351,True,5.0,0.0,0.0,0
 2026-06-06,2,Jeremy Pena,Kade Morris,72.25252676282204,"Hit, 1-4",HOU,665161,99999999,824184,True,4.0,1.0,1.0,1
 2026-06-06,3,Spencer Steer,Matthew Liberatore,71.7944916609627,"No Hit, 0-2",@STL,668715,669461,823048,True,2.0,0.0,2.0,0
