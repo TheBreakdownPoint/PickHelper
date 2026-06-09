@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-08,1,Luis Arraez,Miles Mikolas,75.09979477712037,"Hit, 2-5",SF,650333,571945,823218,True,5.0,2.0,0.0,1
+2026-06-08,2,Yandy Diaz,Connelly Early,73.5489459792525,"Hit, 1-3",TB,650490,813349,822972,True,3.0,1.0,1.0,1
+2026-06-08,3,Jackson Chourio,Jeffrey Springs,73.289494788576,"Hit, 3-5",@OAK,694192,605488,824998,True,5.0,3.0,1.0,1
+2026-06-08,4,Ernie Clement,Cristopher Sánchez,72.50762004424564,"Hit, 2-4",TOR,676391,650911,822806,True,4.0,2.0,0.0,1
+2026-06-08,5,Trea Turner,Patrick Corbin,72.23646813012161,"No Hit, 0-4",@TOR,607208,571578,822806,True,4.0,0.0,1.0,0
+2026-06-08,6,William Contreras,Jeffrey Springs,71.13951241635297,"Hit, 3-6",@OAK,661388,605488,824998,True,6.0,3.0,1.0,1
+2026-06-08,7,Jung Hoo Lee,Miles Mikolas,70.50916583941027,"Hit, 4-5",SF,808982,571945,823218,True,5.0,4.0,0.0,1
+2026-06-08,8,Josh Naylor,Chris Bassitt,70.21738720561586,"Hit, 2-4",@BAL,647304,605135,824829,True,4.0,2.0,0.0,1
+2026-06-08,9,Junior Caminero,Connelly Early,70.19836221973961,"Hit, 1-3",TB,691406,813349,822972,True,3.0,1.0,1.0,1
+2026-06-08,10,Ceddanne Rafaela,Ian Seymour,70.08408754363339,"Hit, 1-4",@TB,678882,693855,822972,True,4.0,1.0,0.0,1
 2026-06-07,1,Jackson Chourio,Kyle Freeland,78.68649303103662,"Hit, 3-6",@COL,694192,607536,824349,True,6.0,3.0,0.0,1
 2026-06-07,2,William Contreras,Kyle Freeland,76.70004680410649,"Hit, 2-5",@COL,661388,607536,824349,True,5.0,2.0,0.0,1
 2026-06-07,3,Xavier Edwards,Griffin Jax,74.09657161252969,"No Hit, 0-3",MIA,669364,643377,823857,True,3.0,0.0,1.0,0
