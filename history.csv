@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-12,1,Yandy Diaz,Sam Aldegheri,75.34641529007709,"Hit, 1-4",@LAA,650490,691951,824020,True,4.0,1.0,1.0,1
+2026-06-12,2,Luis Arraez,Javier Assad,72.60875811407259,"Hit, 1-4",SF,650333,665871,823211,True,4.0,1.0,0.0,1
+2026-06-12,3,Xavier Edwards,Braxton Ashcraft,72.45822462479099,"Hit, 1-4",@PIT,669364,677952,823370,True,4.0,1.0,0.0,1
+2026-06-12,4,Junior Caminero,Sam Aldegheri,72.26477028601957,"No Hit, 0-4",@LAA,691406,691951,824020,True,4.0,0.0,1.0,0
+2026-06-12,5,Ernie Clement,Ryan Weathers,72.0701452917984,"Hit, 2-5",TOR,676391,677960,822803,True,5.0,2.0,0.0,1
+2026-06-12,6,Josh Jung,Sonny Gray,69.57699703692006,"Hit, 1-4",@BOS,673962,543243,824752,True,4.0,1.0,0.0,1
+2026-06-12,7,Jackson Chourio,Andrew Painter,69.31390355196784,"Hit, 1-5",MIL,694192,691725,823778,True,5.0,1.0,0.0,1
+2026-06-12,8,Brandon Nimmo,Sonny Gray,69.19580189285833,"No Hit, 0-4",@BOS,607043,543243,824752,True,4.0,0.0,0.0,0
+2026-06-12,9,Josh Naylor,Zack Littell,69.10441773592734,"Hit, 1-5",@WSH,647304,641793,822726,True,5.0,1.0,0.0,1
+2026-06-12,10,Bobby Witt Jr.,Tatsuya Imai,68.97575327114922,"Hit, 1-4",KC,677951,837227,824102,True,4.0,1.0,1.0,1
 2026-06-11,1,Xavier Edwards,Merrill Kelly,73.25263231294666,"Hit, 1-3",MIA,669364,518876,823855,True,3.0,1.0,0.0,1
 2026-06-11,2,Nico Hoerner,Ryan Feltner,71.15709734249165,"Hit, 1-4",@COL,663538,663372,824346,True,4.0,1.0,0.0,1
 2026-06-11,3,Shohei Ohtani,Mitch Keller,70.78796684608102,"Hit, 2-2",@PIT,660271,656605,823371,True,2.0,2.0,2.0,1
