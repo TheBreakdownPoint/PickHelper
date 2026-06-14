@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-13,1,Jacob Wilson,Kyle Freeland,75.81870598733772,"Hit, 1-4",OAK,805779,607536,824995,True,4.0,1.0,0.0,1
+2026-06-13,2,Shea Langeliers,Kyle Freeland,74.7539322234374,"Hit, 1-4",OAK,669127,607536,824995,True,4.0,1.0,1.0,1
+2026-06-13,3,Jeremy Pena,Noah Cameron,73.28021229070116,"Hit, 1-5",@KC,665161,702070,824100,True,5.0,1.0,0.0,1
+2026-06-13,4,Bobby Witt Jr.,Mike Burrows,72.71863851972772,"Hit, 3-5",KC,677951,681347,824100,True,5.0,3.0,0.0,1
+2026-06-13,5,Luis Arraez,Ben Brown,71.99548287940532,"Hit, 1-5",SF,650333,676962,823213,True,5.0,1.0,0.0,1
+2026-06-13,6,Byron Buxton,Matthew Liberatore,71.79847025438694,"Hit, 2-4",MIN,621439,669461,823694,True,4.0,2.0,0.0,1
+2026-06-13,7,Xavier Edwards,Bubba Chandler,71.04067584881616,"No Hit, 0-3",@PIT,669364,696149,823369,True,3.0,0.0,1.0,0
+2026-06-13,8,Zack Gelof,Kyle Freeland,70.99460301846041,"Hit, 2-4",OAK,680869,607536,824995,True,4.0,2.0,0.0,1
+2026-06-13,9,Josh Jung,Ranger Suarez,70.96256644626781,"Hit, 1-4",@BOS,673962,624133,824749,True,4.0,1.0,1.0,1
+2026-06-13,10,Josh Naylor,Cade Cavalli,70.47822307169464,"No Hit, 0-4",@WSH,647304,676917,822725,True,4.0,0.0,0.0,0
 2026-06-12,1,Yandy Diaz,Sam Aldegheri,75.34641529007709,"Hit, 1-4",@LAA,650490,691951,824020,True,4.0,1.0,1.0,1
 2026-06-12,2,Luis Arraez,Javier Assad,72.60875811407259,"Hit, 1-4",SF,650333,665871,823211,True,4.0,1.0,0.0,1
 2026-06-12,3,Xavier Edwards,Braxton Ashcraft,72.45822462479099,"Hit, 1-4",@PIT,669364,677952,823370,True,4.0,1.0,0.0,1
