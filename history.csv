@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-14,1,Paul Goldschmidt,Patrick Corbin,71.32559340262445,"Hit, 3-5",@TOR,502671,571578,822801,True,5.0,3.0,0.0,1
+2026-06-14,2,Jackson Chourio,Cristopher Sánchez,71.09071049348536,"Hit, 2-4",MIL,694192,650911,823777,True,4.0,2.0,0.0,1
+2026-06-14,3,Fernando Tatis Jr.,Trevor Rogers,71.0224181959499,"Hit, 2-4",@BAL,665487,669432,824823,True,4.0,2.0,0.0,1
+2026-06-14,4,Jeremy Pena,Stephen Kolek,70.70109333392092,"No Hit, 0-4",@KC,665161,663568,824099,True,4.0,0.0,0.0,0
+2026-06-14,5,Xavier Edwards,Paul Skenes,70.43461096519584,"Hit, 1-4",@PIT,669364,694973,823368,True,4.0,1.0,0.0,1
+2026-06-14,6,Luis Arraez,Ryan Rolison,70.31605089471786,"No Hit, 0-4",SF,650333,669020,823212,True,4.0,0.0,0.0,0
+2026-06-14,7,Josh Naylor,Miles Mikolas,70.29841230464599,"Hit, 1-3",@WSH,647304,571945,822722,True,3.0,1.0,0.0,1
+2026-06-14,8,Alec Burleson,Taj Bradley,70.17608392340561,"Hit, 1-4",@MIN,676475,671737,823693,True,4.0,1.0,0.0,1
+2026-06-14,9,Yordan Alvarez,Stephen Kolek,70.07228924902682,"Hit, 1-4",@KC,670541,663568,824099,True,4.0,1.0,0.0,1
+2026-06-14,10,Cole Young,Miles Mikolas,70.05699484833413,"Hit, 1-4",@WSH,702284,571945,822722,True,4.0,1.0,0.0,1
 2026-06-13,1,Jacob Wilson,Kyle Freeland,75.81870598733772,"Hit, 1-4",OAK,805779,607536,824995,True,4.0,1.0,0.0,1
 2026-06-13,2,Shea Langeliers,Kyle Freeland,74.7539322234374,"Hit, 1-4",OAK,669127,607536,824995,True,4.0,1.0,1.0,1
 2026-06-13,3,Jeremy Pena,Noah Cameron,73.28021229070116,"Hit, 1-5",@KC,665161,702070,824100,True,5.0,1.0,0.0,1
