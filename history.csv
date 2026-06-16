@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-15,1,Bobby Witt Jr.,Andrew Alvarez,73.13515597365034,"No Hit, 0-3",@WSH,677951,674841,822724,True,3.0,0.0,1.0,0
+2026-06-15,2,Yandy Diaz,Eric Lauer,73.04023347399003,"No Hit, 0-5",@LAD,650490,641778,823938,True,5.0,0.0,0.0,0
+2026-06-15,3,Brandon Marsh,Ryan Gusto,71.93506547702071,"Hit, 2-5",PHI,669016,687473,823452,True,5.0,2.0,0.0,1
+2026-06-15,4,Pete Crow-Armstrong,Michael Lorenzen,71.15976105770841,"Hit, 4-4",CHC,691718,547179,824666,True,4.0,4.0,0.0,1
+2026-06-15,5,Junior Caminero,Eric Lauer,70.49331259754842,"Hit, 2-4",@LAD,691406,641778,823938,True,4.0,2.0,0.0,1
+2026-06-15,6,Xavier Edwards,Zack Wheeler,69.80902974441129,"No Hit, 0-3",@PHI,669364,554430,823452,True,3.0,0.0,1.0,0
+2026-06-15,7,Shohei Ohtani,Nick Martinez,69.69964318483215,"No Hit, 0-4",LAD,660271,607259,823938,True,4.0,0.0,0.0,0
+2026-06-15,8,Samad Taylor,Dustin May,69.52489319938528,Did Not Start,@STL,669392,669160,823046,,,,,2
+2026-06-15,9,Fernando Tatis Jr.,Dustin May,69.43432374543667,"No Hit, 0-3",@STL,665487,669160,823046,True,3.0,0.0,1.0,0
+2026-06-15,10,Byron Buxton,MacKenzie Gore,69.03352508333572,"Hit, 1-4",@TEX,621439,669022,822887,True,4.0,1.0,0.0,1
 2026-06-14,1,Paul Goldschmidt,Patrick Corbin,71.32559340262445,"Hit, 3-5",@TOR,502671,571578,822801,True,5.0,3.0,0.0,1
 2026-06-14,2,Jackson Chourio,Cristopher Sánchez,71.09071049348536,"Hit, 2-4",MIL,694192,650911,823777,True,4.0,2.0,0.0,1
 2026-06-14,3,Fernando Tatis Jr.,Trevor Rogers,71.0224181959499,"Hit, 2-4",@BAL,665487,669432,824823,True,4.0,2.0,0.0,1
