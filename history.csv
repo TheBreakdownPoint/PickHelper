@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-16,1,Bobby Witt Jr.,Foster Griffin,73.52221278488074,"Hit, 3-4",@WSH,677951,656492,822723,True,4.0,3.0,1.0,1
+2026-06-16,2,Ernie Clement,Payton Tolle,73.45104635917875,"No Hit, 0-5",@BOS,676391,801139,824750,True,5.0,0.0,0.0,0
+2026-06-16,3,Drake Baldwin,Adrian Houser,72.91759767681849,"Hit, 1-1",ATL,686948,605288,824912,True,1.0,1.0,0.0,1
+2026-06-16,4,Xavier Edwards,Jesús Luzardo,72.67167988824522,"No Hit, 0-3",@PHI,669364,666200,823451,True,3.0,0.0,1.0,0
+2026-06-16,5,Otto Lopez,Jesús Luzardo,72.53892405301916,"Hit, 1-4",@PHI,672640,666200,823451,True,4.0,1.0,0.0,1
+2026-06-16,6,Yandy Diaz,Justin Wrobleski,72.45864988696303,"Hit, 1-4",@LAD,650490,680736,823939,True,4.0,1.0,0.0,1
+2026-06-16,7,Luis Arraez,Grant Holmes,72.24431213610303,"Hit, 2-2",@ATL,650333,656550,824912,True,2.0,2.0,0.0,1
+2026-06-16,8,Jeremy Pena,Framber Valdez,71.68118644652472,"Hit, 2-5",HOU,665161,664285,824182,True,5.0,2.0,0.0,1
+2026-06-16,9,Matt Olson,Adrian Houser,71.38420504986482,"No Hit, 0-1",ATL,621566,605288,824912,True,1.0,0.0,0.0,0
+2026-06-16,10,Juan Soto,Brady Singer,70.69242024223175,"Hit, 1-4",@CIN,665742,663903,824504,True,4.0,1.0,1.0,1
 2026-06-15,1,Bobby Witt Jr.,Andrew Alvarez,73.13515597365034,"No Hit, 0-3",@WSH,677951,674841,822724,True,3.0,0.0,1.0,0
 2026-06-15,2,Yandy Diaz,Eric Lauer,73.04023347399003,"No Hit, 0-5",@LAD,650490,641778,823938,True,5.0,0.0,0.0,0
 2026-06-15,3,Brandon Marsh,Ryan Gusto,71.93506547702071,"Hit, 2-5",PHI,669016,687473,823452,True,5.0,2.0,0.0,1
