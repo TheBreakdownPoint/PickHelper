@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-17,1,Xavier Edwards,Andrew Painter,74.03739380899437,"Hit, 1-5",@PHI,669364,691725,823450,True,5.0,1.0,0.0,1
+2026-06-17,2,Bobby Witt Jr.,Zack Littell,71.93607610378169,"Hit, 1-4",@WSH,677951,641793,822721,True,4.0,1.0,1.0,1
+2026-06-17,3,Jarren Duran,Max Scherzer,71.29450449231513,"No Hit, 0-2",BOS,680776,453286,824746,True,2.0,0.0,2.0,0
+2026-06-17,4,Samad Taylor,Kyle Leahy,71.1759470992816,"Hit, 1-4",@STL,669392,681517,823044,True,4.0,1.0,1.0,1
+2026-06-17,5,Wilyer Abreu,Max Scherzer,70.82737926751406,"Hit, 2-5",BOS,677800,453286,824746,True,5.0,2.0,0.0,1
+2026-06-17,6,Otto Lopez,Andrew Painter,70.58853897525476,"No Hit, 0-2",@PHI,672640,691725,823450,True,2.0,0.0,2.0,0
+2026-06-17,7,Brandon Marsh,Sandy Alcantara,70.53948976116212,"Hit, 1-4",PHI,669016,645261,823450,True,4.0,1.0,0.0,1
+2026-06-17,8,Spencer Horwitz,Aaron Civale,70.00246064514897,"Hit, 2-4",@OAK,687462,650644,824992,True,4.0,2.0,2.0,1
+2026-06-17,9,Ceddanne Rafaela,Max Scherzer,69.7893156201719,"Hit, 1-5",BOS,678882,453286,824746,True,5.0,1.0,0.0,1
+2026-06-17,10,Fernando Tatis Jr.,Kyle Leahy,69.69881906953897,"Hit, 3-5",@STL,665487,681517,823044,True,5.0,3.0,0.0,1
 2026-06-16,1,Bobby Witt Jr.,Foster Griffin,73.52221278488074,"Hit, 3-4",@WSH,677951,656492,822723,True,4.0,3.0,1.0,1
 2026-06-16,2,Ernie Clement,Payton Tolle,73.45104635917875,"No Hit, 0-5",@BOS,676391,801139,824750,True,5.0,0.0,0.0,0
 2026-06-16,3,Drake Baldwin,Adrian Houser,72.91759767681849,"Hit, 1-1",ATL,686948,605288,824912,True,1.0,1.0,0.0,1
