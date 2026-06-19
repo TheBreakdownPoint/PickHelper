@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-18,1,Bobby Witt Jr.,Matthew Liberatore,76.32673072015888,"Hit, 2-2",KC,677951,669461,824098,True,2.0,2.0,0.0,1
+2026-06-18,2,Jackson Chourio,Parker Messick,72.00080650483578,"No Hit, 0-4",MIL,694192,800048,823772,True,4.0,0.0,0.0,0
+2026-06-18,3,Juan Soto,Aaron Nola,71.32801559564008,"Hit, 2-4",@PHI,665742,605400,823448,True,4.0,2.0,1.0,1
+2026-06-18,4,Drake Baldwin,Landen Roupp,71.16097266905018,Did Not Start,ATL,686948,694738,824911,,,,,2
+2026-06-18,5,Maikel Garcia,Matthew Liberatore,71.06241556638955,Did Not Start,KC,672580,669461,824098,,,,,2
+2026-06-18,6,Matt Olson,Landen Roupp,70.52731781744464,Did Not Start,ATL,621566,694738,824911,,,,,2
+2026-06-18,7,Ivan Herrera,Noah Cameron,70.18021090079938,"No Hit, 0-4",@KC,671056,702070,824098,True,4.0,0.0,1.0,0
+2026-06-18,8,Nathan Lukes,Sonny Gray,69.75968877552803,"Hit, 1-4",@BOS,664770,543243,824748,True,4.0,1.0,0.0,1
+2026-06-18,9,Trea Turner,Sean Manaea,69.25823987655197,0-0,PHI,607208,640455,823448,True,0.0,0.0,0.0,2
+2026-06-18,10,Jordan Walker,Noah Cameron,68.83571406855832,"Hit, 2-4",@KC,691023,702070,824098,True,4.0,2.0,1.0,1
 2026-06-17,1,Xavier Edwards,Andrew Painter,74.03739380899437,"Hit, 1-5",@PHI,669364,691725,823450,True,5.0,1.0,0.0,1
 2026-06-17,2,Bobby Witt Jr.,Zack Littell,71.93607610378169,"Hit, 1-4",@WSH,677951,641793,822721,True,4.0,1.0,1.0,1
 2026-06-17,3,Jarren Duran,Max Scherzer,71.29450449231513,"No Hit, 0-2",BOS,680776,453286,824746,True,2.0,0.0,2.0,0
