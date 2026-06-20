@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-19,1,Nick Gonzales,Kyle Freeland,75.5513146839793,"Hit, 1-4",@COL,693304,607536,824345,True,4.0,1.0,0.0,1
+2026-06-19,2,Bryan Reynolds,Kyle Freeland,74.84076136742732,Did Not Start,@COL,668804,607536,824345,False,1.0,1.0,0.0,1
+2026-06-19,3,Bobby Witt Jr.,Michael McGreevy,72.25149391738785,Did Not Start,KC,677951,700241,824097,,,,,2
+2026-06-19,4,Luis Arraez,Unknown,71.8272173964778,"No Hit, 0-5",@MIA,650333,99999999,823853,True,5.0,0.0,0.0,0
+2026-06-19,5,Alec Burleson,Seth Lugo,71.54381730138907,"Hit, 1-4",@KC,676475,607625,824097,True,4.0,1.0,0.0,1
+2026-06-19,6,Brandon Lowe,Kyle Freeland,71.35480411661986,"Hit, 1-4",@COL,664040,607536,824345,True,4.0,1.0,0.0,1
+2026-06-19,7,Junior Caminero,Cade Cavalli,70.79249364337244,"Hit, 2-4",TB,691406,676917,822966,True,4.0,2.0,0.0,1
+2026-06-19,8,Marcell Ozuna,Kyle Freeland,69.8655772150106,"Hit, 1-4",@COL,542303,607536,824345,True,4.0,1.0,0.0,1
+2026-06-19,9,Zach Neto,Jeffrey Springs,69.80424979615985,"Hit, 1-4",@OAK,687263,605488,824990,True,4.0,1.0,1.0,1
+2026-06-19,10,Kevin McGonigle,Erick Fedde,69.68712912988254,"Hit, 1-4",DET,805808,607200,824264,True,4.0,1.0,0.0,1
 2026-06-18,1,Bobby Witt Jr.,Matthew Liberatore,76.32673072015888,"Hit, 2-2",KC,677951,669461,824098,True,2.0,2.0,0.0,1
 2026-06-18,2,Jackson Chourio,Parker Messick,72.00080650483578,"No Hit, 0-4",MIL,694192,800048,823772,True,4.0,0.0,0.0,0
 2026-06-18,3,Juan Soto,Aaron Nola,71.32801559564008,"Hit, 2-4",@PHI,665742,605400,823448,True,4.0,2.0,1.0,1
