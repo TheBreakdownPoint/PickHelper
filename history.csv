@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-20,1,Luis Arraez,Max Meyer,73.28537693103611,"Hit, 1-3",@MIA,650333,676974,823854,True,3.0,1.0,2.0,1
+2026-06-20,2,Spencer Horwitz,Tomoyuki Sugano,72.57784004972912,"Hit, 2-4",@COL,687462,608372,824342,True,4.0,2.0,0.0,1
+2026-06-20,3,Jeremy Pena,Joey Cantillo,72.2962927529247,"No Hit, 0-3",HOU,665161,676282,824180,True,3.0,0.0,0.0,0
+2026-06-20,4,Bryan Reynolds,Tomoyuki Sugano,72.01875062693344,"Hit, 1-4",@COL,668804,608372,824342,True,4.0,1.0,0.0,1
+2026-06-20,5,Ryan O'Hearn,Tomoyuki Sugano,71.96192315890059,"No Hit, 0-4",@COL,656811,608372,824342,True,4.0,0.0,0.0,0
+2026-06-20,6,Brandon Lowe,Tomoyuki Sugano,71.65299160650594,"Hit, 2-4",@COL,664040,608372,824342,True,4.0,2.0,0.0,1
+2026-06-20,7,Junior Caminero,Cade Cavalli,70.82270732596088,"Hit, 3-3",TB,691406,676917,822967,True,3.0,3.0,1.0,1
+2026-06-20,8,Byron Buxton,Zac Gallen,70.8189658651484,"Hit, 1-4",@AZ,621439,668678,825068,True,4.0,1.0,0.0,1
+2026-06-20,9,Jackson Chourio,Chris Sale,70.55960216665778,"Hit, 1-4",@ATL,694192,519242,824909,True,4.0,1.0,0.0,1
+2026-06-20,10,Nico Hoerner,Patrick Corbin,70.14862016564966,"No Hit, 0-4",CHC,663538,571578,824665,True,4.0,0.0,1.0,0
 2026-06-19,1,Nick Gonzales,Kyle Freeland,75.5513146839793,"Hit, 1-4",@COL,693304,607536,824345,True,4.0,1.0,0.0,1
 2026-06-19,2,Bryan Reynolds,Kyle Freeland,74.84076136742732,Did Not Start,@COL,668804,607536,824345,False,1.0,1.0,0.0,1
 2026-06-19,3,Bobby Witt Jr.,Michael McGreevy,72.25149391738785,Did Not Start,KC,677951,700241,824097,,,,,2
