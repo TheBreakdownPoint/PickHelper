@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-21,1,Luis Arraez,Ryan Gusto,76.92984540888678,"Hit, 1-4",@MIA,650333,687473,823852,True,4.0,1.0,0.0,1
+2026-06-21,2,Spencer Horwitz,Michael Lorenzen,74.91132273511165,"Hit, 2-5",@COL,687462,547179,824343,True,5.0,2.0,0.0,1
+2026-06-21,3,Bryan Reynolds,Michael Lorenzen,74.26689891295007,"Hit, 2-5",@COL,668804,547179,824343,True,5.0,2.0,0.0,1
+2026-06-21,4,Brandon Lowe,Michael Lorenzen,74.19012944984141,"Hit, 1-5",@COL,664040,547179,824343,True,5.0,1.0,0.0,1
+2026-06-21,5,Jake McCarthy,Jared Jones,74.05210692942146,"Hit, 2-5",COL,664983,683003,824343,True,5.0,2.0,0.0,1
+2026-06-21,6,Ryan O'Hearn,Michael Lorenzen,73.5702246834096,"No Hit, 0-4",@COL,656811,547179,824343,True,4.0,0.0,0.0,0
+2026-06-21,7,Yandy Diaz,Andrew Alvarez,73.2094784613853,"Hit, 2-3",TB,650490,674841,822968,True,3.0,2.0,1.0,1
+2026-06-21,8,Rafael Devers,Ryan Gusto,71.65562982346445,"No Hit, 0-3",@MIA,646240,687473,823852,True,3.0,0.0,1.0,0
+2026-06-21,9,Bobby Witt Jr.,Dustin May,71.65498328805806,Did Not Start,KC,677951,669160,824095,,,,,2
+2026-06-21,10,Yordan Alvarez,Slade Cecconi,70.9767123201539,"Hit, 1-2",HOU,670541,677944,824177,True,2.0,1.0,2.0,1
 2026-06-20,1,Luis Arraez,Max Meyer,73.28537693103611,"Hit, 1-3",@MIA,650333,676974,823854,True,3.0,1.0,2.0,1
 2026-06-20,2,Spencer Horwitz,Tomoyuki Sugano,72.57784004972912,"Hit, 2-4",@COL,687462,608372,824342,True,4.0,2.0,0.0,1
 2026-06-20,3,Jeremy Pena,Joey Cantillo,72.2962927529247,"No Hit, 0-3",HOU,665161,676282,824180,True,3.0,0.0,0.0,0
