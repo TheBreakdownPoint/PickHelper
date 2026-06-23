@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-22,1,Ceddanne Rafaela,Ryan Feltner,72.55474768420832,"No Hit, 0-4",@COL,678882,663372,824344,True,4.0,0.0,0.0,0
+2026-06-22,2,Shohei Ohtani,Zebby Matthews,72.01122744454793,"Hit, 1-4",@MIN,660271,805673,823692,True,4.0,1.0,1.0,1
+2026-06-22,3,Alec Burleson,Merrill Kelly,71.68664667735457,"Hit, 1-2",STL,676475,518876,823040,True,2.0,1.0,1.0,1
+2026-06-22,4,Freddie Freeman,Zebby Matthews,71.09217518253065,"Hit, 1-4",@MIN,518692,805673,823692,True,4.0,1.0,0.0,1
+2026-06-22,5,Wilyer Abreu,Ryan Feltner,71.0713582335495,"Hit, 1-2",@COL,677800,663372,824344,True,2.0,1.0,2.0,1
+2026-06-22,6,Byron Buxton,Eric Lauer,70.75312978362845,"Hit, 1-4",MIN,621439,641778,823692,True,4.0,1.0,0.0,1
+2026-06-22,7,Xavier Edwards,Kumar Rocker,70.71926191908459,"Hit, 2-3",MIA,669364,677958,823851,True,3.0,2.0,1.0,1
+2026-06-22,8,Bobby Witt Jr.,Drew Rasmussen,70.63562702323036,Did Not Start,@TB,677951,656876,822964,,,,,2
+2026-06-22,9,Jackson Chourio,Brady Singer,70.53707128258762,"No Hit, 0-4",@CIN,694192,663903,824502,True,4.0,0.0,0.0,0
+2026-06-22,10,Jarren Duran,Ryan Feltner,70.1454378299273,"No Hit, 0-3",@COL,680776,663372,824344,True,3.0,0.0,1.0,0
 2026-06-21,1,Luis Arraez,Ryan Gusto,76.92984540888678,"Hit, 1-4",@MIA,650333,687473,823852,True,4.0,1.0,0.0,1
 2026-06-21,2,Spencer Horwitz,Michael Lorenzen,74.91132273511165,"Hit, 2-5",@COL,687462,547179,824343,True,5.0,2.0,0.0,1
 2026-06-21,3,Bryan Reynolds,Michael Lorenzen,74.26689891295007,"Hit, 2-5",@COL,668804,547179,824343,True,5.0,2.0,0.0,1
