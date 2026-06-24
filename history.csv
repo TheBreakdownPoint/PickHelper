@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-23,1,Luis Arraez,Aaron Civale,74.63163600759597,"Hit, 1-2",SF,650333,650644,823210,True,2.0,1.0,0.0,1
+2026-06-23,2,Bobby Witt Jr.,Shane McClanahan,74.42419172108592,Did Not Start,@TB,677951,663556,822963,,,,,2
+2026-06-23,3,Jackson Chourio,Nick Lodolo,73.09339756189705,"Hit, 1-4",@CIN,694192,666157,824501,True,4.0,1.0,0.0,1
+2026-06-23,4,Jake McCarthy,Sonny Gray,72.8452172596728,"Hit, 1-4",COL,664983,543243,824340,True,4.0,1.0,1.0,1
+2026-06-23,5,Brandon Marsh,Zack Littell,71.8137616118482,"Hit, 3-6",@WSH,669016,641793,822718,True,6.0,3.0,0.0,1
+2026-06-23,6,Xavier Edwards,Cal Quantrill,71.11986148718921,"Hit, 2-4",MIA,669364,615698,823849,True,4.0,2.0,0.0,1
+2026-06-23,7,Ketel Marte,Kyle Leahy,71.10497183032308,"Hit, 1-4",@STL,606466,681517,823043,True,4.0,1.0,1.0,1
+2026-06-23,8,Gunnar Henderson,Ryan Johnson,70.96382717513637,"Hit, 1-4",@LAA,683002,696270,824017,True,4.0,1.0,0.0,1
+2026-06-23,9,Byron Buxton,Justin Wrobleski,70.67344241891831,"Hit, 1-4",MIN,621439,680736,823690,True,4.0,1.0,0.0,1
+2026-06-23,10,Taylor Ward,Ryan Johnson,70.6172923443958,"No Hit, 0-4",@LAA,621493,696270,824017,True,4.0,0.0,0.0,0
 2026-06-22,1,Ceddanne Rafaela,Ryan Feltner,72.55474768420832,"No Hit, 0-4",@COL,678882,663372,824344,True,4.0,0.0,0.0,0
 2026-06-22,2,Shohei Ohtani,Zebby Matthews,72.01122744454793,"Hit, 1-4",@MIN,660271,805673,823692,True,4.0,1.0,1.0,1
 2026-06-22,3,Alec Burleson,Merrill Kelly,71.68664667735457,"Hit, 1-2",STL,676475,518876,823040,True,2.0,1.0,1.0,1
