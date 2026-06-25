@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-24,1,Ceddanne Rafaela,Kyle Freeland,77.68738573699328,"Hit, 3-5",@COL,678882,607536,824341,True,5.0,3.0,0.0,1
+2026-06-24,2,William Contreras,Kyle Freeland,75.65590081437004,Did Not Start,@COL,661388,607536,824341,,,,,2
+2026-06-24,3,Yandy Diaz,Noah Cameron,74.0140043651167,"Hit, 4-5",TB,650490,702070,822965,True,5.0,4.0,0.0,1
+2026-06-24,4,Brandon Marsh,Miles Mikolas,72.9229725478063,"Hit, 3-4",@WSH,669016,571945,822719,True,4.0,3.0,0.0,1
+2026-06-24,5,Bobby Witt Jr.,Griffin Jax,72.60656071453532,Did Not Start,@TB,677951,643377,822965,,,,,2
+2026-06-24,6,Ketel Marte,Matthew Liberatore,72.28580969773746,"Hit, 2-5",@STL,606466,669461,823041,True,5.0,2.0,0.0,1
+2026-06-24,7,Wilyer Abreu,Kyle Freeland,71.7108571957503,"No Hit, 0-4",@COL,677800,607536,824341,True,4.0,0.0,0.0,0
+2026-06-24,8,Junior Caminero,Noah Cameron,70.79702210589745,"No Hit, 0-2",TB,691406,702070,822965,True,2.0,0.0,2.0,0
+2026-06-24,9,CJ Abrams,Aaron Nola,70.56536555558482,"Hit, 1-2",WSH,682928,605400,822719,True,2.0,1.0,1.0,1
+2026-06-24,10,Jarren Duran,Kyle Freeland,70.11388672546957,Did Not Start,@COL,680776,607536,824341,,,,,2
 2026-06-23,1,Luis Arraez,Aaron Civale,74.63163600759597,"Hit, 1-2",SF,650333,650644,823210,True,2.0,1.0,0.0,1
 2026-06-23,2,Bobby Witt Jr.,Shane McClanahan,74.42419172108592,Did Not Start,@TB,677951,663556,822963,,,,,2
 2026-06-23,3,Jackson Chourio,Nick Lodolo,73.09339756189705,"Hit, 1-4",@CIN,694192,666157,824501,True,4.0,1.0,0.0,1
