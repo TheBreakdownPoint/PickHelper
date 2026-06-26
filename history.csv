@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-25,1,Bobby Witt Jr.,Casey Legumina,73.58237616427975,Did Not Start,@TB,677951,668984,822961,,,,,2
+2026-06-25,2,Alec Burleson,Zac Gallen,73.56504604067484,Did Not Start,STL,676475,668678,823042,,,,,2
+2026-06-25,3,Brandon Marsh,Cade Cavalli,73.4857089040151,"Hit, 2-4",@WSH,669016,676917,822717,True,4.0,2.0,1.0,1
+2026-06-25,4,Ketel Marte,Michael McGreevy,70.97055574990709,Did Not Start,@STL,606466,700241,823042,,,,,2
+2026-06-25,5,Ernie Clement,MacKenzie Gore,70.8807360394125,"Hit, 2-4",TOR,676391,669022,822797,True,4.0,2.0,0.0,1
+2026-06-25,6,Paul Goldschmidt,Connelly Early,70.65849621708607,"Hit, 2-4",@BOS,502671,813349,824747,True,4.0,2.0,1.0,1
+2026-06-25,7,Luis Arraez,Jeffrey Springs,70.08313451354108,Did Not Start,SF,650333,605488,823209,,,,,2
+2026-06-25,8,Yandy Diaz,Seth Lugo,69.79254531114891,"Hit, 1-4",TB,650490,607625,822961,True,4.0,1.0,0.0,1
+2026-06-25,9,Corbin Carroll,Michael McGreevy,69.5321041378725,Did Not Start,@STL,682998,700241,823042,,,,,2
+2026-06-25,10,Junior Caminero,Seth Lugo,69.1887192523053,"Hit, 3-5",TB,691406,607625,822961,True,5.0,3.0,0.0,1
 2026-06-24,1,Ceddanne Rafaela,Kyle Freeland,77.68738573699328,"Hit, 3-5",@COL,678882,607536,824341,True,5.0,3.0,0.0,1
 2026-06-24,2,William Contreras,Kyle Freeland,75.65590081437004,Did Not Start,@COL,661388,607536,824341,,,,,2
 2026-06-24,3,Yandy Diaz,Noah Cameron,74.0140043651167,"Hit, 4-5",TB,650490,702070,822965,True,5.0,4.0,0.0,1
