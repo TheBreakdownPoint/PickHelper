@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-26,1,Luis Arraez,Reynaldo López,76.46342300289467,"Hit, 1-3",SF,650333,625643,823206,True,3.0,1.0,1.0,1
+2026-06-26,2,Yandy Diaz,Zac Gallen,73.96427952162705,"Hit, 2-3",TB,650490,668678,822962,True,3.0,2.0,1.0,1
+2026-06-26,3,Xavier Edwards,Michael McGreevy,71.41271413519,"Hit, 1-3",@STL,669364,700241,823039,True,3.0,1.0,1.0,1
+2026-06-26,4,Otto Lopez,Michael McGreevy,71.36272711826274,"No Hit, 0-4",@STL,672640,700241,823039,True,4.0,0.0,0.0,0
+2026-06-26,5,Paul Goldschmidt,Payton Tolle,71.22485682325784,"No Hit, 0-4",@BOS,502671,801139,824743,True,4.0,0.0,0.0,0
+2026-06-26,6,Alec Burleson,Max Meyer,70.72943384817056,"No Hit, 0-3",STL,676475,676974,823039,True,3.0,0.0,1.0,0
+2026-06-26,7,Jonathan Aranda,Zac Gallen,70.69163840140916,"Hit, 1-3",TB,666018,668678,822962,True,3.0,1.0,0.0,1
+2026-06-26,8,Josh Jung,Patrick Corbin,70.4171079344786,"No Hit, 0-4",@TOR,673962,571578,822796,True,4.0,0.0,0.0,0
+2026-06-26,9,Ketel Marte,Nick Martinez,70.36945605440123,"No Hit, 0-4",@TB,606466,607259,822962,True,4.0,0.0,0.0,0
+2026-06-26,10,Yordan Alvarez,Keider Montero,69.75408700681565,"No Hit, 0-3",@DET,670541,672456,824255,True,3.0,0.0,0.0,0
 2026-06-25,1,Bobby Witt Jr.,Casey Legumina,73.58237616427975,Did Not Start,@TB,677951,668984,822961,,,,,2
 2026-06-25,2,Alec Burleson,Zac Gallen,73.56504604067484,Did Not Start,STL,676475,668678,823042,,,,,2
 2026-06-25,3,Brandon Marsh,Cade Cavalli,73.4857089040151,"Hit, 2-4",@WSH,669016,676917,822717,True,4.0,2.0,1.0,1
