@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-06-30,1,Xavier Edwards,Tanner Gordon,77.16078626473254,"Hit, 4-6",@COL,669364,685299,824338,True,6.0,4.0,0.0,1
+2026-06-30,2,Luis Arraez,Brandon Pfaadt,76.88429105622797,"Hit, 3-4",@AZ,650333,694297,825066,True,4.0,3.0,0.0,1
+2026-06-30,3,Otto Lopez,Tanner Gordon,76.28449207402346,Did Not Start,@COL,672640,685299,824338,,,,,2
+2026-06-30,4,Yandy Diaz,Noah Cameron,75.4599063861317,"Hit, 1-4",@KC,650490,702070,824096,True,4.0,1.0,1.0,1
+2026-06-30,5,Mauricio Dubon,Matthew Liberatore,71.82658359511021,"Hit, 1-4",ATL,643289,669461,824907,True,4.0,1.0,1.0,1
+2026-06-30,6,Junior Caminero,Noah Cameron,71.79744718059203,"Hit, 2-5",@KC,691406,702070,824096,True,5.0,2.0,0.0,1
+2026-06-30,7,Bobby Witt Jr.,Griffin Jax,70.61948603976714,"Hit, 3-4",KC,677951,643377,824096,True,4.0,3.0,0.0,1
+2026-06-30,8,Fernando Tatis Jr.,Matthew Boyd,70.5210454765935,"Hit, 2-5",@CHC,665487,571510,824661,True,5.0,2.0,0.0,1
+2026-06-30,9,Kyle Stowers,Tanner Gordon,70.15961915106588,"Hit, 3-6",@COL,669065,685299,824338,True,6.0,3.0,0.0,1
+2026-06-30,10,Jake McCarthy,Eury Pérez,70.07499782303637,"No Hit, 0-5",COL,664983,691587,824338,True,5.0,0.0,0.0,0
 2026-06-29,1,Ernie Clement,Sean Manaea,72.88017241432271,"Hit, 1-3",TOR,676391,640455,822792,True,3.0,1.0,1.0,1
 2026-06-29,2,Jake McCarthy,Sandy Alcantara,72.84102842147095,"Hit, 2-5",COL,664983,645261,824339,True,5.0,2.0,0.0,1
 2026-06-29,3,Jackson Chourio,Nick Lodolo,72.22168081051066,"No Hit, 0-4",MIL,694192,666157,823771,True,4.0,0.0,1.0,0
