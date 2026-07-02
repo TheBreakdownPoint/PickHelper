@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-01,1,Xavier Edwards,Kyle Freeland,79.82487425932656,Did Not Start,@COL,669364,607536,824337,False,1.0,0.0,0.0,2
+2026-07-01,2,Otto Lopez,Kyle Freeland,78.78564523490141,"Hit, 1-4",@COL,672640,607536,824337,True,4.0,1.0,0.0,1
+2026-07-01,3,Luis Arraez,Zac Gallen,77.66613998890173,"No Hit, 0-5",@AZ,650333,668678,825064,True,5.0,0.0,0.0,0
+2026-07-01,4,Yandy Diaz,Seth Lugo,73.10969370980017,"No Hit, 0-5",@KC,650490,607625,824094,True,5.0,0.0,0.0,0
+2026-07-01,5,Bobby Witt Jr.,Shane McClanahan,73.05273332864914,"Hit, 1-4",KC,677951,663556,824094,True,4.0,1.0,0.0,1
+2026-07-01,6,Alec Burleson,Reynaldo López,72.52142101199736,"No Hit, 0-4",@ATL,676475,625643,824905,True,4.0,0.0,0.0,0
+2026-07-01,7,Matt Olson,Michael McGreevy,71.501453926691,"No Hit, 0-4",ATL,621566,700241,824905,True,4.0,0.0,0.0,0
+2026-07-01,8,Shohei Ohtani,J.T. Ginn,71.2329619093864,"No Hit, 0-5",@OAK,660271,669372,824985,True,5.0,0.0,0.0,0
+2026-07-01,9,Jake McCarthy,Max Meyer,71.22613788827776,"No Hit, 0-4",COL,664983,676974,824337,True,4.0,0.0,0.0,0
+2026-07-01,10,Jackson Chourio,Andrew Abbott,70.40192954213074,"Hit, 1-3",MIL,694192,671096,823767,True,3.0,1.0,2.0,1
 2026-06-30,1,Xavier Edwards,Tanner Gordon,77.16078626473254,"Hit, 4-6",@COL,669364,685299,824338,True,6.0,4.0,0.0,1
 2026-06-30,2,Luis Arraez,Brandon Pfaadt,76.88429105622797,"Hit, 3-4",@AZ,650333,694297,825066,True,4.0,3.0,0.0,1
 2026-06-30,3,Otto Lopez,Tanner Gordon,76.28449207402346,Did Not Start,@COL,672640,685299,824338,,,,,2
