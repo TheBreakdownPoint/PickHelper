@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-02,1,Xavier Edwards,Michael Lorenzen,77.17423751038743,"No Hit, 0-2",@COL,669364,547179,824335,True,2.0,0.0,1.0,0
+2026-07-02,2,Otto Lopez,Michael Lorenzen,76.0553426970635,"Hit, 3-5",@COL,672640,547179,824335,True,5.0,3.0,0.0,1
+2026-07-02,3,Jake McCarthy,Ryan Gusto,73.03190184708006,"Hit, 2-4",COL,664983,687473,824335,True,4.0,2.0,1.0,1
+2026-07-02,4,Liam Hicks,Michael Lorenzen,72.92145580732287,"Hit, 1-4",@COL,689414,547179,824335,True,4.0,1.0,0.0,1
+2026-07-02,5,Yandy Diaz,Stephen Kolek,72.35361729304067,"No Hit, 0-3",@KC,650490,663568,824093,True,3.0,0.0,2.0,0
+2026-07-02,6,Bobby Witt Jr.,Ian Seymour,71.38567716135776,"No Hit, 0-4",KC,677951,693855,824093,True,4.0,0.0,0.0,0
+2026-07-02,7,Brandon Marsh,Jared Jones,70.64212735814095,"No Hit, 0-4",PHI,669016,683003,823442,True,4.0,0.0,0.0,0
+2026-07-02,8,Shohei Ohtani,Randy Vásquez,70.42641918983932,"Hit, 1-4",LAD,660271,681190,823935,True,4.0,1.0,1.0,1
+2026-07-02,9,Willi Castro,Ryan Gusto,70.2963451119327,"Hit, 1-3",COL,650489,687473,824335,True,3.0,1.0,0.0,1
+2026-07-02,10,Matt Olson,Dustin May,70.23552816083985,"No Hit, 0-3",ATL,621566,669160,824906,True,3.0,0.0,1.0,0
 2026-07-01,1,Xavier Edwards,Kyle Freeland,79.82487425932656,Did Not Start,@COL,669364,607536,824337,False,1.0,0.0,0.0,2
 2026-07-01,2,Otto Lopez,Kyle Freeland,78.78564523490141,"Hit, 1-4",@COL,672640,607536,824337,True,4.0,1.0,0.0,1
 2026-07-01,3,Luis Arraez,Zac Gallen,77.66613998890173,"No Hit, 0-5",@AZ,650333,668678,825064,True,5.0,0.0,0.0,0
