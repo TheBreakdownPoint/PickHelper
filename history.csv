@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-03,1,Luis Arraez,Ryan Feltner,77.97033631007267,"Hit, 1-3",@COL,650333,663372,824336,True,3.0,1.0,0.0,1
+2026-07-03,2,Jake McCarthy,Logan Webb,71.16655399723446,"Hit, 4-5",COL,664983,657277,824336,True,5.0,4.0,0.0,1
+2026-07-03,3,Heliot Ramos,Ryan Feltner,69.89382549059061,"Hit, 1-4",@COL,671218,663372,824336,True,4.0,1.0,0.0,1
+2026-07-03,4,Otto Lopez,Jack Perkins,69.54019915713864,"Hit, 2-5",@OAK,672640,678022,824982,True,5.0,2.0,0.0,1
+2026-07-03,5,Xavier Edwards,Jack Perkins,69.51395256617745,"No Hit, 0-2",@OAK,669364,678022,824982,True,2.0,0.0,2.0,0
+2026-07-03,6,Yordan Alvarez,Nick Martinez,69.30605925194956,"Hit, 1-4",HOU,670541,607259,824173,True,4.0,1.0,0.0,1
+2026-07-03,7,Ketel Marte,Kyle Harrison,69.2636165484476,"Hit, 2-5",AZ,606466,690986,825062,True,5.0,2.0,0.0,1
+2026-07-03,8,Rafael Devers,Ryan Feltner,69.25996062737607,"Hit, 2-4",@COL,646240,663372,824336,True,4.0,2.0,0.0,1
+2026-07-03,9,Jordan Walker,David Peterson,68.83051935797623,"Hit, 1-4",@CHC,691023,656849,824659,True,4.0,1.0,1.0,1
+2026-07-03,10,Ivan Herrera,David Peterson,68.6941645503198,"Hit, 3-4",@CHC,671056,656849,824659,True,4.0,3.0,1.0,1
 2026-07-02,1,Xavier Edwards,Michael Lorenzen,77.17423751038743,"No Hit, 0-2",@COL,669364,547179,824335,True,2.0,0.0,1.0,0
 2026-07-02,2,Otto Lopez,Michael Lorenzen,76.0553426970635,"Hit, 3-5",@COL,672640,547179,824335,True,5.0,3.0,0.0,1
 2026-07-02,3,Jake McCarthy,Ryan Gusto,73.03190184708006,"Hit, 2-4",COL,664983,687473,824335,True,4.0,2.0,1.0,1
