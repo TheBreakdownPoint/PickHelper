@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-05,1,Luis Arraez,Tanner Gordon,81.8461421399371,"No Hit, 0-4",@COL,650333,685299,824333,True,4.0,0.0,1.0,0
+2026-07-05,2,Heliot Ramos,Tanner Gordon,74.77611958459478,"Hit, 1-4",@COL,671218,685299,824333,True,4.0,1.0,1.0,1
+2026-07-05,3,Rafael Devers,Tanner Gordon,74.03432360661611,"Hit, 2-5",@COL,646240,685299,824333,True,5.0,2.0,0.0,1
+2026-07-05,4,Jackson Chourio,Eduardo Rodríguez,73.2771004811956,"Hit, 2-4",@AZ,694192,593958,825061,True,4.0,2.0,0.0,1
+2026-07-05,5,Jung Hoo Lee,Tanner Gordon,73.11187130200277,"Hit, 1-5",@COL,808982,685299,824333,True,5.0,1.0,0.0,1
+2026-07-05,6,Bryce Eldridge,Tanner Gordon,72.8675046222747,"No Hit, 0-3",@COL,805811,685299,824333,True,3.0,0.0,1.0,0
+2026-07-05,7,Jake McCarthy,Tyler Mahle,72.60878920855711,"Hit, 1-4",COL,664983,641816,824333,True,4.0,1.0,0.0,1
+2026-07-05,8,Bobby Witt Jr.,Aaron Nola,72.11549493136472,"Hit, 2-3",KC,677951,605400,824091,True,3.0,2.0,1.0,1
+2026-07-05,9,Mickey Moniak,Tyler Mahle,70.9406111766875,"No Hit, 0-3",COL,666160,641816,824333,True,3.0,0.0,0.0,0
+2026-07-05,10,Ceddanne Rafaela,Ryan Johnson,70.8535027322704,"Hit, 1-5",@LAA,678882,696270,824010,True,5.0,1.0,0.0,1
 2026-07-04,1,Luis Arraez,Tomoyuki Sugano,79.45283071861621,"Hit, 3-5",@COL,650333,608372,824334,True,5.0,3.0,0.0,1
 2026-07-04,2,Bobby Witt Jr.,Jesús Luzardo,73.7083272749215,"No Hit, 0-4",KC,677951,666200,824092,True,4.0,0.0,0.0,0
 2026-07-04,3,Otto Lopez,Aaron Civale,73.35618077384348,"Hit, 3-5",@OAK,672640,650644,824983,True,5.0,3.0,0.0,1
