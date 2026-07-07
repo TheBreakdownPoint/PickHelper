@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-06,1,Luis Arraez,Kevin Gausman,74.40390237196429,"Hit, 1-4",SF,650333,592332,823205,True,4.0,1.0,1.0,1
+2026-07-06,2,Yordan Alvarez,Miles Mikolas,73.147855821181,"Hit, 1-5",@WSH,670541,571945,822712,True,5.0,1.0,0.0,1
+2026-07-06,3,Bobby Witt Jr.,Cristopher Sánchez,73.14696104820962,"Hit, 2-4",KC,677951,650911,824089,True,4.0,2.0,0.0,1
+2026-07-06,4,Juan Soto,Reynaldo López,72.14109628871131,"Hit, 1-2",@ATL,665742,625643,824900,True,2.0,1.0,3.0,1
+2026-07-06,5,Trea Turner,Noah Cameron,71.35863875263792,"Hit, 3-4",@KC,607208,702070,824089,True,4.0,3.0,0.0,1
+2026-07-06,6,Andy Pages,Kyle Freeland,70.88440413871977,"No Hit, 0-5",LAD,681624,607536,823930,True,5.0,0.0,0.0,0
+2026-07-06,7,Jackson Chourio,Dustin May,70.74620204391732,"No Hit, 0-4",@STL,694192,669160,823036,True,4.0,0.0,1.0,0
+2026-07-06,8,Ketel Marte,Walker Buehler,69.53694008936323,"Hit, 1-4",@SD,606466,621111,823282,True,4.0,1.0,0.0,1
+2026-07-06,9,Brice Turang,Dustin May,69.50024595477302,"Hit, 1-4",@STL,668930,669160,823036,True,4.0,1.0,0.0,1
+2026-07-06,10,Freddie Freeman,Kyle Freeland,69.25623487303612,"Hit, 1-5",LAD,518692,607536,823930,True,5.0,1.0,0.0,1
 2026-07-05,1,Luis Arraez,Tanner Gordon,81.8461421399371,"No Hit, 0-4",@COL,650333,685299,824333,True,4.0,0.0,1.0,0
 2026-07-05,2,Heliot Ramos,Tanner Gordon,74.77611958459478,"Hit, 1-4",@COL,671218,685299,824333,True,4.0,1.0,1.0,1
 2026-07-05,3,Rafael Devers,Tanner Gordon,74.03432360661611,"Hit, 2-5",@COL,646240,685299,824333,True,5.0,2.0,0.0,1
