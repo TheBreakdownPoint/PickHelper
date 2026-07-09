@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-08,1,Luis Arraez,Dylan Cease,72.56903266107838,"No Hit, 0-4",SF,650333,656302,823202,True,4.0,0.0,0.0,0
+2026-07-08,2,Xavier Edwards,George Kirby,71.83823609843307,"Hit, 2-4",MIA,669364,669923,823848,True,4.0,2.0,0.0,1
+2026-07-08,3,Michael Harris II,Jared Jones,71.28095560807635,"Hit, 1-4",@PIT,671739,683003,823360,True,4.0,1.0,0.0,1
+2026-07-08,4,Matt Olson,Jared Jones,71.22628521427939,"No Hit, 0-4",@PIT,621566,683003,823360,True,4.0,0.0,0.0,0
+2026-07-08,5,Otto Lopez,George Kirby,71.0695931314859,"Hit, 2-4",MIA,672640,669923,823848,True,4.0,2.0,0.0,1
+2026-07-08,6,Yandy Diaz,Gerrit Cole,70.38214949435837,"Hit, 4-4",TB,650490,543037,822957,True,4.0,4.0,0.0,1
+2026-07-08,7,Jackson Chourio,Michael McGreevy,69.87616795238964,"No Hit, 0-4",@STL,694192,700241,823032,True,4.0,0.0,0.0,0
+2026-07-08,8,Brice Turang,Michael McGreevy,69.56832117219015,Did Not Start,@STL,668930,700241,823032,,,,,2
+2026-07-08,9,Pete Crow-Armstrong,Dean Kremer,69.35027073497018,"Hit, 2-4",@BAL,691718,665152,824815,True,4.0,2.0,1.0,1
+2026-07-08,10,Liam Hicks,George Kirby,69.03674953910176,"No Hit, 0-4",MIA,689414,669923,823848,True,4.0,0.0,0.0,0
 2026-07-07,1,Shohei Ohtani,Michael Lorenzen,72.22229772620335,"Hit, 1-4",LAD,660271,547179,823929,True,4.0,1.0,1.0,1
 2026-07-07,2,Freddie Freeman,Michael Lorenzen,72.16958546581702,"Hit, 2-5",LAD,518692,547179,823929,True,5.0,2.0,0.0,1
 2026-07-07,3,Luis Arraez,Unknown,70.80351250878347,"Hit, 2-4",SF,650333,99999999,823203,True,4.0,2.0,0.0,1
