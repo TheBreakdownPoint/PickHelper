@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-10,1,Luis Arraez,Tanner Gordon,77.77030932537924,"Hit, 3-4",SF,650333,685299,823200,True,4.0,3.0,1.0,1
+2026-07-10,2,Pete Crow-Armstrong,Hunter Greene,73.67746495082363,"No Hit, 0-4",@CIN,691718,668881,824493,True,4.0,0.0,0.0,0
+2026-07-10,3,Otto Lopez,Parker Messick,73.06404258736605,"No Hit, 0-4",MIA,672640,800048,823845,True,4.0,0.0,0.0,0
+2026-07-10,4,Michael Harris II,Kyle Leahy,72.90889977403798,"No Hit, 0-4",@STL,671739,681517,823033,True,4.0,0.0,0.0,0
+2026-07-10,5,Bobby Witt Jr.,Brandon Young,72.0067055333593,"Hit, 1-4",@BAL,677951,687064,824817,True,4.0,1.0,0.0,1
+2026-07-10,6,Kevin McGonigle,Aaron Nola,71.60764206435341,"Hit, 1-5",DET,805808,605400,824252,True,5.0,1.0,0.0,1
+2026-07-10,7,Heliot Ramos,Tanner Gordon,71.54789410387153,"No Hit, 0-4",SF,671218,685299,823200,True,4.0,0.0,0.0,0
+2026-07-10,8,Yandy Diaz,Luis Castillo,71.52932301989193,"No Hit, 0-5",TB,650490,622491,822955,True,5.0,0.0,0.0,0
+2026-07-10,9,Ernie Clement,JP Sears,71.456343387654,"Hit, 2-5",@SD,676391,676664,823278,True,5.0,2.0,0.0,1
+2026-07-10,10,Matt Olson,Kyle Leahy,71.36077305783274,"No Hit, 0-3",@STL,621566,681517,823033,True,3.0,0.0,0.0,0
 2026-07-09,1,Luis Arraez,Ryan Feltner,74.37974048330224,"Hit, 2-4",SF,650333,663372,823201,True,4.0,2.0,1.0,1
 2026-07-09,2,Bobby Witt Jr.,Sean Manaea,72.88385856550366,"Hit, 1-4",@NYM,677951,640455,823606,True,4.0,1.0,0.0,1
 2026-07-09,3,Michael Harris II,Mitch Keller,72.09303340502791,"Hit, 1-6",@PIT,671739,656605,823359,True,6.0,1.0,0.0,1
