@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-11,1,Luis Arraez,Kyle Freeland,74.23548565406254,"Hit, 2-4",SF,650333,607536,823198,True,4.0,2.0,0.0,1
+2026-07-11,2,Heliot Ramos,Kyle Freeland,73.74793875594762,"Hit, 1-4",SF,671218,607536,823198,True,4.0,1.0,0.0,1
+2026-07-11,3,Mauricio Dubon,Matthew Liberatore,72.59310594355283,"Hit, 1-4",@STL,643289,669461,823030,True,4.0,1.0,0.0,1
+2026-07-11,4,Casey Schmitt,Kyle Freeland,71.31821605122278,"Hit, 1-4",SF,669477,607536,823198,True,4.0,1.0,0.0,1
+2026-07-11,5,Ben Rice,Miles Mikolas,71.3150059824498,"Hit, 2-2",@WSH,700250,571945,822711,True,2.0,2.0,2.0,1
+2026-07-11,6,Alec Burleson,Reynaldo López,70.93099171696076,"No Hit, 0-4",STL,676475,625643,823030,True,4.0,0.0,0.0,0
+2026-07-11,7,Jeremy Pena,Kumar Rocker,70.86007285321386,"Hit, 1-4",@TEX,665161,677958,822875,True,4.0,1.0,0.0,1
+2026-07-11,8,Ozzie Albies,Matthew Liberatore,70.63630545525633,"No Hit, 0-3",@STL,645277,669461,823030,True,3.0,0.0,1.0,0
+2026-07-11,9,Xavier Edwards,Tanner Bibee,70.5942431360606,"Hit, 1-4",MIA,669364,676440,823844,True,4.0,1.0,0.0,1
+2026-07-11,10,Cody Bellinger,Miles Mikolas,70.11837829828428,"Hit, 1-4",@WSH,641355,571945,822711,True,4.0,1.0,0.0,1
 2026-07-10,1,Luis Arraez,Tanner Gordon,77.77030932537924,"Hit, 3-4",SF,650333,685299,823200,True,4.0,3.0,1.0,1
 2026-07-10,2,Pete Crow-Armstrong,Hunter Greene,73.67746495082363,"No Hit, 0-4",@CIN,691718,668881,824493,True,4.0,0.0,0.0,0
 2026-07-10,3,Otto Lopez,Parker Messick,73.06404258736605,"No Hit, 0-4",MIA,672640,800048,823845,True,4.0,0.0,0.0,0
