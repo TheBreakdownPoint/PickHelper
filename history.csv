@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-12,1,Luis Arraez,Michael Lorenzen,77.41082129855972,"No Hit, 0-3",SF,650333,547179,823199,True,3.0,0.0,1.0,0
+2026-07-12,2,Jeremy Pena,MacKenzie Gore,73.11270507167963,"No Hit, 0-4",@TEX,665161,669022,822876,True,4.0,0.0,0.0,0
+2026-07-12,3,Michael Harris II,Dustin May,71.88183868920537,"No Hit, 0-4",@STL,671739,669160,823029,True,4.0,0.0,0.0,0
+2026-07-12,4,Otto Lopez,Joey Cantillo,70.69866363193127,"No Hit, 0-5",MIA,672640,676282,823842,True,5.0,0.0,0.0,0
+2026-07-12,5,Matt Olson,Dustin May,70.60734513568522,"Hit, 1-5",@STL,621566,669160,823029,True,5.0,1.0,0.0,1
+2026-07-12,6,Yandy Diaz,Emerson Hancock,70.48552451406174,"Hit, 2-4",TB,650490,676106,822951,True,4.0,2.0,0.0,1
+2026-07-12,7,Bobby Witt Jr.,Shane Baz,70.48145088267471,"Hit, 2-5",@BAL,677951,669358,824814,True,5.0,2.0,0.0,1
+2026-07-12,8,Ben Rice,Cade Cavalli,70.3432301673787,"Hit, 1-4",@WSH,700250,676917,822708,True,4.0,1.0,0.0,1
+2026-07-12,9,Elly De La Cruz,Matthew Boyd,70.30401632991926,"Hit, 1-5",CIN,682829,571510,824491,True,5.0,1.0,0.0,1
+2026-07-12,10,Jake McCarthy,Trevor McDonald,69.6098295455607,"Hit, 1-3",@SF,664983,686790,823199,True,3.0,1.0,1.0,1
 2026-07-11,1,Luis Arraez,Kyle Freeland,74.23548565406254,"Hit, 2-4",SF,650333,607536,823198,True,4.0,2.0,0.0,1
 2026-07-11,2,Heliot Ramos,Kyle Freeland,73.74793875594762,"Hit, 1-4",SF,671218,607536,823198,True,4.0,1.0,0.0,1
 2026-07-11,3,Mauricio Dubon,Matthew Liberatore,72.59310594355283,"Hit, 1-4",@STL,643289,669461,823030,True,4.0,1.0,0.0,1
