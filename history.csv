@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-16,1,Juan Soto,Aaron Nola,70.80793709196729,"Hit, 1-1",@PHI,665742,605400,823440,True,1.0,1.0,3.0,1
+2026-07-16,2,Carson Benge,Aaron Nola,68.10756344283674,"Hit, 1-4",@PHI,701807,605400,823440,True,4.0,1.0,0.0,1
+2026-07-16,3,Brandon Marsh,Christian Scott,67.09429448559256,"No Hit, 0-4",PHI,669016,681035,823440,True,4.0,0.0,0.0,0
+2026-07-16,4,Bo Bichette,Aaron Nola,65.98051576434058,"No Hit, 0-4",@PHI,666182,605400,823440,True,4.0,0.0,0.0,0
+2026-07-16,5,Francisco Lindor,Aaron Nola,65.10629225067999,"No Hit, 0-4",@PHI,596019,605400,823440,True,4.0,0.0,0.0,0
+2026-07-16,6,Trea Turner,Christian Scott,64.0742446898614,"Hit, 1-4",PHI,607208,681035,823440,True,4.0,1.0,0.0,1
+2026-07-16,7,Kyle Schwarber,Christian Scott,63.40431020436345,"Hit, 1-4",PHI,656941,681035,823440,True,4.0,1.0,0.0,1
+2026-07-16,8,Bryson Stott,Christian Scott,62.21052791266512,"No Hit, 0-3",PHI,681082,681035,823440,True,3.0,0.0,0.0,0
+2026-07-16,9,Bryce Harper,Christian Scott,61.89602758722494,"Hit, 1-3",PHI,547180,681035,823440,True,3.0,1.0,1.0,1
+2026-07-16,10,Brett Baty,Aaron Nola,59.70672182857739,"Hit, 2-4",@PHI,683146,605400,823440,True,4.0,2.0,0.0,1
 2026-07-12,1,Luis Arraez,Michael Lorenzen,77.41082129855972,"No Hit, 0-3",SF,650333,547179,823199,True,3.0,0.0,1.0,0
 2026-07-12,2,Jeremy Pena,MacKenzie Gore,73.11270507167963,"No Hit, 0-4",@TEX,665161,669022,822876,True,4.0,0.0,0.0,0
 2026-07-12,3,Michael Harris II,Dustin May,71.88183868920537,"No Hit, 0-4",@STL,671739,669160,823029,True,4.0,0.0,0.0,0
