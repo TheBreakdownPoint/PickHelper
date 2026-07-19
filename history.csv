@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-18,1,Elly De La Cruz,Tomoyuki Sugano,75.72364467394371,"Hit, 1-4",@COL,682829,608372,824331,True,4.0,1.0,0.0,1
+2026-07-18,2,Yandy Diaz,Patrick Sandoval,74.81457951943042,"Hit, 1-3",@BOS,650490,663776,824738,True,3.0,1.0,2.0,1
+2026-07-18,3,Jake McCarthy,Rhett Lowder,73.02174608174003,"Hit, 2-5",COL,664983,695076,824331,True,5.0,2.0,0.0,1
+2026-07-18,4,Junior Caminero,Patrick Sandoval,72.43036769390486,"Hit, 1-4",@BOS,691406,663776,824738,True,4.0,1.0,0.0,1
+2026-07-18,5,Luis Arraez,Bryan Woo,72.30601862754817,"Hit, 1-4",@SEA,650333,693433,823116,True,4.0,1.0,1.0,1
+2026-07-18,6,Jeremy Pena,Trevor Rogers,71.66143153151799,"Hit, 1-2",HOU,665161,669432,824169,True,2.0,1.0,0.0,1
+2026-07-18,7,Bobby Witt Jr.,Griffin Canning,70.59985379019568,"No Hit, 0-4",KC,677951,656288,824088,True,4.0,0.0,0.0,0
+2026-07-18,8,JJ Bleday,Tomoyuki Sugano,70.30407566050177,"Hit, 1-4",@COL,668709,608372,824331,True,4.0,1.0,0.0,1
+2026-07-18,9,Alec Burleson,Brandon Pfaadt,70.29938495225186,"Hit, 2-4",@AZ,676475,694297,825059,True,4.0,2.0,0.0,1
+2026-07-18,10,Jonathan Aranda,Patrick Sandoval,69.67413443076268,Did Not Start,@BOS,666018,663776,824738,False,1.0,0.0,0.0,2
 2026-07-17,1,Jake McCarthy,Brady Singer,72.95726738364047,"Hit, 1-3",COL,664983,663903,824332,True,3.0,1.0,0.0,1
 2026-07-17,2,Luis Arraez,Bryce Miller,72.27699060566354,"Hit, 1-5",@SEA,650333,682243,823115,True,5.0,1.0,0.0,1
 2026-07-17,3,Ernie Clement,Anthony Kay,71.96688650829037,"Hit, 2-4",TOR,676391,641743,822789,True,4.0,2.0,0.0,1
