@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-20,1,Luis Arraez,Michael Wacha,75.3957632350121,"No Hit, 0-4",@KC,650333,608379,824087,True,4.0,0.0,0.0,0
+2026-07-20,2,Curtis Mead,Kyle Freeland,72.38038067780913,"Hit, 3-5",@COL,678554,607536,824328,True,5.0,3.0,0.0,1
+2026-07-20,3,CJ Abrams,Kyle Freeland,71.9112902172546,"Hit, 1-5",@COL,682928,607536,824328,True,5.0,1.0,0.0,1
+2026-07-20,4,James Wood,Kyle Freeland,71.71874922181368,"Hit, 1-4",@COL,695578,607536,824328,True,4.0,1.0,1.0,1
+2026-07-20,5,Jeremy Pena,Janson Junk,71.56395777070055,"Hit, 1-4",HOU,665161,676083,824167,True,4.0,1.0,0.0,1
+2026-07-20,6,Elly De La Cruz,George Kirby,71.4061514619276,"No Hit, 0-3",@SEA,682829,669923,823112,True,3.0,0.0,1.0,0
+2026-07-20,7,Ketel Marte,Jeffrey Springs,70.70975644392145,"Hit, 1-4",AZ,606466,605488,825058,True,4.0,1.0,0.0,1
+2026-07-20,8,Yordan Alvarez,Janson Junk,70.67104172382429,"Hit, 3-4",HOU,670541,676083,824167,True,4.0,3.0,0.0,1
+2026-07-20,9,Mauricio Dubon,JP Sears,70.48216838718044,"No Hit, 0-2",ATL,643289,676664,824898,True,2.0,0.0,0.0,0
+2026-07-20,10,Keibert Ruiz,Kyle Freeland,69.91287960732613,Did Not Start,@COL,660688,607536,824328,False,0.0,0.0,0.0,2
 2026-07-19,1,Elly De La Cruz,Ryan Feltner,75.16697939122614,"Hit, 1-4",@COL,682829,663372,824330,True,4.0,1.0,1.0,1
 2026-07-19,2,Fernando Tatis Jr.,Noah Cameron,72.39034686323335,"Hit, 2-5",@KC,665487,702070,824086,True,5.0,2.0,0.0,1
 2026-07-19,3,Jake McCarthy,Hunter Greene,72.14715477889916,"Hit, 1-4",COL,664983,668881,824330,True,4.0,1.0,0.0,1
