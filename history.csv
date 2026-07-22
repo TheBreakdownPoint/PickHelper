@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-21,1,Jake McCarthy,Miles Mikolas,74.95802083260878,"Hit, 2-5",COL,664983,571945,824329,True,5.0,2.0,0.0,1
+2026-07-21,2,CJ Abrams,Michael Lorenzen,73.91580234395173,"Hit, 2-3",@COL,682928,547179,824329,True,3.0,2.0,1.0,1
+2026-07-21,3,Luis Arraez,Luinder Avila,73.40575121186717,Did Not Start,@KC,650333,679883,824085,,,,,2
+2026-07-21,4,James Wood,Michael Lorenzen,73.20522715156928,"Hit, 2-5",@COL,695578,547179,824329,True,5.0,2.0,0.0,1
+2026-07-21,5,Luis Garcia Jr.,Michael Lorenzen,71.79830261247145,"Hit, 2-5",@COL,671277,547179,824329,True,5.0,2.0,0.0,1
+2026-07-21,6,Michael Harris II,Walker Buehler,71.66907703494908,"Hit, 1-4",ATL,671739,621111,824895,True,4.0,1.0,0.0,1
+2026-07-21,7,Mickey Moniak,Miles Mikolas,71.47341791460995,"Hit, 2-4",COL,666160,571945,824329,True,4.0,2.0,0.0,1
+2026-07-21,8,Matt Olson,Walker Buehler,70.24553220588996,"Hit, 1-4",ATL,621566,621111,824895,True,4.0,1.0,1.0,1
+2026-07-21,9,Fernando Tatis Jr.,Reynaldo López,70.20645105283052,"Hit, 3-5",@ATL,665487,625643,824895,True,5.0,3.0,0.0,1
+2026-07-21,10,Elly De La Cruz,Luis Castillo,69.94394527274275,"Hit, 1-3",@SEA,682829,622491,823114,True,3.0,1.0,1.0,1
 2026-07-20,1,Luis Arraez,Michael Wacha,75.3957632350121,"No Hit, 0-4",@KC,650333,608379,824087,True,4.0,0.0,0.0,0
 2026-07-20,2,Curtis Mead,Kyle Freeland,72.38038067780913,"Hit, 3-5",@COL,678554,607536,824328,True,5.0,3.0,0.0,1
 2026-07-20,3,CJ Abrams,Kyle Freeland,71.9112902172546,"Hit, 1-5",@COL,682928,607536,824328,True,5.0,1.0,0.0,1
