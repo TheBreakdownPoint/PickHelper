@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-22,1,Luis Arraez,Seth Lugo,75.82437629161578,"No Hit, 0-3",@KC,650333,607625,824083,True,3.0,0.0,0.0,0
+2026-07-22,2,Jake McCarthy,Cade Cavalli,74.60908520624346,"Hit, 1-5",COL,664983,676917,824327,True,5.0,1.0,0.0,1
+2026-07-22,3,Shohei Ohtani,Aaron Nola,72.32958957170243,"No Hit, 0-4",@PHI,660271,605400,823438,True,4.0,0.0,1.0,0
+2026-07-22,4,Freddie Freeman,Aaron Nola,71.33139601872061,"Hit, 3-4",@PHI,518692,605400,823438,True,4.0,3.0,1.0,1
+2026-07-22,5,Mickey Moniak,Cade Cavalli,70.8355099703818,"Hit, 1-4",COL,666160,676917,824327,True,4.0,1.0,0.0,1
+2026-07-22,6,Jeremy Pena,Sandy Alcantara,70.78374693385041,"Hit, 3-4",HOU,665161,645261,824166,True,4.0,3.0,0.0,1
+2026-07-22,7,Kevin McGonigle,Colin Rea,70.53798177358941,"Hit, 1-4",@CHC,805808,607067,824650,True,4.0,1.0,0.0,1
+2026-07-22,8,Trea Turner,Eric Lauer,70.43923993235308,"No Hit, 0-4",PHI,607208,641778,823438,True,4.0,0.0,1.0,0
+2026-07-22,9,Yordan Alvarez,Sandy Alcantara,70.19485481954402,"Hit, 2-4",HOU,670541,645261,824166,True,4.0,2.0,0.0,1
+2026-07-22,10,Michael Harris II,Michael King,69.7089414494091,"No Hit, 0-5",ATL,671739,650633,824896,True,5.0,0.0,0.0,0
 2026-07-21,1,Jake McCarthy,Miles Mikolas,74.95802083260878,"Hit, 2-5",COL,664983,571945,824329,True,5.0,2.0,0.0,1
 2026-07-21,2,CJ Abrams,Michael Lorenzen,73.91580234395173,"Hit, 2-3",@COL,682928,547179,824329,True,3.0,2.0,1.0,1
 2026-07-21,3,Luis Arraez,Luinder Avila,73.40575121186717,Did Not Start,@KC,650333,679883,824085,,,,,2
