@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-23,1,Ketel Marte,Michael McGreevy,70.93780925053224,Did Not Start,@STL,606466,700241,823042,,,,,2
+2026-07-23,2,Yandy Diaz,Shane Bieber,70.87361217932849,"Hit, 1-4",@TOR,650490,669456,822785,True,4.0,1.0,0.0,1
+2026-07-23,3,Alec Burleson,Brandon Pfaadt,70.76337808790707,"Hit, 3-5",STL,676475,694297,823042,True,5.0,3.0,0.0,1
+2026-07-23,4,Fernando Tatis Jr.,Chris Sale,70.18844245949258,"Hit, 1-4",@ATL,665487,519242,824893,True,4.0,1.0,1.0,1
+2026-07-23,5,Ernie Clement,Ian Seymour,69.97017182198823,"Hit, 1-4",TOR,676391,693855,822785,True,4.0,1.0,0.0,1
+2026-07-23,6,Matt Olson,Griffin Canning,69.95169461946259,"No Hit, 0-4",ATL,621566,656288,824893,True,4.0,0.0,0.0,0
+2026-07-23,7,Junior Caminero,Shane Bieber,68.96505732437076,"No Hit, 0-4",@TOR,691406,669456,822785,True,4.0,0.0,0.0,0
+2026-07-23,8,Michael Harris II,Griffin Canning,68.96343805928417,"Hit, 2-4",ATL,671739,656288,824893,True,4.0,2.0,0.0,1
+2026-07-23,9,Jonathan Aranda,Shane Bieber,68.81610344983721,"No Hit, 0-4",@TOR,666018,669456,822785,True,4.0,0.0,0.0,0
+2026-07-23,10,Ozzie Albies,Griffin Canning,68.1813102957319,"Hit, 2-4",ATL,645277,656288,824893,True,4.0,2.0,0.0,1
 2026-07-22,1,Luis Arraez,Seth Lugo,75.82437629161578,"No Hit, 0-3",@KC,650333,607625,824083,True,3.0,0.0,0.0,0
 2026-07-22,2,Jake McCarthy,Cade Cavalli,74.60908520624346,"Hit, 1-5",COL,664983,676917,824327,True,5.0,1.0,0.0,1
 2026-07-22,3,Shohei Ohtani,Aaron Nola,72.32958957170243,"No Hit, 0-4",@PHI,660271,605400,823438,True,4.0,0.0,1.0,0
