@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-24,1,Ernie Clement,Patrick Sandoval,77.04988114037803,"No Hit, 0-4",@BOS,676391,663776,824733,True,4.0,0.0,0.0,0
+2026-07-24,2,Ketel Marte,Carson Palmquist,73.45928430600082,"Hit, 1-5",@WSH,606466,687223,822707,True,5.0,1.0,0.0,1
+2026-07-24,3,George Springer,Patrick Sandoval,73.4443894320886,"No Hit, 0-4",@BOS,543807,663776,824733,True,4.0,0.0,1.0,0
+2026-07-24,4,Yandy Diaz,Joey Cantillo,72.15458131044836,"No Hit, 0-4",TB,650490,676282,822952,True,4.0,0.0,1.0,0
+2026-07-24,5,Jacob Wilson,Zebby Matthews,71.70677257292742,"No Hit, 0-4",@MIN,805779,805673,823680,True,4.0,0.0,0.0,0
+2026-07-24,6,Jeremy Pena,Davis Martin,71.60232157212758,"Hit, 3-6",@CWS,665161,663436,824573,True,6.0,3.0,0.0,1
+2026-07-24,7,Elly De La Cruz,Dustin May,71.56219606587203,"Hit, 1-4",@STL,682829,669160,823031,True,4.0,1.0,1.0,1
+2026-07-24,8,Kevin McGonigle,Tristan Beck,71.38985424317895,Did Not Start,DET,805808,663941,824248,,,,,2
+2026-07-24,9,Xavier Edwards,Germán Márquez,71.34940772407117,"Hit, 2-4",MIA,669364,608566,823843,True,4.0,2.0,0.0,1
+2026-07-24,10,Gabriel Moreno,Carson Palmquist,70.90358745409911,"Hit, 2-4",@WSH,672515,687223,822707,True,4.0,2.0,0.0,1
 2026-07-23,1,Ketel Marte,Michael McGreevy,70.93780925053224,Did Not Start,@STL,606466,700241,823042,,,,,2
 2026-07-23,2,Yandy Diaz,Shane Bieber,70.87361217932849,"Hit, 1-4",@TOR,650490,669456,822785,True,4.0,1.0,0.0,1
 2026-07-23,3,Alec Burleson,Brandon Pfaadt,70.76337808790707,"Hit, 3-5",STL,676475,694297,823042,True,5.0,3.0,0.0,1
