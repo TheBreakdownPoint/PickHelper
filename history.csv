@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-25,1,Luis Arraez,Ryan Johnson,75.74761803050058,"Hit, 2-4",SF,650333,696270,823197,True,4.0,2.0,0.0,1
+2026-07-25,2,Otto Lopez,JP Sears,72.45763917009594,"Hit, 1-2",MIA,672640,676664,823841,True,2.0,1.0,1.0,1
+2026-07-25,3,Elly De La Cruz,Andre Pallante,71.62423810377604,"Hit, 1-3",@STL,682829,669467,823027,True,3.0,1.0,1.0,1
+2026-07-25,4,Matt Olson,Brandon Young,71.34638453896636,"No Hit, 0-3",@BAL,621566,687064,824811,True,3.0,0.0,1.0,0
+2026-07-25,5,Jeremy Pena,Sean Burke,70.62162882105218,"Hit, 3-4",@CWS,665161,680732,824571,True,4.0,3.0,0.0,1
+2026-07-25,6,Ozzie Albies,Brandon Young,70.50778692468892,"Hit, 1-4",@BAL,645277,687064,824811,True,4.0,1.0,0.0,1
+2026-07-25,7,Michael Harris II,Brandon Young,70.40117917947366,"Hit, 1-4",@BAL,671739,687064,824811,True,4.0,1.0,0.0,1
+2026-07-25,8,Trea Turner,Ryan Weathers,70.08849436893216,"Hit, 1-3",PHI,607208,677960,823435,True,3.0,1.0,0.0,1
+2026-07-25,9,Nathan Lukes,Sonny Gray,70.04241661181098,"Hit, 2-5",@BOS,664770,543243,824734,True,5.0,2.0,0.0,1
+2026-07-25,10,Kevin McGonigle,Michael Wacha,70.0212264103815,"No Hit, 0-4",DET,805808,608379,824244,True,4.0,0.0,0.0,0
 2026-07-24,1,Ernie Clement,Patrick Sandoval,77.04988114037803,"No Hit, 0-4",@BOS,676391,663776,824733,True,4.0,0.0,0.0,0
 2026-07-24,2,Ketel Marte,Carson Palmquist,73.45928430600082,"Hit, 1-5",@WSH,606466,687223,822707,True,5.0,1.0,0.0,1
 2026-07-24,3,George Springer,Patrick Sandoval,73.4443894320886,"No Hit, 0-4",@BOS,543807,663776,824733,True,4.0,0.0,1.0,0
