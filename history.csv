@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-26,1,Ketel Marte,Miles Mikolas,73.16026699727941,"Hit, 1-5",@WSH,606466,571945,822706,True,5.0,1.0,0.0,1
+2026-07-26,2,Luis Arraez,José Soriano,72.80780822371506,"Hit, 2-5",SF,650333,667755,823194,True,5.0,2.0,0.0,1
+2026-07-26,3,Yandy Diaz,Parker Messick,72.70819679947265,"No Hit, 0-4",TB,650490,800048,822950,True,4.0,0.0,0.0,0
+2026-07-26,4,Ernie Clement,Ranger Suarez,72.59974762808558,"Hit, 1-4",@BOS,676391,624133,824730,True,4.0,1.0,0.0,1
+2026-07-26,5,Jackson Chourio,Kyle Freeland,72.4698920601828,"Hit, 2-5",MIL,694192,607536,823755,True,5.0,2.0,0.0,1
+2026-07-26,6,Jeremy Pena,Erick Fedde,72.22329843514333,"Hit, 2-4",@CWS,665161,607200,824572,True,4.0,2.0,0.0,1
+2026-07-26,7,Elly De La Cruz,Kyle Leahy,71.65916684445234,"Hit, 2-5",@STL,682829,681517,823028,True,5.0,2.0,0.0,1
+2026-07-26,8,Yordan Alvarez,Erick Fedde,70.86593854577586,"No Hit, 0-2",@CWS,670541,607200,824572,True,2.0,0.0,2.0,0
+2026-07-26,9,Matt Olson,Shane Baz,70.8563834898506,"Hit, 1-5",@BAL,621566,669358,824810,True,5.0,1.0,1.0,1
+2026-07-26,10,Junior Caminero,Parker Messick,70.77408412247551,"No Hit, 0-4",TB,691406,800048,822950,True,4.0,0.0,0.0,0
 2026-07-25,1,Luis Arraez,Ryan Johnson,75.74761803050058,"Hit, 2-4",SF,650333,696270,823197,True,4.0,2.0,0.0,1
 2026-07-25,2,Otto Lopez,JP Sears,72.45763917009594,"Hit, 1-2",MIA,672640,676664,823841,True,2.0,1.0,1.0,1
 2026-07-25,3,Elly De La Cruz,Andre Pallante,71.62423810377604,"Hit, 1-3",@STL,682829,669467,823027,True,3.0,1.0,1.0,1
