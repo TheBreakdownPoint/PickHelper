@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-27,1,Luis Arraez,Brandon Sproat,73.45704087330886,"Hit, 1-4",SF,650333,687075,823195,True,4.0,1.0,0.0,1
+2026-07-27,2,CJ Abrams,Max Scherzer,71.88872263737244,"No Hit, 0-2",WSH,682928,453286,822705,True,2.0,0.0,2.0,0
+2026-07-27,3,Ernie Clement,Andrew Alvarez,71.71604911346493,"Hit, 1-5",@WSH,676391,674841,822705,True,5.0,1.0,0.0,1
+2026-07-27,4,Elly De La Cruz,Slade Cecconi,71.33144791381191,Did Not Start,CIN,682829,677944,824490,,,,,2
+2026-07-27,5,Jacob Wilson,Payton Tolle,70.97327049704245,"No Hit, 0-4",OAK,805779,801139,824977,True,4.0,0.0,0.0,0
+2026-07-27,6,Jeremy Pena,Walbert Ureña,70.96496699471413,"Hit, 1-5",@LAA,665161,700712,824001,True,5.0,1.0,0.0,1
+2026-07-27,7,Jordan Walker,David Peterson,70.26275728856139,"No Hit, 0-2",STL,691023,656849,823025,True,2.0,0.0,2.0,0
+2026-07-27,8,Ketel Marte,Mitch Keller,70.09786132434368,"Hit, 1-4",@PIT,606466,656605,823353,True,4.0,1.0,1.0,1
+2026-07-27,9,James Wood,Max Scherzer,69.9901200544014,"Hit, 1-3",WSH,695578,453286,822705,True,3.0,1.0,2.0,1
+2026-07-27,10,Seiya Suzuki,Matthew Liberatore,69.84665325163387,"Hit, 1-5",@STL,673548,669461,823025,True,5.0,1.0,0.0,1
 2026-07-26,1,Ketel Marte,Miles Mikolas,73.16026699727941,"Hit, 1-5",@WSH,606466,571945,822706,True,5.0,1.0,0.0,1
 2026-07-26,2,Luis Arraez,José Soriano,72.80780822371506,"Hit, 2-5",SF,650333,667755,823194,True,5.0,2.0,0.0,1
 2026-07-26,3,Yandy Diaz,Parker Messick,72.70819679947265,"No Hit, 0-4",TB,650490,800048,822950,True,4.0,0.0,0.0,0
