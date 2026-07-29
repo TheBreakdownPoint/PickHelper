@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-28,1,Jeremy Pena,Reid Detmers,74.52479767563122,"Hit, 1-5",@LAA,665161,672282,824003,True,5.0,1.0,0.0,1
+2026-07-28,2,Luis Arraez,Logan Henderson,72.62511779965317,"Hit, 1-4",SF,650333,701656,823193,True,4.0,1.0,0.0,1
+2026-07-28,3,Elly De La Cruz,Slade Cecconi,71.52859724313639,"Hit, 2-5",CIN,682829,677944,824490,True,5.0,2.0,0.0,1
+2026-07-28,4,Xavier Edwards,Aaron Nola,71.52247150417675,"Hit, 1-2",MIA,669364,605400,823838,True,2.0,1.0,2.0,1
+2026-07-28,5,Yandy Diaz,Cal Quantrill,70.40688603244338,"No Hit, 0-3",TB,650490,615698,822949,True,3.0,0.0,1.0,0
+2026-07-28,6,Alec Burleson,Colin Rea,70.34432943293288,"No Hit, 0-2",STL,676475,607067,823026,True,2.0,0.0,1.0,0
+2026-07-28,7,CJ Abrams,Shane Bieber,70.20944964510183,"Hit, 1-5",WSH,682928,669456,822703,True,5.0,1.0,0.0,1
+2026-07-28,8,Pete Crow-Armstrong,Michael McGreevy,70.09822612945605,"No Hit, 0-4",@STL,691718,700241,823026,True,4.0,0.0,0.0,0
+2026-07-28,9,Kevin McGonigle,Dean Kremer,70.0794265794013,"Hit, 4-5",DET,805808,665152,824243,True,5.0,4.0,1.0,1
+2026-07-28,10,Freddie Freeman,Luis Castillo,69.73183915833158,"Hit, 1-5",LAD,518692,622491,823923,True,5.0,1.0,0.0,1
 2026-07-27,1,Luis Arraez,Brandon Sproat,73.45704087330886,"Hit, 1-4",SF,650333,687075,823195,True,4.0,1.0,0.0,1
 2026-07-27,2,CJ Abrams,Max Scherzer,71.88872263737244,"No Hit, 0-2",WSH,682928,453286,822705,True,2.0,0.0,2.0,0
 2026-07-27,3,Ernie Clement,Andrew Alvarez,71.71604911346493,"Hit, 1-5",@WSH,676391,674841,822705,True,5.0,1.0,0.0,1
