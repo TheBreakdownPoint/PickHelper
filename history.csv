@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-29,1,Jacob Wilson,Patrick Sandoval,73.65756580379572,"Hit, 1-5",OAK,805779,663776,824973,True,5.0,1.0,0.0,1
+2026-07-29,2,Ceddanne Rafaela,Jacob Lopez,72.60742828572178,"Hit, 2-5",@OAK,678882,682052,824973,True,5.0,2.0,0.0,1
+2026-07-29,3,Yandy Diaz,MacKenzie Gore,71.98776592752583,"Hit, 1-3",TB,650490,669022,822947,True,3.0,1.0,1.0,1
+2026-07-29,4,Otto Lopez,Jesús Luzardo,71.06770649253744,"Hit, 2-5",MIA,672640,666200,823837,True,5.0,2.0,0.0,1
+2026-07-29,5,Nick Gonzales,Eduardo Rodríguez,70.31283412204833,"Hit, 1-4",PIT,693304,593958,823351,True,4.0,1.0,0.0,1
+2026-07-29,6,Junior Caminero,MacKenzie Gore,69.85348047631838,"No Hit, 0-3",TB,691406,669022,822947,True,3.0,0.0,0.0,0
+2026-07-29,7,Pete Crow-Armstrong,Dustin May,69.74514064249678,"Hit, 1-5",@STL,691718,669160,823022,True,5.0,1.0,0.0,1
+2026-07-29,8,Elly De La Cruz,Joey Cantillo,69.70842587439505,"No Hit, 0-4",CIN,682829,676282,824487,True,4.0,0.0,1.0,0
+2026-07-29,9,Freddie Freeman,Emerson Hancock,69.19003195763372,"Hit, 2-4",LAD,518692,676106,823924,True,4.0,2.0,0.0,1
+2026-07-29,10,Nathan Lukes,Zack Littell,69.10502574477951,"No Hit, 0-3",@WSH,664770,641793,822702,True,3.0,0.0,2.0,0
 2026-07-28,1,Jeremy Pena,Reid Detmers,74.52479767563122,"Hit, 1-5",@LAA,665161,672282,824003,True,5.0,1.0,0.0,1
 2026-07-28,2,Luis Arraez,Logan Henderson,72.62511779965317,"Hit, 1-4",SF,650333,701656,823193,True,4.0,1.0,0.0,1
 2026-07-28,3,Elly De La Cruz,Slade Cecconi,71.52859724313639,"Hit, 2-5",CIN,682829,677944,824490,True,5.0,2.0,0.0,1
