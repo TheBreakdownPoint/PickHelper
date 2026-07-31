@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-30,1,Ryan Jeffers,Noah Cameron,70.55431981554115,"Hit, 1-3",MIN,680777,702070,823674,True,3.0,1.0,0.0,1
+2026-07-30,2,Heliot Ramos,JP Sears,70.31084974094702,"Hit, 1-4",@SD,671218,676664,823271,True,4.0,1.0,1.0,1
+2026-07-30,3,Luis Arraez,JP Sears,70.10348420676615,"No Hit, 0-4",@SD,650333,676664,823271,True,4.0,0.0,0.0,0
+2026-07-30,4,Ceddanne Rafaela,Mason Barnett,69.39274120665327,"Hit, 2-4",@OAK,678882,686930,824974,True,4.0,2.0,0.0,1
+2026-07-30,5,Pete Crow-Armstrong,Andre Pallante,69.35168783352316,"Hit, 2-5",@STL,691718,669467,823023,True,5.0,2.0,0.0,1
+2026-07-30,6,Brandon Lowe,Rhett Lowder,69.27315862220075,"Hit, 1-4",@CIN,664040,695076,824488,True,4.0,1.0,0.0,1
+2026-07-30,7,Freddie Freeman,Bryan Woo,69.10875979324629,"Hit, 1-4",LAD,518692,693433,823921,True,4.0,1.0,0.0,1
+2026-07-30,8,Alec Burleson,Javier Assad,68.79729229774027,"Hit, 1-4",STL,676475,665871,823023,True,4.0,1.0,1.0,1
+2026-07-30,9,Shohei Ohtani,Bryan Woo,68.76664101154543,Did Not Start,LAD,660271,693433,823921,,,,,2
+2026-07-30,10,Yandy Diaz,Cole Winn,68.24793683683593,"Hit, 2-4",TB,650490,668390,822946,True,4.0,2.0,0.0,1
 2026-07-29,1,Jacob Wilson,Patrick Sandoval,73.65756580379572,"Hit, 1-5",OAK,805779,663776,824973,True,5.0,1.0,0.0,1
 2026-07-29,2,Ceddanne Rafaela,Jacob Lopez,72.60742828572178,"Hit, 2-5",@OAK,678882,682052,824973,True,5.0,2.0,0.0,1
 2026-07-29,3,Yandy Diaz,MacKenzie Gore,71.98776592752583,"Hit, 1-3",TB,650490,669022,822947,True,3.0,1.0,1.0,1
