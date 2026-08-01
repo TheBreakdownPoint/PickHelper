@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-07-31,1,Jake McCarthy,Michael Wacha,72.68003564772353,"No Hit, 0-4",COL,664983,608379,824325,True,4.0,0.0,0.0,0
+2026-07-31,2,Luis Arraez,Bradgley Rodriguez,71.4819108268111,"Hit, 1-3",@SD,650333,699134,823272,True,3.0,1.0,0.0,1
+2026-07-31,3,Jackson Chourio,Ryan Johnson,70.99548174437741,"Hit, 1-5",@LAA,694192,696270,823999,True,5.0,1.0,0.0,1
+2026-07-31,4,Jeremy Pena,Nathan Eovaldi,70.94031756279395,"Hit, 3-5",HOU,665161,543135,824164,True,5.0,3.0,0.0,1
+2026-07-31,5,Brice Turang,Ryan Johnson,70.43017288179662,"Hit, 1-3",@LAA,668930,696270,823999,True,3.0,1.0,2.0,1
+2026-07-31,6,Mickey Moniak,Michael Wacha,70.03117966152611,"Hit, 1-4",COL,666160,608379,824325,True,4.0,1.0,0.0,1
+2026-07-31,7,Yandy Diaz,Erick Fedde,69.89495206706822,"Hit, 1-4",TB,650490,607200,822945,True,4.0,1.0,0.0,1
+2026-07-31,8,Ketel Marte,Tanner Bibee,69.4545476266423,"Hit, 1-3",@CLE,606466,676440,824407,True,3.0,1.0,0.0,1
+2026-07-31,9,Gleyber Torres,Jeffrey Springs,69.35035363917777,"No Hit, 0-5",@OAK,650402,605488,824975,True,5.0,0.0,1.0,0
+2026-07-31,10,Jonathan Aranda,Erick Fedde,69.20542191404763,"No Hit, 0-4",TB,666018,607200,822945,True,4.0,0.0,0.0,0
 2026-07-30,1,Ryan Jeffers,Noah Cameron,70.55431981554115,"Hit, 1-3",MIN,680777,702070,823674,True,3.0,1.0,0.0,1
 2026-07-30,2,Heliot Ramos,JP Sears,70.31084974094702,"Hit, 1-4",@SD,671218,676664,823271,True,4.0,1.0,1.0,1
 2026-07-30,3,Luis Arraez,JP Sears,70.10348420676615,"No Hit, 0-4",@SD,650333,676664,823271,True,4.0,0.0,0.0,0
