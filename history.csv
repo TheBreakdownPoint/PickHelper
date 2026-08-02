@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-01,1,Luis Arraez,Walker Buehler,74.29895594093401,Did Not Start,@SD,650333,621111,823269,,,,,2
+2026-08-01,2,Jacob Wilson,Framber Valdez,71.94356288228404,"Hit, 1-5",OAK,805779,664285,824972,True,5.0,1.0,0.0,1
+2026-08-01,3,CJ Abrams,Reynaldo López,70.81700401601192,"Hit, 1-4",@ATL,682928,625643,824890,True,4.0,1.0,0.0,1
+2026-08-01,4,Ozzie Albies,Miles Mikolas,70.786399525345,"Hit, 1-4",ATL,645277,571945,824890,True,4.0,1.0,0.0,1
+2026-08-01,5,James Wood,Reynaldo López,70.69092919433979,"No Hit, 0-3",@ATL,695578,625643,824890,True,3.0,0.0,1.0,0
+2026-08-01,6,Jake McCarthy,Luinder Avila,70.47614226649087,"Hit, 2-5",COL,664983,679883,824326,True,5.0,2.0,0.0,1
+2026-08-01,7,Jeremy Pena,Jacob deGrom,70.43076447068017,"Hit, 2-5",HOU,665161,594798,824162,True,5.0,2.0,0.0,1
+2026-08-01,8,Elly De La Cruz,Braxton Ashcraft,70.3255901618071,"No Hit, 0-4",CIN,682829,677952,824485,True,4.0,0.0,0.0,0
+2026-08-01,9,Matt Olson,Miles Mikolas,70.31027076403672,"Hit, 1-3",ATL,621566,571945,824890,True,3.0,1.0,1.0,1
+2026-08-01,10,Nick Gonzales,Andrew Abbott,70.20466145877465,"No Hit, 0-4",@CIN,693304,671096,824485,True,4.0,0.0,0.0,0
 2026-07-31,1,Jake McCarthy,Michael Wacha,72.68003564772353,"No Hit, 0-4",COL,664983,608379,824325,True,4.0,0.0,0.0,0
 2026-07-31,2,Luis Arraez,Bradgley Rodriguez,71.4819108268111,"Hit, 1-3",@SD,650333,699134,823272,True,3.0,1.0,0.0,1
 2026-07-31,3,Jackson Chourio,Ryan Johnson,70.99548174437741,"Hit, 1-5",@LAA,694192,696270,823999,True,5.0,1.0,0.0,1
