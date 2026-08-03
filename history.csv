@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-02,1,Ernie Clement,Matthew Liberatore,73.3593647310148,"No Hit, 0-4",TOR,676391,669461,822783,True,4.0,0.0,0.0,0
+2026-08-02,2,Jake McCarthy,Seth Lugo,73.03670552099095,"Hit, 1-5",COL,664983,607625,824323,True,5.0,1.0,0.0,1
+2026-08-02,3,Yandy Diaz,Anthony Kay,72.69021717094193,"No Hit, 0-4",TB,650490,641743,822943,True,4.0,0.0,0.0,0
+2026-08-02,4,Salvador Perez,Kyle Freeland,72.57950937406694,"Hit, 1-4",@COL,521692,607536,824323,True,4.0,1.0,0.0,1
+2026-08-02,5,Luis Arraez,Michael King,72.33941588846511,"No Hit, 0-5",@SD,650333,650633,823270,True,5.0,0.0,0.0,0
+2026-08-02,6,Jeremy Pena,Kumar Rocker,72.10207349923078,"Hit, 2-4",HOU,665161,677958,824163,True,4.0,2.0,0.0,1
+2026-08-02,7,Mickey Moniak,Seth Lugo,71.3602597880483,"No Hit, 0-4",COL,666160,607625,824323,True,4.0,0.0,1.0,0
+2026-08-02,8,George Springer,Matthew Liberatore,70.62231018583566,"Hit, 1-4",TOR,543807,669461,822783,True,4.0,1.0,0.0,1
+2026-08-02,9,Elly De La Cruz,Mitch Keller,70.3657948307566,"Hit, 1-4",CIN,682829,656605,824483,True,4.0,1.0,1.0,1
+2026-08-02,10,Alec Burleson,Max Scherzer,69.94474353408518,"Hit, 1-4",@TOR,676475,453286,822783,True,4.0,1.0,1.0,1
 2026-08-01,1,Luis Arraez,Walker Buehler,74.29895594093401,Did Not Start,@SD,650333,621111,823269,,,,,2
 2026-08-01,2,Jacob Wilson,Framber Valdez,71.94356288228404,"Hit, 1-5",OAK,805779,664285,824972,True,5.0,1.0,0.0,1
 2026-08-01,3,CJ Abrams,Reynaldo López,70.81700401601192,"Hit, 1-4",@ATL,682928,625643,824890,True,4.0,1.0,0.0,1
