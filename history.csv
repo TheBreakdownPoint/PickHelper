@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-03,1,Yandy Diaz,Michael Lorenzen,76.11317847925815,"No Hit, 0-4",@COL,650490,547179,824324,True,4.0,0.0,0.0,0
+2026-08-03,2,Luis Arraez,Cal Quantrill,74.83413268274862,Did Not Start,@TEX,650333,615698,822867,,,,,2
+2026-08-03,3,Jonathan Aranda,Michael Lorenzen,74.63257622945247,"Hit, 4-5",@COL,666018,547179,824324,True,5.0,4.0,0.0,1
+2026-08-03,4,Junior Caminero,Michael Lorenzen,72.84984464206144,"Hit, 2-5",@COL,691406,547179,824324,True,5.0,2.0,0.0,1
+2026-08-03,5,Jeremy Pena,Shane Bieber,72.14001970499288,"Hit, 1-4",HOU,665161,669456,824160,True,4.0,1.0,1.0,1
+2026-08-03,6,Chandler Simpson,Michael Lorenzen,70.78709380187675,"Hit, 2-4",@COL,802415,547179,824324,True,4.0,2.0,0.0,1
+2026-08-03,7,Fernando Tatis Jr.,Brandon Pfaadt,70.45007331288805,"No Hit, 0-4",@AZ,665487,694297,825095,True,4.0,0.0,0.0,0
+2026-08-03,8,Yordan Alvarez,Shane Bieber,69.44090015252984,"Hit, 1-3",HOU,670541,669456,824160,True,3.0,1.0,2.0,1
+2026-08-03,9,CJ Abrams,Aaron Nola,69.00785399578263,"No Hit, 0-4",@PHI,682928,605400,823431,True,4.0,0.0,0.0,0
+2026-08-03,10,James Wood,Aaron Nola,68.5863558678857,"Hit, 1-4",@PHI,695578,605400,823431,True,4.0,1.0,0.0,1
 2026-08-02,1,Ernie Clement,Matthew Liberatore,73.3593647310148,"No Hit, 0-4",TOR,676391,669461,822783,True,4.0,0.0,0.0,0
 2026-08-02,2,Jake McCarthy,Seth Lugo,73.03670552099095,"Hit, 1-5",COL,664983,607625,824323,True,5.0,1.0,0.0,1
 2026-08-02,3,Yandy Diaz,Anthony Kay,72.69021717094193,"No Hit, 0-4",TB,650490,641743,822943,True,4.0,0.0,0.0,0
