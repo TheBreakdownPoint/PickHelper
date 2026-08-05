@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-04,1,Jake McCarthy,Freddy Peralta,72.17444319134522,"Hit, 3-5",COL,664983,642547,824321,True,5.0,3.0,0.0,1
+2026-08-04,2,Fernando Tatis Jr.,Eduardo Rodríguez,71.75362378047714,"Hit, 1-4",@AZ,665487,593958,825054,True,4.0,1.0,0.0,1
+2026-08-04,3,Freddie Freeman,Javier Assad,71.29682261164582,"Hit, 1-3",@CHC,518692,665871,824645,True,3.0,1.0,1.0,1
+2026-08-04,4,Ketel Marte,Randy Vásquez,71.27133746752344,"No Hit, 0-4",AZ,606466,681190,825054,True,4.0,0.0,0.0,0
+2026-08-04,5,Shohei Ohtani,Javier Assad,70.91109363650911,"Hit, 1-4",@CHC,660271,665871,824645,True,4.0,1.0,0.0,1
+2026-08-04,6,Ozzie Albies,Ryan Gusto,70.47544683898336,"Hit, 1-4",ATL,645277,687473,824888,True,4.0,1.0,0.0,1
+2026-08-04,7,Matt Olson,Ryan Gusto,69.9959313183419,"Hit, 2-3",ATL,621566,687473,824888,True,3.0,2.0,0.0,1
+2026-08-04,8,Ceddanne Rafaela,Davis Martin,69.7431860949959,"Hit, 1-3",BOS,678882,663436,824731,True,3.0,1.0,0.0,1
+2026-08-04,9,Mickey Moniak,Freddy Peralta,69.62094154248216,"Hit, 1-3",COL,666160,642547,824321,True,3.0,1.0,0.0,1
+2026-08-04,10,Jeremy Pena,Trey Yesavage,69.55934063002398,"No Hit, 0-3",HOU,665161,702056,824161,True,3.0,0.0,2.0,0
 2026-08-03,1,Yandy Diaz,Michael Lorenzen,76.11317847925815,"No Hit, 0-4",@COL,650490,547179,824324,True,4.0,0.0,0.0,0
 2026-08-03,2,Luis Arraez,Cal Quantrill,74.83413268274862,Did Not Start,@TEX,650333,615698,822867,,,,,2
 2026-08-03,3,Jonathan Aranda,Michael Lorenzen,74.63257622945247,"Hit, 4-5",@COL,666018,547179,824324,True,5.0,4.0,0.0,1
