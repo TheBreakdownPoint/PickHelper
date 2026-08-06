@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-05,1,Yandy Diaz,Tomoyuki Sugano,74.02244372676155,Did Not Start,@COL,650490,608372,824322,,,,,2
+2026-08-05,2,Jonathan Aranda,Tomoyuki Sugano,73.61211642549068,"Hit, 1-4",@COL,666018,608372,824322,True,4.0,1.0,0.0,1
+2026-08-05,3,Jake McCarthy,Nick Martinez,73.535993728818,"Hit, 1-4",COL,664983,607259,824322,True,4.0,1.0,0.0,1
+2026-08-05,4,Junior Caminero,Tomoyuki Sugano,72.07441882416191,"Hit, 1-3",@COL,691406,608372,824322,True,3.0,1.0,1.0,1
+2026-08-05,5,Jeremy Pena,Jameson Taillon,71.94244727883299,"No Hit, 0-5",HOU,665161,592791,824158,True,5.0,0.0,0.0,0
+2026-08-05,6,Luis Arraez,Jake Irvin,71.5198937981696,"Hit, 1-5",PHI,650333,663623,823429,True,5.0,1.0,0.0,1
+2026-08-05,7,Ryan Jeffers,Noah Cameron,71.1463310822438,"Hit, 1-4",@KC,680777,702070,824082,True,4.0,1.0,0.0,1
+2026-08-05,8,Mickey Moniak,Nick Martinez,71.0465232591574,"Hit, 1-3",COL,666160,607259,824322,True,3.0,1.0,0.0,1
+2026-08-05,9,Yordan Alvarez,Jameson Taillon,70.12771115457869,"Hit, 1-4",HOU,670541,592791,824158,True,4.0,1.0,1.0,1
+2026-08-05,10,Elly De La Cruz,Jacob Lopez,70.05931754415896,"Hit, 1-3",CIN,682829,682052,824482,True,3.0,1.0,1.0,1
 2026-08-04,1,Jake McCarthy,Freddy Peralta,72.17444319134522,"Hit, 3-5",COL,664983,642547,824321,True,5.0,3.0,0.0,1
 2026-08-04,2,Fernando Tatis Jr.,Eduardo Rodríguez,71.75362378047714,"Hit, 1-4",@AZ,665487,593958,825054,True,4.0,1.0,0.0,1
 2026-08-04,3,Freddie Freeman,Javier Assad,71.29682261164582,"Hit, 1-3",@CHC,518692,665871,824645,True,3.0,1.0,1.0,1
