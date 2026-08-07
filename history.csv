@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-06,1,Ernie Clement,David Peterson,70.67177044598321,"Hit, 2-5",@CHC,676391,656849,824664,True,5.0,2.0,0.0,1
+2026-08-06,2,Matt Olson,Janson Junk,70.54742093003675,"Hit, 2-3",ATL,621566,676083,824885,True,3.0,2.0,2.0,1
+2026-08-06,3,Ozzie Albies,Janson Junk,70.43864098242774,Did Not Start,ATL,645277,676083,824885,False,1.0,0.0,1.0,2
+2026-08-06,4,Jacob Wilson,Andrew Abbott,70.21389004599618,Did Not Start,@CIN,805779,671096,824481,,,,,2
+2026-08-06,5,Nolan Schanuel,Brandon Young,70.2020853083727,"No Hit, 0-3",@BAL,694384,687064,824804,True,3.0,0.0,1.0,0
+2026-08-06,6,Bobby Witt Jr.,Bailey Ober,70.08920584180596,"Hit, 3-4",KC,677951,641927,824080,True,4.0,3.0,0.0,1
+2026-08-06,7,Ceddanne Rafaela,Luis Castillo,69.89924188254538,"Hit, 2-7",BOS,678882,622491,824729,True,7.0,2.0,0.0,1
+2026-08-06,8,Trea Turner,Foster Griffin,69.82660188672546,"Hit, 2-5",PHI,607208,656492,823430,True,5.0,2.0,0.0,1
+2026-08-06,9,Elly De La Cruz,Mason Barnett,69.58452412040104,"Hit, 1-5",CIN,682829,686930,824481,True,5.0,1.0,0.0,1
+2026-08-06,10,Otto Lopez,Martín Pérez,69.40180251274388,"Hit, 1-5",@ATL,672640,527048,824885,True,5.0,1.0,0.0,1
 2026-08-05,1,Yandy Diaz,Tomoyuki Sugano,74.02244372676155,Did Not Start,@COL,650490,608372,824322,,,,,2
 2026-08-05,2,Jonathan Aranda,Tomoyuki Sugano,73.61211642549068,"Hit, 1-4",@COL,666018,608372,824322,True,4.0,1.0,0.0,1
 2026-08-05,3,Jake McCarthy,Nick Martinez,73.535993728818,"Hit, 1-4",COL,664983,607259,824322,True,4.0,1.0,0.0,1
