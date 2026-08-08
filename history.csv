@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-07,1,Freddie Freeman,Merrill Kelly,73.35380839410402,"No Hit, 0-4",@AZ,518692,518876,825051,True,4.0,0.0,0.0,0
+2026-08-07,2,Elly De La Cruz,Cade Cavalli,73.19906641218084,"Hit, 1-2",@WSH,682829,676917,822699,True,2.0,1.0,2.0,1
+2026-08-07,3,Shohei Ohtani,Merrill Kelly,73.15893112250441,"No Hit, 0-2",@AZ,660271,518876,825051,True,2.0,0.0,2.0,0
+2026-08-07,4,Jeremy Pena,Robbie Ray,72.68755885253206,"No Hit, 0-4",@SD,665161,592662,823266,True,4.0,0.0,1.0,0
+2026-08-07,5,Jake McCarthy,Kyle Leahy,72.2376975899466,"Hit, 3-4",@STL,664983,681517,823024,True,4.0,3.0,0.0,1
+2026-08-07,6,Jacob Wilson,Payton Tolle,71.86903438106029,"No Hit, 0-3",@BOS,805779,801139,824727,True,3.0,0.0,0.0,0
+2026-08-07,7,Alec Burleson,Ryan Feltner,70.93135474965314,"No Hit, 0-3",STL,676475,663372,823024,True,3.0,0.0,1.0,0
+2026-08-07,8,Luis Arraez,José Soriano,70.57220150073337,"No Hit, 0-4",PHI,650333,667755,823428,True,4.0,0.0,1.0,0
+2026-08-07,9,Xavier Edwards,George Klassen,70.27592340639718,"No Hit, 0-5",MIA,669364,691946,823836,True,5.0,0.0,0.0,0
+2026-08-07,10,Bobby Witt Jr.,Kevin Gausman,69.63267657297011,"Hit, 1-4",KC,677951,592332,824081,True,4.0,1.0,0.0,1
 2026-08-06,1,Ernie Clement,David Peterson,70.67177044598321,"Hit, 2-5",@CHC,676391,656849,824664,True,5.0,2.0,0.0,1
 2026-08-06,2,Matt Olson,Janson Junk,70.54742093003675,"Hit, 2-3",ATL,621566,676083,824885,True,3.0,2.0,2.0,1
 2026-08-06,3,Ozzie Albies,Janson Junk,70.43864098242774,Did Not Start,ATL,645277,676083,824885,False,1.0,0.0,1.0,2
