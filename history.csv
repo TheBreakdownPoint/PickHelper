@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-08,1,Shohei Ohtani,Brandon Pfaadt,73.27499580025336,"Hit, 1-5",@AZ,660271,694297,825049,True,5.0,1.0,0.0,1
+2026-08-08,2,Jordan Walker,Kyle Freeland,72.92119605816112,"Hit, 1-5",STL,691023,607536,823021,True,5.0,1.0,0.0,1
+2026-08-08,3,Luis Arraez,Max Scherzer,72.83916274611082,"Hit, 2-4",PHI,650333,453286,823426,True,4.0,2.0,0.0,1
+2026-08-08,4,Freddie Freeman,Brandon Pfaadt,72.69034054752885,"No Hit, 0-4",@AZ,518692,694297,825049,True,4.0,0.0,0.0,0
+2026-08-08,5,Pete Crow-Armstrong,Seth Lugo,70.50093262454654,"No Hit, 0-3",@KC,691718,607625,824079,True,3.0,0.0,2.0,0
+2026-08-08,6,Elly De La Cruz,Andrew Alvarez,70.37930993583899,"No Hit, 0-4",@WSH,682829,674841,822701,True,4.0,0.0,0.0,0
+2026-08-08,7,Jake McCarthy,Matthew Liberatore,69.93469947893065,"Hit, 4-5",@STL,664983,669461,823021,True,5.0,4.0,0.0,1
+2026-08-08,8,Ivan Herrera,Kyle Freeland,69.83525783727,"Hit, 3-5",STL,671056,607536,823021,True,5.0,3.0,0.0,1
+2026-08-08,9,Nolan Schanuel,Sandy Alcantara,69.55853417451702,"Hit, 1-4",@MIA,694384,645261,823834,True,4.0,1.0,0.0,1
+2026-08-08,10,Jonathan Aranda,George Kirby,69.06845304492192,"Hit, 1-4",@SEA,666018,669923,823102,True,4.0,1.0,0.0,1
 2026-08-07,1,Freddie Freeman,Merrill Kelly,73.35380839410402,"No Hit, 0-4",@AZ,518692,518876,825051,True,4.0,0.0,0.0,0
 2026-08-07,2,Elly De La Cruz,Cade Cavalli,73.19906641218084,"Hit, 1-2",@WSH,682829,676917,822699,True,2.0,1.0,2.0,1
 2026-08-07,3,Shohei Ohtani,Merrill Kelly,73.15893112250441,"No Hit, 0-2",@AZ,660271,518876,825051,True,2.0,0.0,2.0,0
