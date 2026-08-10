@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-09,1,Bobby Witt Jr.,Matthew Boyd,73.60972895869666,"No Hit, 0-3",KC,677951,571510,824078,True,3.0,0.0,1.0,0
+2026-08-09,2,Jake McCarthy,Michael McGreevy,73.03864154033394,"Hit, 2-5",@STL,664983,700241,823020,True,5.0,2.0,0.0,1
+2026-08-09,3,Luis Arraez,Shane Bieber,72.44719645809337,"No Hit, 0-6",PHI,650333,669456,823425,True,6.0,0.0,0.0,0
+2026-08-09,4,Alec Burleson,Michael Lorenzen,71.96720917218762,"Hit, 1-4",STL,676475,547179,823020,True,4.0,1.0,1.0,1
+2026-08-09,5,Elly De La Cruz,Brad Lord,71.39268826051986,"No Hit, 0-4",@WSH,682829,695418,822700,True,4.0,0.0,0.0,0
+2026-08-09,6,Andy Pages,Eduardo Rodríguez,70.63952989306674,"Hit, 2-4",@AZ,681624,593958,825050,True,4.0,2.0,0.0,1
+2026-08-09,7,Ernie Clement,Jesús Luzardo,70.42935942503009,"Hit, 1-5",@PHI,676391,666200,823425,True,5.0,1.0,0.0,1
+2026-08-09,8,Jeremy Pena,Randy Vásquez,70.11007249968789,"No Hit, 0-4",@SD,665161,681190,823268,True,4.0,0.0,0.0,0
+2026-08-09,9,Yordan Alvarez,Randy Vásquez,70.0505956793246,"No Hit, 0-4",@SD,670541,681190,823268,True,4.0,0.0,0.0,0
+2026-08-09,10,Mickey Moniak,Michael McGreevy,69.85796347098938,"Hit, 1-4",@STL,666160,700241,823020,True,4.0,1.0,0.0,1
 2026-08-08,1,Shohei Ohtani,Brandon Pfaadt,73.27499580025336,"Hit, 1-5",@AZ,660271,694297,825049,True,5.0,1.0,0.0,1
 2026-08-08,2,Jordan Walker,Kyle Freeland,72.92119605816112,"Hit, 1-5",STL,691023,607536,823021,True,5.0,1.0,0.0,1
 2026-08-08,3,Luis Arraez,Max Scherzer,72.83916274611082,"Hit, 2-4",PHI,650333,453286,823426,True,4.0,2.0,0.0,1
