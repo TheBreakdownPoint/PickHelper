@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-10,1,Luis Arraez,Hayden Wesneski,73.9590722941525,Did Not Start,SF,650333,669713,823189,,,,,2
+2026-08-10,2,Luis Arraez,Hunter Dobbins,72.80414243638312,"No Hit, 0-5",@STL,650333,690928,823018,True,5.0,0.0,0.0,0
+2026-08-10,3,Yandy Diaz,Jacob Lopez,72.61669677581904,"Hit, 3-4",@OAK,650490,682052,824969,True,4.0,3.0,0.0,1
+2026-08-10,4,Jake McCarthy,Michael Soroka,71.93318152941224,"Hit, 1-3",@AZ,664983,647336,825048,True,3.0,1.0,1.0,1
+2026-08-10,5,Yordan Alvarez,Blade Tidwell,71.41896798233594,"Hit, 2-5",@SF,670541,694918,823189,True,5.0,2.0,0.0,1
+2026-08-10,6,Jeremy Pena,Blade Tidwell,71.34792672455352,"Hit, 1-5",@SF,665161,694918,823189,True,5.0,1.0,0.0,1
+2026-08-10,7,Bobby Witt Jr.,Tarik Skubal,70.767817221828,"No Hit, 0-3",@LAD,677951,669373,823918,True,3.0,0.0,1.0,0
+2026-08-10,8,Junior Caminero,Jacob Lopez,70.31258208607298,"Hit, 1-5",@OAK,691406,682052,824969,True,5.0,1.0,0.0,1
+2026-08-10,9,Alec Burleson,Andrew Painter,69.97307153070612,"Hit, 2-4",STL,676475,691725,823018,True,4.0,2.0,1.0,1
+2026-08-10,10,Brice Turang,Casey Mize,69.38666739885966,"No Hit, 0-4",@SD,668930,663554,823265,True,4.0,0.0,0.0,0
 2026-08-09,1,Bobby Witt Jr.,Matthew Boyd,73.60972895869666,"No Hit, 0-3",KC,677951,571510,824078,True,3.0,0.0,1.0,0
 2026-08-09,2,Jake McCarthy,Michael McGreevy,73.03864154033394,"Hit, 2-5",@STL,664983,700241,823020,True,5.0,2.0,0.0,1
 2026-08-09,3,Luis Arraez,Shane Bieber,72.44719645809337,"No Hit, 0-6",PHI,650333,669456,823425,True,6.0,0.0,0.0,0
