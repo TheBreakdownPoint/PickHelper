@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-11,1,Bobby Witt Jr.,Blake Snell,75.07859549756957,"Hit, 2-5",@LAD,677951,605483,823917,True,5.0,2.0,0.0,1
+2026-08-11,2,Jeremy Pena,Carson Whisenhunt,73.70726246763189,"No Hit, 0-5",@SF,665161,687931,823186,True,5.0,0.0,0.0,0
+2026-08-11,3,Ernie Clement,Patrick Sandoval,72.68182309441411,"No Hit, 0-4",TOR,676391,663776,822778,True,4.0,0.0,0.0,0
+2026-08-11,4,Luis Arraez,Andre Pallante,72.09680863247445,"No Hit, 0-4",@STL,650333,669467,823019,True,4.0,0.0,0.0,0
+2026-08-11,5,George Springer,Patrick Sandoval,70.51519437332982,"Hit, 1-3",TOR,543807,663776,822778,True,3.0,1.0,1.0,1
+2026-08-11,6,Luis Arraez,Hunter Brown,70.46227880369311,Did Not Start,SF,650333,686613,823186,,,,,2
+2026-08-11,7,Xavier Edwards,Paul Skenes,70.2268800162687,"Hit, 1-4",MIA,669364,694973,823832,True,4.0,1.0,0.0,1
+2026-08-11,8,Jordan Walker,Cristopher Sánchez,70.22366438028627,"No Hit, 0-2",STL,691023,650911,823019,True,2.0,0.0,1.0,0
+2026-08-11,9,Jonathan Aranda,Mason Barnett,69.86904079958876,"No Hit, 0-4",@OAK,666018,686930,824970,True,4.0,0.0,1.0,0
+2026-08-11,10,Brice Turang,Walker Buehler,69.7908735744897,"Hit, 1-5",@SD,668930,621111,823264,True,5.0,1.0,0.0,1
 2026-08-10,1,Luis Arraez,Hayden Wesneski,73.9590722941525,Did Not Start,SF,650333,669713,823189,,,,,2
 2026-08-10,2,Luis Arraez,Hunter Dobbins,72.80414243638312,"No Hit, 0-5",@STL,650333,690928,823018,True,5.0,0.0,0.0,0
 2026-08-10,3,Yandy Diaz,Jacob Lopez,72.61669677581904,"Hit, 3-4",@OAK,650490,682052,824969,True,4.0,3.0,0.0,1
