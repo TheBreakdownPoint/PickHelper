@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-12,1,Jake McCarthy,Merrill Kelly,73.30176722837598,"No Hit, 0-4",@AZ,664983,518876,825047,True,4.0,0.0,0.0,0
+2026-08-12,2,Xavier Edwards,Carmen Mlodzinski,72.48002313006174,"Hit, 1-4",MIA,669364,669387,823833,True,4.0,1.0,0.0,1
+2026-08-12,3,Pete Crow-Armstrong,Zak Kent,72.1752849542397,"Hit, 1-6",@WSH,691718,687849,822698,True,6.0,1.0,0.0,1
+2026-08-12,4,Bryan Reynolds,Janson Junk,71.85190248232745,"No Hit, 0-3",@MIA,668804,676083,823833,True,3.0,0.0,1.0,0
+2026-08-12,5,Luis Arraez,Kyle Leahy,71.76443444164421,"Hit, 1-4",@STL,650333,681517,823017,True,4.0,1.0,0.0,1
+2026-08-12,6,Jake Mangum,Janson Junk,71.55350341261682,"No Hit, 0-4",@MIA,663968,676083,823833,True,4.0,0.0,0.0,0
+2026-08-12,7,Brandon Lowe,Janson Junk,71.00183813719975,"Hit, 1-4",@MIA,664040,676083,823833,True,4.0,1.0,0.0,1
+2026-08-12,8,Bobby Witt Jr.,Eric Lauer,70.75600616161891,"Hit, 2-5",@LAD,677951,641778,823916,True,5.0,2.0,0.0,1
+2026-08-12,9,Jonathan Aranda,Jack Perkins,70.46661287376739,"Hit, 1-4",@OAK,666018,678022,824967,True,4.0,1.0,1.0,1
+2026-08-12,10,Elly De La Cruz,Luis Castillo,69.53038862031931,"No Hit, 0-4",@CWS,682829,622491,824562,True,4.0,0.0,0.0,0
 2026-08-11,1,Bobby Witt Jr.,Blake Snell,75.07859549756957,"Hit, 2-5",@LAD,677951,605483,823917,True,5.0,2.0,0.0,1
 2026-08-11,2,Jeremy Pena,Carson Whisenhunt,73.70726246763189,"No Hit, 0-5",@SF,665161,687931,823186,True,5.0,0.0,0.0,0
 2026-08-11,3,Ernie Clement,Patrick Sandoval,72.68182309441411,"No Hit, 0-4",TOR,676391,663776,822778,True,4.0,0.0,0.0,0
