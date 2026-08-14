@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-13,1,Xavier Edwards,Braxton Ashcraft,71.40952313505396,"No Hit, 0-2",MIA,669364,677952,823829,True,2.0,0.0,1.0,0
+2026-08-13,2,CJ Abrams,Kevin Gausman,70.8953575079136,"Hit, 1-4",WSH,682928,592332,822696,True,4.0,1.0,0.0,1
+2026-08-13,3,Pete Crow-Armstrong,Cade Cavalli,70.83593621988106,"No Hit, 0-4",@WSH,691718,676917,822696,True,4.0,0.0,0.0,0
+2026-08-13,4,Elly De La Cruz,Davis Martin,70.26360280757339,"Hit, 1-4",@CWS,682829,663436,824561,True,4.0,1.0,1.0,1
+2026-08-13,5,Luis Arraez,Taj Bradley,69.72357414565313,"Hit, 3-5",@MIN,650333,671737,823669,True,5.0,3.0,0.0,1
+2026-08-13,6,Ceddanne Rafaela,Max Scherzer,69.69509859545337,"Hit, 2-4",@TOR,678882,453286,822776,True,4.0,2.0,0.0,1
+2026-08-13,7,Brandon Lowe,Tyler Phillips,68.56290601181115,"Hit, 1-6",@MIA,664040,663969,823829,True,6.0,1.0,0.0,1
+2026-08-13,8,Michael Busch,Cade Cavalli,68.38111276816869,"Hit, 1-3",@WSH,683737,676917,822696,True,3.0,1.0,0.0,1
+2026-08-13,9,Ryan Jeffers,Aaron Nola,68.3401138545906,"Hit, 2-3",MIN,680777,605400,823669,True,3.0,2.0,1.0,1
+2026-08-13,10,Bryan Reynolds,Tyler Phillips,67.85071240174612,"No Hit, 0-4",@MIA,668804,663969,823829,True,4.0,0.0,1.0,0
 2026-08-12,1,Jake McCarthy,Merrill Kelly,73.30176722837598,"No Hit, 0-4",@AZ,664983,518876,825047,True,4.0,0.0,0.0,0
 2026-08-12,2,Xavier Edwards,Carmen Mlodzinski,72.48002313006174,"Hit, 1-4",MIA,669364,669387,823833,True,4.0,1.0,0.0,1
 2026-08-12,3,Pete Crow-Armstrong,Zak Kent,72.1752849542397,"Hit, 1-6",@WSH,691718,687849,822698,True,6.0,1.0,0.0,1
