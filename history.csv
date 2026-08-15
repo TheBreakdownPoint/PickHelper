@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-14,1,Jeremy Pena,George Kirby,70.32154700836001,"Hit, 1-5",HOU,665161,669923,824159,True,5.0,1.0,0.0,1
+2026-08-14,2,Yordan Alvarez,George Kirby,70.25701586360722,"Hit, 2-4",HOU,670541,669923,824159,True,4.0,2.0,1.0,1
+2026-08-14,3,Jake McCarthy,Landen Roupp,70.04112883225827,"No Hit, 0-5",@SF,664983,694738,823185,True,5.0,0.0,0.0,0
+2026-08-14,4,Elly De La Cruz,Sandy Alcantara,69.32868690457047,"No Hit, 0-3",CIN,682829,645261,824479,True,3.0,0.0,1.0,0
+2026-08-14,5,Jacob Wilson,Kumar Rocker,69.31427676886662,0-0,OAK,805779,677958,824968,True,0.0,0.0,0.0,2
+2026-08-14,6,Xavier Edwards,Chase Burns,69.22611600042224,"Hit, 1-4",@CIN,669364,695505,824479,True,4.0,1.0,0.0,1
+2026-08-14,7,Matt Olson,Brandon Pfaadt,68.68458366339075,"No Hit, 0-4",ATL,621566,694297,824882,True,4.0,0.0,0.0,0
+2026-08-14,8,Ketel Marte,Chris Sale,68.54893262860644,"No Hit, 0-1",@ATL,606466,519242,824882,True,1.0,0.0,0.0,0
+2026-08-14,9,Ozzie Albies,Brandon Pfaadt,68.46300003052565,"No Hit, 0-3",ATL,645277,694297,824882,True,3.0,0.0,0.0,0
+2026-08-14,10,Yandy Diaz,Kyle Bradish,68.44623850203782,"Hit, 1-5",TB,650490,680694,822942,True,5.0,1.0,0.0,1
 2026-08-13,1,Xavier Edwards,Braxton Ashcraft,71.40952313505396,"No Hit, 0-2",MIA,669364,677952,823829,True,2.0,0.0,1.0,0
 2026-08-13,2,CJ Abrams,Kevin Gausman,70.8953575079136,"Hit, 1-4",WSH,682928,592332,822696,True,4.0,1.0,0.0,1
 2026-08-13,3,Pete Crow-Armstrong,Cade Cavalli,70.83593621988106,"No Hit, 0-4",@WSH,691718,676917,822696,True,4.0,0.0,0.0,0
