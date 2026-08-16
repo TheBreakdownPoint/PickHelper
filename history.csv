@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-15,1,Xavier Edwards,Brady Singer,71.08817972622288,"Hit, 2-4",@CIN,669364,663903,824480,True,4.0,2.0,0.0,1
+2026-08-15,2,Bobby Witt Jr.,Reid Detmers,70.71191068148775,"No Hit, 0-3",@LAA,677951,672282,823990,True,3.0,0.0,0.0,0
+2026-08-15,3,Jackson Chourio,Justin Wrobleski,70.64114641026075,"No Hit, 0-4",@LAD,694192,680736,823914,True,4.0,0.0,0.0,0
+2026-08-15,4,Elly De La Cruz,Ryan Gusto,70.26517920015067,"No Hit, 0-4",CIN,682829,687473,824480,True,4.0,0.0,0.0,0
+2026-08-15,5,Jacob Wilson,MacKenzie Gore,70.20711763017802,Did Not Start,OAK,805779,669022,824966,,,,,2
+2026-08-15,6,Jake McCarthy,Logan Webb,69.64687955366283,"Hit, 1-4",@SF,664983,657277,823184,True,4.0,1.0,0.0,1
+2026-08-15,7,Ryan Jeffers,Jesús Luzardo,69.48932977154149,"Hit, 1-4",MIN,680777,666200,823671,True,4.0,1.0,1.0,1
+2026-08-15,8,Fernando Tatis Jr.,Joey Cantillo,69.45140285127222,"No Hit, 0-2",@CLE,665487,676282,824400,True,2.0,0.0,2.0,0
+2026-08-15,9,Jung Hoo Lee,Michael Lorenzen,69.34841511034286,"Hit, 2-3",SF,808982,547179,823184,True,3.0,2.0,1.0,1
+2026-08-15,10,Jeremy Pena,Emerson Hancock,69.21401292628966,"Hit, 1-4",HOU,665161,676106,824157,True,4.0,1.0,0.0,1
 2026-08-14,1,Jeremy Pena,George Kirby,70.32154700836001,"Hit, 1-5",HOU,665161,669923,824159,True,5.0,1.0,0.0,1
 2026-08-14,2,Yordan Alvarez,George Kirby,70.25701586360722,"Hit, 2-4",HOU,670541,669923,824159,True,4.0,2.0,1.0,1
 2026-08-14,3,Jake McCarthy,Landen Roupp,70.04112883225827,"No Hit, 0-5",@SF,664983,694738,823185,True,5.0,0.0,0.0,0
