@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-16,1,Yandy Diaz,Trevor Rogers,71.88760593679999,"Hit, 1-5",TB,650490,669432,822940,True,5.0,1.0,0.0,1
+2026-08-16,2,Bobby Witt Jr.,Ryan Johnson,71.37495358010536,"Hit, 1-5",@LAA,677951,696270,823991,True,5.0,1.0,0.0,1
+2026-08-16,3,Luis Arraez,Dean Kremer,71.30662061792302,"Hit, 1-4",@MIN,650333,665152,823670,True,4.0,1.0,0.0,1
+2026-08-16,4,Jake McCarthy,Blade Tidwell,70.96096737170879,"Hit, 1-3",@SF,664983,694918,823182,True,3.0,1.0,2.0,1
+2026-08-16,5,Jacob Wilson,Cody Bradford,70.85790889057606,"No Hit, 0-4",OAK,805779,674003,824965,True,4.0,0.0,0.0,0
+2026-08-16,6,Otto Lopez,Nick Lodolo,70.72233373968871,"Hit, 1-4",@CIN,672640,666157,824477,True,4.0,1.0,1.0,1
+2026-08-16,7,Ernie Clement,Ryan Weathers,70.15871684473274,"No Hit, 0-3",TOR,676391,677960,822774,True,3.0,0.0,0.0,0
+2026-08-16,8,Xavier Edwards,Nick Lodolo,69.25241847396164,"Hit, 1-3",@CIN,669364,666157,824477,True,3.0,1.0,2.0,1
+2026-08-16,9,Ryan Jeffers,Andrew Painter,68.67158283999683,Did Not Start,MIN,680777,691725,823670,False,1.0,0.0,0.0,2
+2026-08-16,10,Jake Mangum,Patrick Sandoval,68.65187445328658,"Hit, 1-4",PIT,663968,663776,823344,True,4.0,1.0,0.0,1
 2026-08-15,1,Xavier Edwards,Brady Singer,71.08817972622288,"Hit, 2-4",@CIN,669364,663903,824480,True,4.0,2.0,0.0,1
 2026-08-15,2,Bobby Witt Jr.,Reid Detmers,70.71191068148775,"No Hit, 0-3",@LAA,677951,672282,823990,True,3.0,0.0,0.0,0
 2026-08-15,3,Jackson Chourio,Justin Wrobleski,70.64114641026075,"No Hit, 0-4",@LAD,694192,680736,823914,True,4.0,0.0,0.0,0
