@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-17,1,Shohei Ohtani,Tomoyuki Sugano,74.9773263091324,"Hit, 4-5",@COL,660271,608372,824320,True,5.0,4.0,0.0,1
+2026-08-17,2,Freddie Freeman,Tomoyuki Sugano,73.73880796972526,"Hit, 3-5",@COL,518692,608372,824320,True,5.0,3.0,0.0,1
+2026-08-17,3,Luis Arraez,Janson Junk,72.64470159527234,"Hit, 1-5",PHI,650333,676083,823427,True,5.0,1.0,0.0,1
+2026-08-17,4,Otto Lopez,Cristopher Sánchez,70.56723047829973,"Hit, 2-4",@PHI,672640,650911,823427,True,4.0,2.0,1.0,1
+2026-08-17,5,Andy Pages,Tomoyuki Sugano,70.09510146048156,"Hit, 3-4",@COL,681624,608372,824320,True,4.0,3.0,1.0,1
+2026-08-17,6,Kevin McGonigle,Carmen Mlodzinski,70.03983698098072,"Hit, 2-6",@PIT,805808,669387,823343,True,6.0,2.0,0.0,1
+2026-08-17,7,Yandy Diaz,Brandon Young,69.91151385701023,"Hit, 2-3",TB,650490,687064,822939,True,3.0,2.0,1.0,1
+2026-08-17,8,Jonathan Aranda,Brandon Young,69.55225283692224,"Hit, 2-5",TB,666018,687064,822939,True,5.0,2.0,0.0,1
+2026-08-17,9,Alec Burleson,Rhett Lowder,69.47741608366535,"Hit, 1-5",@CIN,676475,695076,824478,True,5.0,1.0,0.0,1
+2026-08-17,10,Xavier Edwards,Cristopher Sánchez,69.31617031969243,"Hit, 2-5",@PHI,669364,650911,823427,True,5.0,2.0,0.0,1
 2026-08-16,1,Yandy Diaz,Trevor Rogers,71.88760593679999,"Hit, 1-5",TB,650490,669432,822940,True,5.0,1.0,0.0,1
 2026-08-16,2,Bobby Witt Jr.,Ryan Johnson,71.37495358010536,"Hit, 1-5",@LAA,677951,696270,823991,True,5.0,1.0,0.0,1
 2026-08-16,3,Luis Arraez,Dean Kremer,71.30662061792302,"Hit, 1-4",@MIN,650333,665152,823670,True,4.0,1.0,0.0,1
