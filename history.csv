@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-18,1,Shohei Ohtani,Ryan Feltner,75.05777399073837,"Hit, 1-5",@COL,660271,663372,824319,True,5.0,1.0,0.0,1
+2026-08-18,2,Freddie Freeman,Ryan Feltner,73.85245765068338,"Hit, 2-3",@COL,518692,663372,824319,True,3.0,2.0,1.0,1
+2026-08-18,3,Andy Pages,Ryan Feltner,70.303591885634,"Hit, 1-5",@COL,681624,663372,824319,True,5.0,1.0,0.0,1
+2026-08-18,4,Matt Olson,Zebby Matthews,69.81757661704717,"No Hit, 0-4",@MIN,621566,805673,823667,True,4.0,0.0,0.0,0
+2026-08-18,5,Jordan Walker,Andrew Abbott,69.64941917211125,"Hit, 1-4",@CIN,691023,671096,824475,True,4.0,1.0,0.0,1
+2026-08-18,6,Elly De La Cruz,Kyle Leahy,69.54688327822868,"No Hit, 0-4",CIN,682829,681517,824475,True,4.0,0.0,0.0,0
+2026-08-18,7,Nolan Schanuel,Cristian Javier,69.46329825725587,"Hit, 2-4",@HOU,694384,664299,824154,True,4.0,2.0,0.0,1
+2026-08-18,8,Trea Turner,Cade Gibson,69.40958667203991,"No Hit, 0-4",PHI,607208,806188,823423,True,4.0,0.0,0.0,0
+2026-08-18,9,Xavier Edwards,Zack Wheeler,69.18479153270366,"Hit, 1-3",@PHI,669364,554430,823423,True,3.0,1.0,1.0,1
+2026-08-18,10,Jeremy Pena,George Klassen,69.15026337765535,"No Hit, 0-4",HOU,665161,691946,824154,True,4.0,0.0,0.0,0
 2026-08-17,1,Shohei Ohtani,Tomoyuki Sugano,74.9773263091324,"Hit, 4-5",@COL,660271,608372,824320,True,5.0,4.0,0.0,1
 2026-08-17,2,Freddie Freeman,Tomoyuki Sugano,73.73880796972526,"Hit, 3-5",@COL,518692,608372,824320,True,5.0,3.0,0.0,1
 2026-08-17,3,Luis Arraez,Janson Junk,72.64470159527234,"Hit, 1-5",PHI,650333,676083,823427,True,5.0,1.0,0.0,1
