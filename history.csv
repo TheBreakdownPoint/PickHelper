@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-19,1,Andy Pages,Kyle Freeland,75.74290950213681,"Hit, 1-5",@COL,681624,607536,824318,True,5.0,1.0,0.0,1
+2026-08-19,2,Shohei Ohtani,Kyle Freeland,73.84458947137541,"No Hit, 0-4",@COL,660271,607536,824318,True,4.0,0.0,1.0,0
+2026-08-19,3,Xavier Edwards,Aaron Nola,72.95291456276397,"Hit, 2-4",@PHI,669364,605400,823424,True,4.0,2.0,0.0,1
+2026-08-19,4,Freddie Freeman,Kyle Freeland,71.73179534966533,"Hit, 1-4",@COL,518692,607536,824318,True,4.0,1.0,0.0,1
+2026-08-19,5,Jake McCarthy,Roki Sasaki,71.45466382755882,"Hit, 1-4",COL,664983,808963,824318,True,4.0,1.0,1.0,1
+2026-08-19,6,Luis Arraez,Sandy Alcantara,71.32671402647509,"Hit, 2-4",PHI,650333,645261,823424,True,4.0,2.0,0.0,1
+2026-08-19,7,Yandy Diaz,Max Scherzer,70.41217932295429,"Hit, 1-3",TB,650490,453286,822937,True,3.0,1.0,1.0,1
+2026-08-19,8,Jonathan Aranda,Max Scherzer,70.17274537961823,"No Hit, 0-4",TB,666018,453286,822937,True,4.0,0.0,0.0,0
+2026-08-19,9,Elly De La Cruz,Matthew Liberatore,70.05109638425463,"Hit, 1-4",CIN,682829,669461,824476,True,4.0,1.0,0.0,1
+2026-08-19,10,Brandon Lowe,Jackson Jobe,69.41410238323526,"Hit, 1-3",PIT,664040,695549,823342,True,3.0,1.0,2.0,1
 2026-08-18,1,Shohei Ohtani,Ryan Feltner,75.05777399073837,"Hit, 1-5",@COL,660271,663372,824319,True,5.0,1.0,0.0,1
 2026-08-18,2,Freddie Freeman,Ryan Feltner,73.85245765068338,"Hit, 2-3",@COL,518692,663372,824319,True,3.0,2.0,1.0,1
 2026-08-18,3,Andy Pages,Ryan Feltner,70.303591885634,"Hit, 1-5",@COL,681624,663372,824319,True,5.0,1.0,0.0,1
