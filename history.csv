@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-20,1,Yandy Diaz,Shane Bieber,70.2221171394761,"Hit, 2-4",TB,650490,669456,822934,True,4.0,2.0,0.0,1
+2026-08-20,2,Alec Burleson,Brady Singer,70.1513051928491,"Hit, 1-4",@CIN,676475,663903,824474,True,4.0,1.0,0.0,1
+2026-08-20,3,Ernie Clement,Ian Seymour,70.01657800354693,"Hit, 1-3",@TB,676391,693855,822934,True,3.0,1.0,1.0,1
+2026-08-20,4,Elly De La Cruz,Michael McGreevy,69.81633138717692,"Hit, 1-3",CIN,682829,700241,824474,True,3.0,1.0,2.0,1
+2026-08-20,5,Jonathan Aranda,Shane Bieber,69.44475822949758,"Hit, 1-4",TB,666018,669456,822934,True,4.0,1.0,0.0,1
+2026-08-20,6,Brice Turang,George Kirby,68.7805680948539,"Hit, 1-5",MIL,668930,669923,823747,True,5.0,1.0,0.0,1
+2026-08-20,7,Ronald Acuna Jr.,Anthony Kay,68.52779952984383,"No Hit, 0-4",@CWS,660670,641743,824589,True,4.0,0.0,0.0,0
+2026-08-20,8,CJ Abrams,Jacob deGrom,68.01221547569308,Did Not Start,@TEX,682928,594798,822861,,,,,2
+2026-08-20,9,Nolan Schanuel,Peter Lambert,67.39229560449867,"No Hit, 0-4",@HOU,694384,663567,824153,True,4.0,0.0,0.0,0
+2026-08-20,10,Jackson Chourio,George Kirby,67.14050949735831,"Hit, 1-3",MIL,694192,669923,823747,True,3.0,1.0,1.0,1
 2026-08-19,1,Andy Pages,Kyle Freeland,75.74290950213681,"Hit, 1-5",@COL,681624,607536,824318,True,5.0,1.0,0.0,1
 2026-08-19,2,Shohei Ohtani,Kyle Freeland,73.84458947137541,"No Hit, 0-4",@COL,660271,607536,824318,True,4.0,0.0,1.0,0
 2026-08-19,3,Xavier Edwards,Aaron Nola,72.95291456276397,"Hit, 2-4",@PHI,669364,605400,823424,True,4.0,2.0,0.0,1
