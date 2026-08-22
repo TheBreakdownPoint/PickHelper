@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-21,1,Steven Kwan,Tanner Gordon,74.43669947347612,"Hit, 1-4",@COL,680757,685299,824317,True,4.0,1.0,2.0,1
+2026-08-21,2,Chase DeLauter,Tanner Gordon,72.96144533266727,"Hit, 1-3",@COL,800050,685299,824317,True,3.0,1.0,1.0,1
+2026-08-21,3,Jose Ramirez,Tanner Gordon,72.95584796697032,"No Hit, 0-5",@COL,608070,685299,824317,True,5.0,0.0,0.0,0
+2026-08-21,4,Yandy Diaz,Trevor Rogers,72.12098820061826,"No Hit, 0-4",@BAL,650490,669432,824800,True,4.0,0.0,0.0,0
+2026-08-21,5,CJ Abrams,Ryan Gusto,71.93622112718869,Did Not Start,@MIA,682928,687473,823830,,,,,2
+2026-08-21,6,Luis Arraez,Hunter Dobbins,71.69965350130178,"Hit, 3-5",PHI,650333,690928,823420,True,5.0,3.0,0.0,1
+2026-08-21,7,Xavier Edwards,Brad Lord,71.54203891688913,"No Hit, 0-3",MIA,669364,695418,823830,True,3.0,0.0,1.0,0
+2026-08-21,8,Elly De La Cruz,Eduardo Rodríguez,70.96476905073031,"No Hit, 0-4",@AZ,682829,593958,825045,True,4.0,0.0,0.0,0
+2026-08-21,9,Jung Hoo Lee,Sonny Gray,69.72348377812916,"No Hit, 0-3",@BOS,808982,543243,824721,True,3.0,0.0,1.0,0
+2026-08-21,10,Jordan Walker,Jesús Luzardo,69.69820150621507,"Hit, 3-5",@PHI,691023,666200,823420,True,5.0,3.0,0.0,1
 2026-08-20,1,Yandy Diaz,Shane Bieber,70.2221171394761,"Hit, 2-4",TB,650490,669456,822934,True,4.0,2.0,0.0,1
 2026-08-20,2,Alec Burleson,Brady Singer,70.1513051928491,"Hit, 1-4",@CIN,676475,663903,824474,True,4.0,1.0,0.0,1
 2026-08-20,3,Ernie Clement,Ian Seymour,70.01657800354693,"Hit, 1-3",@TB,676391,693855,822934,True,3.0,1.0,1.0,1
