@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-23,1,Jeremy Pena,Brady Basso,74.26155437735434,"Hit, 2-5",HOU,665161,669620,824150,True,5.0,2.0,0.0,1
+2026-08-23,2,Luis Arraez,Kyle Leahy,73.23368355812798,Did Not Start,PHI,650333,681517,823421,False,1.0,0.0,0.0,2
+2026-08-23,3,Ceddanne Rafaela,Matt Gage,72.863213007669,"Hit, 3-4",BOS,678882,657424,824720,True,4.0,3.0,0.0,1
+2026-08-23,4,CJ Abrams,Janson Junk,72.21982799596042,Did Not Start,@MIA,682928,676083,823827,,,,,2
+2026-08-23,5,Steven Kwan,Tomoyuki Sugano,72.14059065274016,"Hit, 2-5",@COL,680757,608372,824315,True,5.0,2.0,0.0,1
+2026-08-23,6,Jordan Walker,Cristopher Sánchez,70.5704542281954,"Hit, 1-4",@PHI,691023,650911,823421,True,4.0,1.0,0.0,1
+2026-08-23,7,Jose Ramirez,Tomoyuki Sugano,70.42048666603965,Did Not Start,@COL,608070,608372,824315,,,,,2
+2026-08-23,8,Chase DeLauter,Tomoyuki Sugano,70.40225423867675,"Hit, 3-4",@COL,800050,608372,824315,True,4.0,3.0,1.0,1
+2026-08-23,9,Bobby Witt Jr.,Unknown,69.92848146394212,"Hit, 1-4",KC,677951,99999999,824071,True,4.0,1.0,1.0,1
+2026-08-23,10,Yandy Diaz,Shane Baz,69.85423531907267,"Hit, 1-4",@BAL,650490,669358,824799,True,4.0,1.0,0.0,1
 2026-08-21,1,Steven Kwan,Tanner Gordon,74.43669947347612,"Hit, 1-4",@COL,680757,685299,824317,True,4.0,1.0,2.0,1
 2026-08-21,2,Chase DeLauter,Tanner Gordon,72.96144533266727,"Hit, 1-3",@COL,800050,685299,824317,True,3.0,1.0,1.0,1
 2026-08-21,3,Jose Ramirez,Tanner Gordon,72.95584796697032,"No Hit, 0-5",@COL,608070,685299,824317,True,5.0,0.0,0.0,0
