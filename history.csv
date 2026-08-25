@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-24,1,Yandy Diaz,Framber Valdez,72.42398645828246,"Hit, 1-4",@DET,650490,664285,824235,True,4.0,1.0,1.0,1
+2026-08-24,2,Jake McCarthy,Cade Cavalli,72.30478062987856,"Hit, 1-4",@WSH,664983,676917,822695,True,4.0,1.0,0.0,1
+2026-08-24,3,CJ Abrams,Ryan Feltner,71.7471196902824,"Hit, 1-4",WSH,682928,663372,822695,True,4.0,1.0,1.0,1
+2026-08-24,4,Elly De La Cruz,Carson Whisenhunt,71.13848997398415,"Hit, 1-4",@SF,682829,687931,823183,True,4.0,1.0,0.0,1
+2026-08-24,5,Ryan Jeffers,Jeffrey Springs,71.07187522664776,"Hit, 1-4",@OAK,680777,605488,824964,True,4.0,1.0,2.0,1
+2026-08-24,6,Otto Lopez,Ranger Suarez,70.62843165584114,"Hit, 2-4",MIA,672640,624133,823828,True,4.0,2.0,0.0,1
+2026-08-24,7,Byron Buxton,Jeffrey Springs,70.35998555298694,"Hit, 3-5",@OAK,621439,605488,824964,True,5.0,3.0,1.0,1
+2026-08-24,8,Nick Sogard,Sandy Alcantara,70.32600507932578,"Hit, 1-5",@MIA,686765,645261,823828,True,5.0,1.0,0.0,1
+2026-08-24,9,Pete Crow-Armstrong,Merrill Kelly,69.5864860708198,"No Hit, 0-5",@AZ,691718,518876,825041,True,5.0,0.0,0.0,0
+2026-08-24,10,Luis Arraez,Logan Gilbert,69.57147483461725,"Hit, 1-4",@SEA,650333,669302,823097,True,4.0,1.0,0.0,1
 2026-08-23,1,Jeremy Pena,Brady Basso,74.26155437735434,"Hit, 2-5",HOU,665161,669620,824150,True,5.0,2.0,0.0,1
 2026-08-23,2,Luis Arraez,Kyle Leahy,73.23368355812798,Did Not Start,PHI,650333,681517,823421,False,1.0,0.0,0.0,2
 2026-08-23,3,Ceddanne Rafaela,Matt Gage,72.863213007669,"Hit, 3-4",BOS,678882,657424,824720,True,4.0,3.0,0.0,1
