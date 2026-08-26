@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-25,1,Luis Arraez,George Kirby,72.87720762284603,"Hit, 1-4",@SEA,650333,669923,823098,True,4.0,1.0,0.0,1
+2026-08-25,2,Alec Burleson,Chris Bassitt,71.86768470651035,"Hit, 1-3",STL,676475,605135,823016,True,3.0,1.0,0.0,1
+2026-08-25,3,Freddie Freeman,Bryce Elder,71.77874832787593,"No Hit, 0-5",@ATL,518692,693821,824881,True,5.0,0.0,0.0,0
+2026-08-25,4,Pete Alonso,Matthew Liberatore,71.56240155191485,"Hit, 4-4",@STL,624413,669461,823016,True,4.0,4.0,0.0,1
+2026-08-25,5,Shohei Ohtani,Bryce Elder,70.90550890341558,"Hit, 1-5",@ATL,660271,693821,824881,True,5.0,1.0,0.0,1
+2026-08-25,6,Elly De La Cruz,Adrian Houser,70.53742281170025,"Hit, 1-4",@SF,682829,605288,823181,True,4.0,1.0,0.0,1
+2026-08-25,7,Nick Sogard,Tyler Phillips,70.31565272105343,"No Hit, 0-4",@MIA,686765,663969,823826,True,4.0,0.0,1.0,0
+2026-08-25,8,Bobby Witt Jr.,Max Scherzer,70.26547741078957,"No Hit, 0-3",@TOR,677951,453286,822773,True,3.0,0.0,2.0,0
+2026-08-25,9,Otto Lopez,Payton Tolle,70.18924120561958,"Hit, 1-5",MIA,672640,801139,823826,True,5.0,1.0,0.0,1
+2026-08-25,10,CJ Abrams,Jason Adam,69.93083792273639,"No Hit, 0-4",WSH,682928,592094,822693,True,4.0,0.0,0.0,0
 2026-08-24,1,Yandy Diaz,Framber Valdez,72.42398645828246,"Hit, 1-4",@DET,650490,664285,824235,True,4.0,1.0,1.0,1
 2026-08-24,2,Jake McCarthy,Cade Cavalli,72.30478062987856,"Hit, 1-4",@WSH,664983,676917,822695,True,4.0,1.0,0.0,1
 2026-08-24,3,CJ Abrams,Ryan Feltner,71.7471196902824,"Hit, 1-4",WSH,682928,663372,822695,True,4.0,1.0,1.0,1
