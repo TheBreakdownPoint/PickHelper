@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-26,1,Jake McCarthy,Matt Waldron,74.46989065774335,"Hit, 2-5",@WSH,664983,663362,822692,True,5.0,2.0,0.0,1
+2026-08-26,2,CJ Abrams,Tanner Gordon,73.87639586960493,"No Hit, 0-4",WSH,682928,685299,822692,True,4.0,0.0,0.0,0
+2026-08-26,3,Xavier Edwards,Sonny Gray,72.19366791165439,"Hit, 1-4",MIA,669364,543243,823825,True,4.0,1.0,0.0,1
+2026-08-26,4,Freddie Freeman,AJ Smith-Shawver,71.21519590865311,"Hit, 2-4",@ATL,518692,700363,824878,True,4.0,2.0,1.0,1
+2026-08-26,5,Nick Sogard,Ryan Gusto,70.92501112525885,"No Hit, 0-4",@MIA,686765,687473,823825,True,4.0,0.0,0.0,0
+2026-08-26,6,Shohei Ohtani,AJ Smith-Shawver,70.4438190243393,"Hit, 2-5",@ATL,660271,700363,824878,True,5.0,2.0,0.0,1
+2026-08-26,7,Ceddanne Rafaela,Ryan Gusto,70.34095722932695,"No Hit, 0-4",@MIA,678882,687473,823825,True,4.0,0.0,0.0,0
+2026-08-26,8,Seiya Suzuki,Eduardo Rodríguez,70.20545224535265,"No Hit, 0-2",@AZ,673548,593958,825039,True,2.0,0.0,2.0,0
+2026-08-26,9,Luis Arraez,Bryan Woo,69.83861180982927,"No Hit, 0-4",@SEA,650333,693433,823096,True,4.0,0.0,0.0,0
+2026-08-26,10,Keibert Ruiz,Tanner Gordon,69.54861670536621,Did Not Start,WSH,660688,685299,822692,,,,,2
 2026-08-25,1,Luis Arraez,George Kirby,72.87720762284603,"Hit, 1-4",@SEA,650333,669923,823098,True,4.0,1.0,0.0,1
 2026-08-25,2,Alec Burleson,Chris Bassitt,71.86768470651035,"Hit, 1-3",STL,676475,605135,823016,True,3.0,1.0,0.0,1
 2026-08-25,3,Freddie Freeman,Bryce Elder,71.77874832787593,"No Hit, 0-5",@ATL,518692,693821,824881,True,5.0,0.0,0.0,0
