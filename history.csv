@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-27,1,Jake McCarthy,Jake Irvin,71.90789018825517,"No Hit, 0-5",@WSH,664983,663623,822694,True,5.0,0.0,0.0,0
+2026-08-27,2,Jackson Chourio,Sean Manaea,70.04857329924988,"Hit, 4-5",@NYM,694192,640455,823581,True,5.0,4.0,0.0,1
+2026-08-27,3,Ernie Clement,Noah Cameron,69.40198057282153,"Hit, 1-4",TOR,676391,702070,822771,True,4.0,1.0,0.0,1
+2026-08-27,4,Jordan Walker,Trevor Rogers,69.26358210192282,"Hit, 2-4",STL,691023,669432,823014,True,4.0,2.0,0.0,1
+2026-08-27,5,Yordan Alvarez,Gerrit Cole,68.70784692203745,"No Hit, 0-4",@NYY,670541,543037,823503,True,4.0,0.0,0.0,0
+2026-08-27,6,Jeremy Pena,Gerrit Cole,68.32063005141607,"Hit, 1-4",@NYY,665161,543037,823503,True,4.0,1.0,0.0,1
+2026-08-27,7,Pete Alonso,Unknown,67.27162942704595,"No Hit, 0-4",@STL,624413,99999999,823014,True,4.0,0.0,0.0,0
+2026-08-27,8,Bobby Witt Jr.,Spencer Arrighetti,66.40253739914175,"Hit, 2-5",@TOR,677951,681293,822771,True,5.0,2.0,0.0,1
+2026-08-27,9,Shohei Ohtani,Chris Sale,65.97489616040578,"No Hit, 0-4",@ATL,660271,519242,824879,True,4.0,0.0,0.0,0
+2026-08-27,10,Corbin Carroll,Landen Roupp,65.94828952924675,"No Hit, 0-4",@SF,682998,694738,823179,True,4.0,0.0,0.0,0
 2026-08-26,1,Jake McCarthy,Matt Waldron,74.46989065774335,"Hit, 2-5",@WSH,664983,663362,822692,True,5.0,2.0,0.0,1
 2026-08-26,2,CJ Abrams,Tanner Gordon,73.87639586960493,"No Hit, 0-4",WSH,682928,685299,822692,True,4.0,0.0,0.0,0
 2026-08-26,3,Xavier Edwards,Sonny Gray,72.19366791165439,"Hit, 1-4",MIA,669364,543243,823825,True,4.0,1.0,0.0,1
