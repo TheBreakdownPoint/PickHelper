@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-28,1,Jackson Chourio,Cody Bradford,71.93742661600979,"Hit, 1-5",MIL,694192,674003,823744,True,5.0,1.0,0.0,1
+2026-08-28,2,Freddie Freeman,Drew Anderson,71.28189688528191,"Hit, 2-4",@DET,518692,623454,824231,True,4.0,2.0,1.0,1
+2026-08-28,3,Fernando Tatis Jr.,Shane McClanahan,70.7310933661377,"Hit, 1-4",@TB,665487,663556,822935,True,4.0,1.0,0.0,1
+2026-08-28,4,Matt Olson,Tomoyuki Sugano,70.64556710613313,"Hit, 1-5",ATL,621566,608372,824877,True,5.0,1.0,0.0,1
+2026-08-28,5,Shohei Ohtani,Drew Anderson,70.4963821023024,"No Hit, 0-4",@DET,660271,623454,824231,True,4.0,0.0,1.0,0
+2026-08-28,6,Michael Harris II,Tomoyuki Sugano,70.28179539772445,"Hit, 2-3",ATL,671739,608372,824877,True,3.0,2.0,0.0,1
+2026-08-28,7,Pete Alonso,Jacob Lopez,70.10654408692308,"No Hit, 0-4",@OAK,624413,682052,824960,True,4.0,0.0,1.0,0
+2026-08-28,8,Elly De La Cruz,David Peterson,69.9169532064369,"Hit, 3-5",@CHC,682829,656849,824638,True,5.0,3.0,0.0,1
+2026-08-28,9,Alec Burleson,Jared Jones,69.80628461291903,"No Hit, 0-4",STL,676475,683003,823013,True,4.0,0.0,0.0,0
+2026-08-28,10,Jake McCarthy,Grant Holmes,69.8029247200665,"Hit, 1-3",@ATL,664983,656550,824877,True,3.0,1.0,0.0,1
 2026-08-27,1,Jake McCarthy,Jake Irvin,71.90789018825517,"No Hit, 0-5",@WSH,664983,663623,822694,True,5.0,0.0,0.0,0
 2026-08-27,2,Jackson Chourio,Sean Manaea,70.04857329924988,"Hit, 4-5",@NYM,694192,640455,823581,True,5.0,4.0,0.0,1
 2026-08-27,3,Ernie Clement,Noah Cameron,69.40198057282153,"Hit, 1-4",TOR,676391,702070,822771,True,4.0,1.0,0.0,1
