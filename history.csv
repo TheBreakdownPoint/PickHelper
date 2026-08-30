@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-29,1,Xavier Edwards,Cade Cavalli,73.3171369140149,"No Hit, 0-5",@WSH,669364,676917,822690,True,5.0,0.0,0.0,0
+2026-08-29,2,Luis Arraez,Ryan Johnson,72.25521058498266,"No Hit, 0-5",@LAA,650333,696270,823986,True,5.0,0.0,0.0,0
+2026-08-29,3,Bobby Witt Jr.,Foster Griffin,71.38657275203609,"Hit, 1-5",@CLE,677951,656492,824392,True,5.0,1.0,0.0,1
+2026-08-29,4,Freddie Freeman,Keider Montero,70.65048829524034,"Hit, 1-4",@DET,518692,672456,824230,True,4.0,1.0,0.0,1
+2026-08-29,5,Matt Olson,Ryan Feltner,70.18552890717937,"Hit, 1-3",ATL,621566,663372,824874,True,3.0,1.0,1.0,1
+2026-08-29,6,CJ Abrams,Sandy Alcantara,69.84543790359254,"No Hit, 0-5",WSH,682928,645261,822690,True,5.0,0.0,0.0,0
+2026-08-29,7,Michael Harris II,Ryan Feltner,69.78137616720825,"Hit, 2-4",ATL,671739,663372,824874,True,4.0,2.0,0.0,1
+2026-08-29,8,Elly De La Cruz,Kevin Gausman,69.66357165431761,"Hit, 1-2",@CHC,682829,592332,824637,True,2.0,1.0,2.0,1
+2026-08-29,9,Shohei Ohtani,Keider Montero,69.61036734654627,"Hit, 1-4",@DET,660271,672456,824230,True,4.0,1.0,0.0,1
+2026-08-29,10,Yandy Diaz,Walker Buehler,69.32917539796945,"Hit, 2-4",TB,650490,621111,822936,True,4.0,2.0,0.0,1
 2026-08-28,1,Jackson Chourio,Cody Bradford,71.93742661600979,"Hit, 1-5",MIL,694192,674003,823744,True,5.0,1.0,0.0,1
 2026-08-28,2,Freddie Freeman,Drew Anderson,71.28189688528191,"Hit, 2-4",@DET,518692,623454,824231,True,4.0,2.0,1.0,1
 2026-08-28,3,Fernando Tatis Jr.,Shane McClanahan,70.7310933661377,"Hit, 1-4",@TB,665487,663556,822935,True,4.0,1.0,0.0,1
