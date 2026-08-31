@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-08-30,1,Bobby Witt Jr.,Parker Messick,71.6959322082879,"No Hit, 0-4",@CLE,677951,800048,824393,True,4.0,0.0,0.0,0
+2026-08-30,2,Yandy Diaz,Robbie Ray,71.15978491923872,"Hit, 1-4",TB,650490,592662,822933,True,4.0,1.0,1.0,1
+2026-08-30,3,CJ Abrams,Janson Junk,70.88478763399844,"No Hit, 0-4",WSH,682928,676083,822688,True,4.0,0.0,0.0,0
+2026-08-30,4,Trea Turner,Yusei Kikuchi,70.66340716534272,"Hit, 1-4",@LAA,607208,579328,823987,True,4.0,1.0,1.0,1
+2026-08-30,5,Jake McCarthy,Tyler Mahle,70.53045852354664,"Hit, 1-4",@ATL,664983,641816,824876,True,4.0,1.0,0.0,1
+2026-08-30,6,Pete Alonso,Jeffrey Springs,70.4043849879024,"Hit, 1-2",@OAK,624413,605488,824959,True,2.0,1.0,1.0,1
+2026-08-30,7,Otto Lopez,Andrew Alvarez,70.24579018795475,"Hit, 1-5",@WSH,672640,674841,822688,True,5.0,1.0,0.0,1
+2026-08-30,8,Bryan Reynolds,Matthew Liberatore,69.46893001186517,"Hit, 2-5",@STL,668804,669461,823010,True,5.0,2.0,0.0,1
+2026-08-30,9,Alec Burleson,Braxton Ashcraft,69.10751953407792,"Hit, 1-4",STL,676475,677952,823010,True,4.0,1.0,1.0,1
+2026-08-30,10,Junior Caminero,Robbie Ray,69.00759030172694,"Hit, 2-4",TB,691406,592662,822933,True,4.0,2.0,1.0,1
 2026-08-29,1,Xavier Edwards,Cade Cavalli,73.3171369140149,"No Hit, 0-5",@WSH,669364,676917,822690,True,5.0,0.0,0.0,0
 2026-08-29,2,Luis Arraez,Ryan Johnson,72.25521058498266,"No Hit, 0-5",@LAA,650333,696270,823986,True,5.0,0.0,0.0,0
 2026-08-29,3,Bobby Witt Jr.,Foster Griffin,71.38657275203609,"Hit, 1-5",@CLE,677951,656492,824392,True,5.0,1.0,0.0,1
