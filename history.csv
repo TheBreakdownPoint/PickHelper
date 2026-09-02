@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-01,1,Yandy Diaz,Sean Manaea,73.15889819455609,"Hit, 2-4",TB,650490,640455,822929,True,4.0,2.0,1.0,1
+2026-09-01,2,Jake McCarthy,Kyle Bradish,72.80142590139671,"Hit, 2-5",COL,664983,680694,824313,True,5.0,2.0,0.0,1
+2026-09-01,3,Junior Caminero,Sean Manaea,71.18744476933632,"Hit, 2-5",TB,691406,640455,822929,True,5.0,2.0,0.0,1
+2026-09-01,4,Trea Turner,Eduardo Rodríguez,71.11058179446637,"Hit, 1-5",@AZ,607208,593958,825038,True,5.0,1.0,0.0,1
+2026-09-01,5,Freddie Freeman,Michael McGreevy,70.98244990100679,"No Hit, 0-2",LAD,518692,700241,823908,True,2.0,0.0,1.0,0
+2026-09-01,6,Fernando Tatis Jr.,Nick Lodolo,70.85411652294826,"Hit, 2-5",@CIN,665487,666157,824472,True,5.0,2.0,0.0,1
+2026-09-01,7,Elly De La Cruz,Randy Vásquez,70.75159105359069,"Hit, 1-3",CIN,682829,681190,824472,True,3.0,1.0,1.0,1
+2026-09-01,8,Michael Harris II,Jake Irvin,70.50684283686563,"Hit, 1-4",@WSH,671739,663623,822687,True,4.0,1.0,0.0,1
+2026-09-01,9,Jackson Chourio,Matthew Boyd,70.33322769413563,"Hit, 2-5",@CHC,694192,571510,824633,True,5.0,2.0,0.0,1
+2026-09-01,10,Matt Olson,Jake Irvin,69.93130187678773,"Hit, 1-4",@WSH,621566,663623,822687,True,4.0,1.0,0.0,1
 2026-08-31,1,Jeremy Pena,Anthony Kay,72.64767736226267,"Hit, 1-4",HOU,665161,641743,824149,True,4.0,1.0,0.0,1
 2026-08-31,2,Jake McCarthy,Kyle Bradish,72.4874802973038,"Hit, 1-5",COL,664983,680694,824314,True,5.0,1.0,0.0,1
 2026-08-31,3,Luis Arraez,Brandon Pfaadt,72.18712509509297,"Hit, 1-4",@AZ,650333,694297,825040,True,4.0,1.0,0.0,1
