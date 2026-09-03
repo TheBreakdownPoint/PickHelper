@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-02,1,Otto Lopez,Noah Cameron,71.72742111297407,"Hit, 1-5",@KC,672640,702070,824068,True,5.0,1.0,0.0,1
+2026-09-02,2,Jackson Chourio,David Peterson,71.23359238558386,"Hit, 4-6",@CHC,694192,656849,824634,True,6.0,4.0,0.0,1
+2026-09-02,3,Pete Alonso,Tomoyuki Sugano,69.98019573156104,"Hit, 1-4",@COL,624413,608372,824312,True,4.0,1.0,1.0,1
+2026-09-02,4,Luis Arraez,Taylor Clarke,69.94189509763116,"No Hit, 0-4",@AZ,650333,664199,825037,True,4.0,0.0,0.0,0
+2026-09-02,5,Jeremy Pena,Davis Martin,69.93423890240868,"Hit, 1-4",HOU,665161,663436,824147,True,4.0,1.0,0.0,1
+2026-09-02,6,Gunnar Henderson,Tomoyuki Sugano,69.92195813381976,"No Hit, 0-4",@COL,683002,608372,824312,True,4.0,0.0,1.0,0
+2026-09-02,7,Elly De La Cruz,Casey Mize,69.77077868377435,"Hit, 2-4",CIN,682829,663554,824470,True,4.0,2.0,0.0,1
+2026-09-02,8,Michael Harris II,Brad Lord,69.59645837079972,"No Hit, 0-3",@WSH,671739,695418,822686,True,3.0,0.0,1.0,0
+2026-09-02,9,Yordan Alvarez,Davis Martin,69.29987914867083,"Hit, 2-4",HOU,670541,663436,824147,True,4.0,2.0,0.0,1
+2026-09-02,10,Jake McCarthy,Trevor Rogers,69.23764799374314,"Hit, 2-4",COL,664983,669432,824312,True,4.0,2.0,1.0,1
 2026-09-01,1,Yandy Diaz,Sean Manaea,73.15889819455609,"Hit, 2-4",TB,650490,640455,822929,True,4.0,2.0,1.0,1
 2026-09-01,2,Jake McCarthy,Kyle Bradish,72.80142590139671,"Hit, 2-5",COL,664983,680694,824313,True,5.0,2.0,0.0,1
 2026-09-01,3,Junior Caminero,Sean Manaea,71.18744476933632,"Hit, 2-5",TB,691406,640455,822929,True,5.0,2.0,0.0,1
