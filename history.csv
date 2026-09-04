@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-03,1,Jeremy Pena,Luis Castillo,70.48342775484838,"No Hit, 0-4",HOU,665161,622491,824144,True,4.0,0.0,0.0,0
+2026-09-03,2,Yordan Alvarez,Luis Castillo,69.96444039308604,"No Hit, 0-2",HOU,670541,622491,824144,True,2.0,0.0,1.0,0
+2026-09-03,3,Brandon Lowe,Blade Tidwell,69.46437881949183,"No Hit, 0-3",PIT,664040,694918,823337,True,3.0,0.0,1.0,0
+2026-09-03,4,Bobby Witt Jr.,Sandy Alcantara,69.17318103983692,"No Hit, 0-3",KC,677951,645261,824069,True,3.0,0.0,1.0,0
+2026-09-03,5,Brice Turang,Kevin Gausman,68.3161890835637,"No Hit, 0-4",@CHC,668930,592332,824632,True,4.0,0.0,0.0,0
+2026-09-03,6,Jonathan Aranda,Cal Quantrill,68.2846077086094,"No Hit, 0-3",@TEX,666018,615698,822853,True,3.0,0.0,1.0,0
+2026-09-03,7,Yandy Diaz,Cal Quantrill,68.13207222032553,"Hit, 2-4",@TEX,650490,615698,822853,True,4.0,2.0,0.0,1
+2026-09-03,8,Ceddanne Rafaela,Brandon Young,68.04237014737755,Did Not Start,@BAL,678882,687064,824796,,,,,2
+2026-09-03,9,Bryan Reynolds,Blade Tidwell,67.87921406838129,"No Hit, 0-3",PIT,668804,694918,823337,True,3.0,0.0,1.0,0
+2026-09-03,10,Jordan Walker,Tarik Skubal,67.46650719157292,"Hit, 2-4",@LAD,691023,669373,823907,True,4.0,2.0,0.0,1
 2026-09-02,1,Otto Lopez,Noah Cameron,71.72742111297407,"Hit, 1-5",@KC,672640,702070,824068,True,5.0,1.0,0.0,1
 2026-09-02,2,Jackson Chourio,David Peterson,71.23359238558386,"Hit, 4-6",@CHC,694192,656849,824634,True,6.0,4.0,0.0,1
 2026-09-02,3,Pete Alonso,Tomoyuki Sugano,69.98019573156104,"Hit, 1-4",@COL,624413,608372,824312,True,4.0,1.0,1.0,1
