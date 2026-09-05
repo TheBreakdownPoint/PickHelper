@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-04,1,Jake McCarthy,Andre Pallante,73.84278447829122,"No Hit, 0-4",COL,664983,669467,824311,True,4.0,0.0,1.0,0
+2026-09-04,2,Alec Burleson,Ryan Feltner,72.44086128806175,"Hit, 1-5",@COL,676475,663372,824311,True,5.0,1.0,0.0,1
+2026-09-04,3,Pete Crow-Armstrong,Janson Junk,70.99021056200408,"Hit, 1-4",@MIA,691718,676083,823824,True,4.0,1.0,1.0,1
+2026-09-04,4,Otto Lopez,Shota Imanaga,70.7329457879103,"No Hit, 0-4",MIA,672640,684007,823824,True,4.0,0.0,0.0,0
+2026-09-04,5,Brandon Lowe,Ryan Johnson,70.00181025068159,"Hit, 1-4",PIT,664040,696270,823338,True,4.0,1.0,0.0,1
+2026-09-04,6,Jordan Walker,Ryan Feltner,69.58556452022567,"Hit, 1-4",@COL,691023,663372,824311,True,4.0,1.0,0.0,1
+2026-09-04,7,Jonathan Aranda,Trevor Williams,69.49072654001627,"Hit, 2-4",@TEX,666018,592866,822852,True,4.0,2.0,0.0,1
+2026-09-04,8,Yandy Diaz,Trevor Williams,69.4594652558295,"Hit, 3-5",@TEX,650490,592866,822852,True,5.0,3.0,0.0,1
+2026-09-04,9,Brice Turang,Rhett Lowder,69.27884432791994,"Hit, 3-4",@CIN,668930,695076,824471,True,4.0,3.0,0.0,1
+2026-09-04,10,Jeremy Pena,Merrill Kelly,69.21436493621313,"Hit, 1-4",HOU,665161,518876,824146,True,4.0,1.0,0.0,1
 2026-09-03,1,Jeremy Pena,Luis Castillo,70.48342775484838,"No Hit, 0-4",HOU,665161,622491,824144,True,4.0,0.0,0.0,0
 2026-09-03,2,Yordan Alvarez,Luis Castillo,69.96444039308604,"No Hit, 0-2",HOU,670541,622491,824144,True,2.0,0.0,1.0,0
 2026-09-03,3,Brandon Lowe,Blade Tidwell,69.46437881949183,"No Hit, 0-3",PIT,664040,694918,823337,True,3.0,0.0,1.0,0
