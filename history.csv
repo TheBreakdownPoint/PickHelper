@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-06,1,Alec Burleson,Tanner Gordon,74.74296047590089,"Hit, 3-5",@COL,676475,685299,824309,True,5.0,3.0,0.0,1
+2026-09-06,2,Jake McCarthy,Kyle Leahy,73.7922528647886,"Hit, 3-5",COL,664983,681517,824309,True,5.0,3.0,0.0,1
+2026-09-06,3,Jeremy Pena,Eduardo Rodríguez,71.98024992059221,"No Hit, 0-4",HOU,665161,593958,824142,True,4.0,0.0,0.0,0
+2026-09-06,4,Jordan Walker,Tanner Gordon,71.97386496054331,"No Hit, 0-4",@COL,691023,685299,824309,True,4.0,0.0,1.0,0
+2026-09-06,5,Yandy Diaz,MacKenzie Gore,71.50062252703067,"Hit, 2-5",@TEX,650490,669022,822848,True,5.0,2.0,0.0,1
+2026-09-06,6,Luis Arraez,Tyler Mahle,70.96507100028326,"Hit, 1-3",PHI,650333,641816,823417,True,3.0,1.0,0.0,1
+2026-09-06,7,Ivan Herrera,Tanner Gordon,70.85510795979958,"Hit, 3-5",@COL,671056,685299,824309,True,5.0,3.0,0.0,1
+2026-09-06,8,Elly De La Cruz,Kyle Harrison,70.16514935578995,"Hit, 2-4",CIN,682829,690986,824469,True,4.0,2.0,2.0,1
+2026-09-06,9,Brice Turang,Brady Singer,69.78299313803011,"Hit, 2-3",@CIN,668930,663903,824469,True,3.0,2.0,2.0,1
+2026-09-06,10,Drake Baldwin,Aaron Nola,69.16019229998996,"Hit, 2-5",@PHI,686948,605400,823417,True,5.0,2.0,0.0,1
 2026-09-05,1,Jackson Chourio,Andrew Abbott,71.70346415202937,"Hit, 1-4",@CIN,694192,671096,824468,True,4.0,1.0,0.0,1
 2026-09-05,2,Jake McCarthy,Matthew Liberatore,71.53663556983481,"Hit, 1-3",COL,664983,669461,824310,True,3.0,1.0,2.0,1
 2026-09-05,3,Alec Burleson,Jason Adam,70.9311121469304,"Hit, 1-5",@COL,676475,592094,824310,True,5.0,1.0,0.0,1
