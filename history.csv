@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-07,1,Luis Arraez,Grant Holmes,70.35017381683608,"No Hit, 0-3",PHI,650333,656550,823415,True,3.0,0.0,0.0,0
+2026-09-07,2,Jackson Chourio,Matthew Boyd,69.62722721801458,"Hit, 1-4",MIL,694192,571510,823742,True,4.0,1.0,0.0,1
+2026-09-07,3,Bobby Witt Jr.,Unknown,69.61793069710735,"No Hit, 0-4",KC,677951,99999999,824062,True,4.0,0.0,0.0,0
+2026-09-07,4,Alec Burleson,Logan Webb,69.0620026640705,"Hit, 1-5",@SF,676475,657277,823175,True,5.0,1.0,0.0,1
+2026-09-07,5,Alejandro Kirk,Jacob Lopez,68.8669058638086,"Hit, 2-4",@OAK,672386,682052,824958,True,4.0,2.0,0.0,1
+2026-09-07,6,Gabriel Moreno,Noah Cameron,68.82407339069323,"Hit, 2-5",@KC,672515,702070,824062,True,5.0,2.0,0.0,1
+2026-09-07,7,Ronald Acuna Jr.,Jesús Luzardo,68.51003458204973,"No Hit, 0-3",@PHI,660670,666200,823415,True,3.0,0.0,1.0,0
+2026-09-07,8,Rafael Devers,Michael McGreevy,68.37829916960835,"Hit, 2-3",SF,646240,700241,823175,True,3.0,2.0,2.0,1
+2026-09-07,9,Freddie Freeman,Chase Burns,67.99582035971251,"No Hit, 0-3",LAD,518692,695505,823902,True,3.0,0.0,1.0,0
+2026-09-07,10,Wade Meckler,Brayan Bello,67.59079744389763,"Hit, 1-2",@BOS,685133,678394,824715,True,2.0,1.0,2.0,1
 2026-09-06,1,Alec Burleson,Tanner Gordon,74.74296047590089,"Hit, 3-5",@COL,676475,685299,824309,True,5.0,3.0,0.0,1
 2026-09-06,2,Jake McCarthy,Kyle Leahy,73.7922528647886,"Hit, 3-5",COL,664983,681517,824309,True,5.0,3.0,0.0,1
 2026-09-06,3,Jeremy Pena,Eduardo Rodríguez,71.98024992059221,"No Hit, 0-4",HOU,665161,593958,824142,True,4.0,0.0,0.0,0
