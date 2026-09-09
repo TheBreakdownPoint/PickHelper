@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-08,1,Otto Lopez,Sean Manaea,71.49352974077227,"Hit, 1-4",MIA,672640,640455,823821,True,4.0,1.0,0.0,1
+2026-09-08,2,Zach Neto,Patrick Sandoval,70.6767010741225,"Hit, 4-5",@BOS,687263,663776,824714,True,5.0,4.0,0.0,1
+2026-09-08,3,Jackson Chourio,David Peterson,70.31832737100471,"Hit, 4-5",MIL,694192,656849,823738,True,5.0,4.0,0.0,1
+2026-09-08,4,Steven Kwan,Brandon Young,70.07931353962488,"Hit, 1-5",@BAL,680757,687064,824792,True,5.0,1.0,0.0,1
+2026-09-08,5,Yordan Alvarez,Andrew Painter,69.97283930274195,"No Hit, 0-5",@PHI,670541,691725,823414,True,5.0,0.0,0.0,0
+2026-09-08,6,Yandy Diaz,AJ Smith-Shawver,69.89966854428178,"Hit, 2-5",@ATL,650490,700363,824875,True,5.0,2.0,0.0,1
+2026-09-08,7,Jonathan Aranda,AJ Smith-Shawver,69.83536853244594,"Hit, 1-4",@ATL,666018,700363,824875,True,4.0,1.0,1.0,1
+2026-09-08,8,Elly De La Cruz,Tarik Skubal,69.58739919946434,"Hit, 2-4",@LAD,682829,669373,823901,True,4.0,2.0,0.0,1
+2026-09-08,9,Jeremy Pena,Andrew Painter,69.3506056452881,"Hit, 1-5",@PHI,665161,691725,823414,True,5.0,1.0,0.0,1
+2026-09-08,10,Mike Trout,Patrick Sandoval,68.99250239438813,"Hit, 1-4",@BOS,545361,663776,824714,True,4.0,1.0,1.0,1
 2026-09-07,1,Luis Arraez,Grant Holmes,70.35017381683608,"No Hit, 0-3",PHI,650333,656550,823415,True,3.0,0.0,0.0,0
 2026-09-07,2,Jackson Chourio,Matthew Boyd,69.62722721801458,"Hit, 1-4",MIL,694192,571510,823742,True,4.0,1.0,0.0,1
 2026-09-07,3,Bobby Witt Jr.,Unknown,69.61793069710735,"No Hit, 0-4",KC,677951,99999999,824062,True,4.0,0.0,0.0,0
