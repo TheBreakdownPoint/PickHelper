@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-09,1,Alejandro Kirk,Brady Basso,72.54737610295788,"Hit, 1-3",@OAK,672386,669620,824956,True,3.0,1.0,1.0,1
+2026-09-09,2,Yandy Diaz,Reynaldo López,72.3293318069779,"Hit, 1-4",@ATL,650490,625643,824871,True,4.0,1.0,0.0,1
+2026-09-09,3,Jeremy Pena,Cristopher Sánchez,72.31380850226849,"Hit, 2-5",@PHI,665161,650911,823416,True,5.0,2.0,0.0,1
+2026-09-09,4,Jonathan Aranda,Reynaldo López,72.14048642252355,"No Hit, 0-4",@ATL,666018,625643,824871,True,4.0,0.0,0.0,0
+2026-09-09,5,Bobby Witt Jr.,Zac Gallen,70.93126534395844,"Hit, 2-4",KC,677951,668678,824064,True,4.0,2.0,0.0,1
+2026-09-09,6,Jake McCarthy,Will Warren,70.58634128657187,"Hit, 1-4",@NYY,664983,701542,823497,True,4.0,1.0,0.0,1
+2026-09-09,7,George Springer,Brady Basso,70.11688396730294,Did Not Start,@OAK,543807,669620,824956,False,1.0,0.0,0.0,2
+2026-09-09,8,Steven Kwan,Shane Baz,70.07017161741821,"Hit, 2-5",@BAL,680757,669358,824791,True,5.0,2.0,0.0,1
+2026-09-09,9,Alec Burleson,Blade Tidwell,70.04364792403422,"No Hit, 0-2",@SF,676475,694918,823172,True,2.0,0.0,2.0,0
+2026-09-09,10,Ernie Clement,Brady Basso,69.95271268881986,"Hit, 1-3",@OAK,676391,669620,824956,True,3.0,1.0,1.0,1
 2026-09-08,1,Otto Lopez,Sean Manaea,71.49352974077227,"Hit, 1-4",MIA,672640,640455,823821,True,4.0,1.0,0.0,1
 2026-09-08,2,Zach Neto,Patrick Sandoval,70.6767010741225,"Hit, 4-5",@BOS,687263,663776,824714,True,5.0,4.0,0.0,1
 2026-09-08,3,Jackson Chourio,David Peterson,70.31832737100471,"Hit, 4-5",MIL,694192,656849,823738,True,5.0,4.0,0.0,1
