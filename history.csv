@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-11,1,Freddie Freeman,Ryan Gusto,72.91286700888391,Did Not Start,@MIA,518692,687473,823817,,,,,2
+2026-09-11,2,Shohei Ohtani,Ryan Gusto,72.52927665056694,Did Not Start,@MIA,660271,687473,823817,,,,,2
+2026-09-11,3,Randy Arozarena,Jeffrey Springs,70.4713352412124,"Hit, 1-5",@OAK,668227,605488,824954,True,5.0,1.0,0.0,1
+2026-09-11,4,Julio Rodriguez,Jeffrey Springs,70.17000400194634,"Hit, 1-4",@OAK,677594,605488,824954,True,4.0,1.0,1.0,1
+2026-09-11,5,Jackson Chourio,Andrew Abbott,69.83996012783213,"Hit, 4-6",MIL,694192,671096,823736,True,6.0,4.0,0.0,1
+2026-09-11,6,Bobby Witt Jr.,Sonny Gray,69.54369143859876,"No Hit, 0-3",@BOS,677951,543243,824711,True,3.0,0.0,2.0,0
+2026-09-11,7,Elly De La Cruz,Dustin May,69.40523401549427,"No Hit, 0-3",@MIL,682829,669160,823736,True,3.0,0.0,1.0,0
+2026-09-11,8,Trea Turner,Chris Sale,69.37006518669958,"No Hit, 0-5",@ATL,607208,519242,824873,True,5.0,0.0,0.0,0
+2026-09-11,9,Chase Meidroth,Matthew Liberatore,68.9716571044952,"Hit, 2-4",@STL,805367,669461,823012,True,4.0,2.0,1.0,1
+2026-09-11,10,Drake Baldwin,Aaron Nola,68.8903843820187,"Hit, 2-5",ATL,686948,605400,824873,True,5.0,2.0,0.0,1
 2026-09-10,1,Luis Arraez,Cristian Javier,71.49845735721907,"Hit, 1-3",PHI,650333,664299,823413,True,3.0,1.0,0.0,1
 2026-09-10,2,Yandy Diaz,Martín Pérez,71.2821068255898,"Hit, 1-4",@ATL,650490,527048,824872,True,4.0,1.0,0.0,1
 2026-09-10,3,Cody Bellinger,Ryan Feltner,68.99710891367067,"Hit, 2-3",NYY,641355,663372,823499,True,3.0,2.0,0.0,1
