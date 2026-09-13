@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-12,1,Bobby Witt Jr.,Ranger Suarez,72.84759437322981,"Hit, 1-4",@BOS,677951,624133,824712,True,4.0,1.0,0.0,1
+2026-09-12,2,Jeremy Pena,Ian Seymour,72.82515418292549,"No Hit, 0-3",@TB,665161,693855,822927,True,3.0,0.0,1.0,0
+2026-09-12,3,Luis Arraez,Tyler Mahle,71.67115450599124,"No Hit, 0-4",@ATL,650333,641816,824870,True,4.0,0.0,0.0,0
+2026-09-12,4,Kevin McGonigle,Tanner Gordon,71.34831430302198,"Hit, 2-5",DET,805808,685299,824224,True,5.0,2.0,1.0,1
+2026-09-12,5,Freddie Freeman,Tyler Phillips,70.8359428268455,"No Hit, 0-4",@MIA,518692,663969,823819,True,4.0,0.0,0.0,0
+2026-09-12,6,Elly De La Cruz,Kyle Harrison,70.38623529528924,"Hit, 2-5",@MIL,682829,690986,823737,True,5.0,2.0,0.0,1
+2026-09-12,7,Riley Greene,Tanner Gordon,69.43954352864723,"Hit, 2-5",DET,682985,685299,824224,True,5.0,2.0,0.0,1
+2026-09-12,8,Jake McCarthy,JP Sears,69.2651464943474,"Hit, 1-4",@DET,664983,676664,824224,True,4.0,1.0,0.0,1
+2026-09-12,9,Gleyber Torres,Tanner Gordon,69.0142044297793,Did Not Start,DET,650402,685299,824224,False,3.0,1.0,0.0,1
+2026-09-12,10,Yandy Diaz,Peter Lambert,68.82488697307078,"No Hit, 0-4",TB,650490,663567,822927,True,4.0,0.0,0.0,0
 2026-09-11,1,Freddie Freeman,Ryan Gusto,72.91286700888391,Did Not Start,@MIA,518692,687473,823817,,,,,2
 2026-09-11,2,Shohei Ohtani,Ryan Gusto,72.52927665056694,Did Not Start,@MIA,660271,687473,823817,,,,,2
 2026-09-11,3,Randy Arozarena,Jeffrey Springs,70.4713352412124,"Hit, 1-5",@OAK,668227,605488,824954,True,5.0,1.0,0.0,1
