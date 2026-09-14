@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-13,1,Bobby Witt Jr.,Payton Tolle,72.01443440550919,"Hit, 1-4",@BOS,677951,801139,824708,True,4.0,1.0,1.0,1
+2026-09-13,2,Jake McCarthy,Jackson Jobe,71.83343193256962,"No Hit, 0-2",@DET,664983,695549,824225,True,2.0,0.0,0.0,0
+2026-09-13,3,Luis Arraez,Grant Holmes,71.03741542870284,"No Hit, 0-5",@ATL,650333,656550,824869,True,5.0,0.0,0.0,0
+2026-09-13,4,Josh Jung,Eduardo Rodríguez,69.93613165493204,"Hit, 2-4",@AZ,673962,593958,825033,True,4.0,2.0,0.0,1
+2026-09-13,5,Julio Rodriguez,Jacob Lopez,69.56634151332022,"Hit, 1-5",@OAK,677594,682052,824952,True,5.0,1.0,0.0,1
+2026-09-13,6,Drake Baldwin,Andrew Painter,69.52942793054417,"Hit, 1-4",ATL,686948,691725,824869,True,4.0,1.0,0.0,1
+2026-09-13,7,Jeremy Pena,Freddy Peralta,69.42515698321039,"No Hit, 0-2",@TB,665161,642547,822928,True,2.0,0.0,0.0,0
+2026-09-13,8,Randy Arozarena,Jacob Lopez,69.36252586690851,"Hit, 3-5",@OAK,668227,682052,824952,True,5.0,3.0,0.0,1
+2026-09-13,9,Matt Olson,Andrew Painter,69.05965480490592,"Hit, 3-5",ATL,621566,691725,824869,True,5.0,3.0,0.0,1
+2026-09-13,10,Freddie Freeman,Eury Pérez,68.92293551346542,"No Hit, 0-4",@MIA,518692,691587,823815,True,4.0,0.0,0.0,0
 2026-09-12,1,Bobby Witt Jr.,Ranger Suarez,72.84759437322981,"Hit, 1-4",@BOS,677951,624133,824712,True,4.0,1.0,0.0,1
 2026-09-12,2,Jeremy Pena,Ian Seymour,72.82515418292549,"No Hit, 0-3",@TB,665161,693855,822927,True,3.0,0.0,1.0,0
 2026-09-12,3,Luis Arraez,Tyler Mahle,71.67115450599124,"No Hit, 0-4",@ATL,650333,641816,824870,True,4.0,0.0,0.0,0
