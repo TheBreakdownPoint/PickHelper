@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-14,1,Jake McCarthy,Casey Mize,73.87538534461751,"Hit, 2-5",COL,664983,663554,824308,True,5.0,2.0,0.0,1
+2026-09-14,2,Fernando Tatis Jr.,Tomoyuki Sugano,73.00625561922335,"Hit, 1-5",@COL,665487,608372,824308,True,5.0,1.0,0.0,1
+2026-09-14,3,Cody Bellinger,Dean Kremer,70.62911952655601,"Hit, 1-4",@MIN,641355,665152,823656,True,4.0,1.0,0.0,1
+2026-09-14,4,Pete Crow-Armstrong,Reynaldo López,70.5732148533754,"Hit, 4-5",CHC,691718,625643,824629,True,5.0,4.0,0.0,1
+2026-09-14,5,Ronald Acuna Jr.,David Peterson,69.44543607591436,"No Hit, 0-4",@CHC,660670,656849,824629,True,4.0,0.0,1.0,0
+2026-09-14,6,Elly De La Cruz,Tarik Skubal,68.9661110144052,"Hit, 1-4",CIN,682829,669373,824465,True,4.0,1.0,0.0,1
+2026-09-14,7,Alec Burleson,Landen Roupp,67.96239494485776,"Hit, 2-3",STL,676475,694738,823006,True,3.0,2.0,1.0,1
+2026-09-14,8,Xavier Edwards,Corbin Burnes,67.91963352834257,"Hit, 2-5",@AZ,669364,669203,825034,True,5.0,2.0,0.0,1
+2026-09-14,9,Michael Busch,Reynaldo López,67.60005943385329,"No Hit, 0-2",CHC,683737,625643,824629,True,2.0,0.0,2.0,0
+2026-09-14,10,Julio Rodriguez,Reid Detmers,67.53286665906207,"No Hit, 0-3",@LAA,677594,672282,823981,True,3.0,0.0,1.0,0
 2026-09-13,1,Bobby Witt Jr.,Payton Tolle,72.01443440550919,"Hit, 1-4",@BOS,677951,801139,824708,True,4.0,1.0,1.0,1
 2026-09-13,2,Jake McCarthy,Jackson Jobe,71.83343193256962,"No Hit, 0-2",@DET,664983,695549,824225,True,2.0,0.0,0.0,0
 2026-09-13,3,Luis Arraez,Grant Holmes,71.03741542870284,"No Hit, 0-5",@ATL,650333,656550,824869,True,5.0,0.0,0.0,0
