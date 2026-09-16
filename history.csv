@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-15,1,Fernando Tatis Jr.,Kyle Freeland,77.81322166528368,"Hit, 1-5",@COL,665487,607536,824307,True,5.0,1.0,0.0,1
+2026-09-15,2,Jake McCarthy,Walker Buehler,74.39510817417444,"Hit, 2-5",COL,664983,621111,824307,True,5.0,2.0,0.0,1
+2026-09-15,3,Austin Hays,Kyle Freeland,73.55908546219936,"Hit, 2-3",@COL,669720,607536,824307,True,3.0,2.0,0.0,1
+2026-09-15,4,Cody Bellinger,Bailey Ober,71.08170158031449,"Hit, 3-4",@MIN,641355,641927,823654,True,4.0,3.0,1.0,1
+2026-09-15,5,Xavier Edwards,Michael Soroka,70.79930912791309,Did Not Start,@AZ,669364,647336,825030,,,,,2
+2026-09-15,6,Freddie Freeman,Rhett Lowder,70.70270243335128,"Hit, 3-5",@CIN,518692,695076,824466,True,5.0,3.0,0.0,1
+2026-09-15,7,Manny Machado,Kyle Freeland,70.12384377231552,"Hit, 1-3",@COL,592518,607536,824307,True,3.0,1.0,1.0,1
+2026-09-15,8,Alec Burleson,Blade Tidwell,69.86045253942962,"Hit, 1-3",STL,676475,694918,823007,True,3.0,1.0,0.0,1
+2026-09-15,9,Trevor Story,Cody Bradford,69.35634031957069,"Hit, 1-3",@TEX,596115,674003,822849,True,3.0,1.0,1.0,1
+2026-09-15,10,Josh Jung,Patrick Sandoval,69.29218080729305,"No Hit, 0-4",TEX,673962,663776,822849,True,4.0,0.0,0.0,0
 2026-09-14,1,Jake McCarthy,Casey Mize,73.87538534461751,"Hit, 2-5",COL,664983,663554,824308,True,5.0,2.0,0.0,1
 2026-09-14,2,Fernando Tatis Jr.,Tomoyuki Sugano,73.00625561922335,"Hit, 1-5",@COL,665487,608372,824308,True,5.0,1.0,0.0,1
 2026-09-14,3,Cody Bellinger,Dean Kremer,70.62911952655601,"Hit, 1-4",@MIN,641355,665152,823656,True,4.0,1.0,0.0,1
