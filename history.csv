@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-16,1,Yandy Diaz,Brady Basso,74.0064147917476,"No Hit, 0-4",TB,650490,669620,822926,True,4.0,0.0,0.0,0
+2026-09-16,2,Trea Turner,Josh Simpson,72.7107076703582,"No Hit, 0-4",@WSH,607208,681006,822680,True,4.0,0.0,1.0,0
+2026-09-16,3,Alec Burleson,Anthony Molina,72.57841679078635,"Hit, 1-5",STL,676475,683627,823004,True,5.0,1.0,0.0,1
+2026-09-16,4,Junior Caminero,Brady Basso,71.79068173830503,"Hit, 1-4",TB,691406,669620,822926,True,4.0,1.0,0.0,1
+2026-09-16,5,Xavier Edwards,Merrill Kelly,71.76840432246976,"No Hit, 0-3",@AZ,669364,518876,825031,True,3.0,0.0,1.0,0
+2026-09-16,6,Cody Bellinger,Zebby Matthews,71.4613651938238,"Hit, 3-5",@MIN,641355,805673,823655,True,5.0,3.0,1.0,1
+2026-09-16,7,Luis Arraez,Josh Simpson,71.26338238546636,"Hit, 1-2",@WSH,650333,681006,822680,True,2.0,1.0,3.0,1
+2026-09-16,8,Fernando Tatis Jr.,Jason Adam,71.01319410270203,"No Hit, 0-4",@COL,665487,592094,824306,True,4.0,0.0,0.0,0
+2026-09-16,9,Jeremy Pena,Daniel Lynch IV,70.42754935073687,"Hit, 3-4",HOU,665161,663738,824140,True,4.0,3.0,0.0,1
+2026-09-16,10,Randy Arozarena,Yusei Kikuchi,70.22851445752232,"Hit, 1-3",@LAA,668227,579328,823979,True,3.0,1.0,2.0,1
 2026-09-15,1,Fernando Tatis Jr.,Kyle Freeland,77.81322166528368,"Hit, 1-5",@COL,665487,607536,824307,True,5.0,1.0,0.0,1
 2026-09-15,2,Jake McCarthy,Walker Buehler,74.39510817417444,"Hit, 2-5",COL,664983,621111,824307,True,5.0,2.0,0.0,1
 2026-09-15,3,Austin Hays,Kyle Freeland,73.55908546219936,"Hit, 2-3",@COL,669720,607536,824307,True,3.0,2.0,0.0,1
