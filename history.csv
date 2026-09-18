@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-17,1,Fernando Tatis Jr.,Tanner Gordon,75.37711642081672,"Hit, 1-4",@COL,665487,685299,824305,True,4.0,1.0,1.0,1
+2026-09-17,2,Yandy Diaz,Jeffrey Springs,72.94393966067747,"No Hit, 0-5",TB,650490,605488,822924,True,5.0,0.0,0.0,0
+2026-09-17,3,Jake McCarthy,Michael King,72.40649327930157,"Hit, 1-3",COL,664983,650633,824305,True,3.0,1.0,0.0,1
+2026-09-17,4,Elly De La Cruz,Justin Wrobleski,71.14213608173205,"No Hit, 0-4",CIN,682829,680736,824464,True,4.0,0.0,0.0,0
+2026-09-17,5,Junior Caminero,Jeffrey Springs,70.64826857099418,"No Hit, 0-3",TB,691406,605488,822924,True,3.0,0.0,2.0,0
+2026-09-17,6,Freddie Freeman,Brady Singer,70.55685694402699,"Hit, 2-3",@CIN,518692,663903,824464,True,3.0,2.0,1.0,1
+2026-09-17,7,Jeremy Pena,Seth Lugo,70.29411911917333,"Hit, 2-5",HOU,665161,607625,824141,True,5.0,2.0,0.0,1
+2026-09-17,8,Jake Cronenworth,Tanner Gordon,70.0309393314662,"Hit, 2-5",@COL,630105,685299,824305,True,5.0,2.0,0.0,1
+2026-09-17,9,Yordan Alvarez,Seth Lugo,69.73380452553944,"Hit, 2-4",HOU,670541,607625,824141,True,4.0,2.0,0.0,1
+2026-09-17,10,Jackson Merrill,Tanner Gordon,69.66351509359625,"Hit, 1-4",@COL,701538,685299,824305,True,4.0,1.0,0.0,1
 2026-09-16,1,Yandy Diaz,Brady Basso,74.0064147917476,"No Hit, 0-4",TB,650490,669620,822926,True,4.0,0.0,0.0,0
 2026-09-16,2,Trea Turner,Josh Simpson,72.7107076703582,"No Hit, 0-4",@WSH,607208,681006,822680,True,4.0,0.0,1.0,0
 2026-09-16,3,Alec Burleson,Anthony Molina,72.57841679078635,"Hit, 1-5",STL,676475,683627,823004,True,5.0,1.0,0.0,1
