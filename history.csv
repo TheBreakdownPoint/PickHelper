@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-18,1,Jackson Chourio,Cade Povich,72.64929139925064,"Hit, 2-5",@BAL,694192,700249,824790,True,5.0,2.0,1.0,1
+2026-09-18,2,Jake McCarthy,Bryan Woo,72.37588972037189,"Hit, 3-5",COL,664983,693433,824303,True,5.0,3.0,0.0,1
+2026-09-18,3,Yandy Diaz,Ranger Suarez,71.97240311493213,"No Hit, 0-3",TB,650490,624133,822923,True,3.0,0.0,2.0,0
+2026-09-18,4,CJ Abrams,Kyle Leahy,70.60369238222474,"Hit, 1-4",@STL,682928,681517,823005,True,4.0,1.0,0.0,1
+2026-09-18,5,Junior Caminero,Ranger Suarez,70.22076378181312,"Hit, 1-3",TB,691406,624133,822923,True,3.0,1.0,2.0,1
+2026-09-18,6,Alec Burleson,Cade Cavalli,69.86109921123706,"No Hit, 0-3",STL,676475,676917,823005,True,3.0,0.0,0.0,0
+2026-09-18,7,Steven Kwan,Mason Barnett,69.16045539041977,"No Hit, 0-3",CLE,680757,686930,824383,True,3.0,0.0,2.0,0
+2026-09-18,8,Aaron Judge,Eduardo Rodríguez,69.11525590062529,Did Not Start,@AZ,592450,593958,825032,,,,,2
+2026-09-18,9,Jeremy Pena,Tyler Mahle,69.01373708081341,"No Hit, 0-4",HOU,665161,641816,824138,True,4.0,0.0,0.0,0
+2026-09-18,10,William Contreras,Cade Povich,68.86735399178757,"Hit, 1-4",@BAL,661388,700249,824790,True,4.0,1.0,1.0,1
 2026-09-17,1,Fernando Tatis Jr.,Tanner Gordon,75.37711642081672,"Hit, 1-4",@COL,665487,685299,824305,True,4.0,1.0,1.0,1
 2026-09-17,2,Yandy Diaz,Jeffrey Springs,72.94393966067747,"No Hit, 0-5",TB,650490,605488,822924,True,5.0,0.0,0.0,0
 2026-09-17,3,Jake McCarthy,Michael King,72.40649327930157,"Hit, 1-3",COL,664983,650633,824305,True,3.0,1.0,0.0,1
