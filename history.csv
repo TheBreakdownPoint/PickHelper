@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-19,1,Randy Arozarena,Jose Quintana,74.238820562046,"Hit, 1-4",@COL,668227,500779,824304,True,4.0,1.0,0.0,1
+2026-09-19,2,Jake McCarthy,Bryce Miller,73.84079786978356,"Hit, 1-5",COL,664983,682243,824304,True,5.0,1.0,0.0,1
+2026-09-19,3,Julio Rodriguez,Jose Quintana,73.24117570443674,"Hit, 2-4",@COL,677594,500779,824304,True,4.0,2.0,0.0,1
+2026-09-19,4,Cody Bellinger,Brandon Pfaadt,71.6806405556119,"No Hit, 0-4",@AZ,641355,694297,825029,True,4.0,0.0,0.0,0
+2026-09-19,5,CJ Abrams,Michael McGreevy,71.43842477890419,"No Hit, 0-5",@STL,682928,700241,823003,True,5.0,0.0,1.0,0
+2026-09-19,6,Yandy Diaz,Payton Tolle,71.26122073859226,Did Not Start,TB,650490,801139,822921,,,,,2
+2026-09-19,7,Xavier Edwards,Casey Mize,70.32537517031824,"No Hit, 0-3",@SD,669364,663554,823249,True,3.0,0.0,1.0,0
+2026-09-19,8,Elly De La Cruz,Matthew Boyd,70.32133979906584,"No Hit, 0-2",CIN,682829,571510,824461,True,2.0,0.0,2.0,0
+2026-09-19,9,Jackson Chourio,Trevor Rogers,69.95500539597349,"No Hit, 0-4",@BAL,694192,669432,824788,True,4.0,0.0,0.0,0
+2026-09-19,10,Junior Caminero,Payton Tolle,69.57272205370786,"Hit, 1-4",TB,691406,801139,822921,True,4.0,1.0,0.0,1
 2026-09-18,1,Jackson Chourio,Cade Povich,72.64929139925064,"Hit, 2-5",@BAL,694192,700249,824790,True,5.0,2.0,1.0,1
 2026-09-18,2,Jake McCarthy,Bryan Woo,72.37588972037189,"Hit, 3-5",COL,664983,693433,824303,True,5.0,3.0,0.0,1
 2026-09-18,3,Yandy Diaz,Ranger Suarez,71.97240311493213,"No Hit, 0-3",TB,650490,624133,822923,True,3.0,0.0,2.0,0
