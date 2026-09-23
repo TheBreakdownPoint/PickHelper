@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-22,1,Gabriel Moreno,Kyle Freeland,76.37192479286618,"Hit, 1-4",@COL,672515,607536,824302,True,4.0,1.0,0.0,1
+2026-09-22,2,Geraldo Perdomo,Kyle Freeland,74.0585247415957,"Hit, 3-5",@COL,672695,607536,824302,True,5.0,3.0,0.0,1
+2026-09-22,3,Ketel Marte,Kyle Freeland,74.02980235590584,"Hit, 1-5",@COL,606466,607536,824302,True,5.0,1.0,0.0,1
+2026-09-22,4,Jake McCarthy,Michael Soroka,73.10211948089227,"No Hit, 0-4",COL,664983,647336,824302,True,4.0,0.0,0.0,0
+2026-09-22,5,Bobby Witt Jr.,Anthony Kay,72.56449327607143,"Hit, 3-4",KC,677951,641743,824061,True,4.0,3.0,0.0,1
+2026-09-22,6,Nolan Arenado,Kyle Freeland,71.76021776413627,"Hit, 3-5",@COL,571448,607536,824302,True,5.0,3.0,0.0,1
+2026-09-22,7,Zach Neto,Brady Basso,71.05852871231413,"Hit, 1-4",@OAK,687263,669620,824953,True,4.0,1.0,1.0,1
+2026-09-22,8,Luis Arraez,Dustin May,70.8528651927816,"Hit, 2-4",PHI,650333,669160,823412,True,4.0,2.0,0.0,1
+2026-09-22,9,Xavier Edwards,Kevin Gausman,70.62561821380827,Did Not Start,@CHC,669364,592332,824624,,,,,2
+2026-09-22,10,Shea Langeliers,Yusei Kikuchi,70.15051149551297,"Hit, 3-5",OAK,669127,579328,824953,True,5.0,3.0,0.0,1
 2026-09-19,1,Randy Arozarena,Jose Quintana,74.238820562046,"Hit, 1-4",@COL,668227,500779,824304,True,4.0,1.0,0.0,1
 2026-09-19,2,Jake McCarthy,Bryce Miller,73.84079786978356,"Hit, 1-5",COL,664983,682243,824304,True,5.0,1.0,0.0,1
 2026-09-19,3,Julio Rodriguez,Jose Quintana,73.24117570443674,"Hit, 2-4",@COL,677594,500779,824304,True,4.0,2.0,0.0,1
