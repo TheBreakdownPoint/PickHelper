@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-23,1,Jake McCarthy,Merrill Kelly,74.45837104942291,"Hit, 1-4",COL,664983,518876,824301,True,4.0,1.0,0.0,1
+2026-09-23,2,Bobby Witt Jr.,Bryan Hudson,72.59162502364116,"Hit, 1-4",KC,677951,663542,824060,True,4.0,1.0,0.0,1
+2026-09-23,3,Steven Kwan,Sonny Gray,71.74088884741387,"Hit, 2-4",@BOS,680757,543243,824710,True,4.0,2.0,0.0,1
+2026-09-23,4,Bo Bichette,Cody Bradford,71.47287424674462,"No Hit, 0-4",@TEX,666182,674003,822841,True,4.0,0.0,1.0,0
+2026-09-23,5,Xavier Edwards,Kevin Gausman,70.79346838958396,Did Not Start,@CHC,669364,592332,824625,,,,,2
+2026-09-23,6,Geraldo Perdomo,Jason Adam,70.09144016766233,"No Hit, 0-4",@COL,672695,592094,824301,True,4.0,0.0,0.0,0
+2026-09-23,7,Brice Turang,Aaron Nola,70.06023270889358,"Hit, 2-4",@PHI,668930,605400,823410,True,4.0,2.0,0.0,1
+2026-09-23,8,Yordan Alvarez,George Kirby,70.01699120493687,"Hit, 2-4",@SEA,670541,669923,823086,True,4.0,2.0,1.0,1
+2026-09-23,9,Ketel Marte,Jason Adam,69.71897976041829,"Hit, 1-4",@COL,606466,592094,824301,True,4.0,1.0,0.0,1
+2026-09-23,10,Pete Crow-Armstrong,Ryan Gusto,69.70043494826723,"No Hit, 0-3",CHC,691718,687473,824625,True,3.0,0.0,1.0,0
 2026-09-22,1,Gabriel Moreno,Kyle Freeland,76.37192479286618,"Hit, 1-4",@COL,672515,607536,824302,True,4.0,1.0,0.0,1
 2026-09-22,2,Geraldo Perdomo,Kyle Freeland,74.0585247415957,"Hit, 3-5",@COL,672695,607536,824302,True,5.0,3.0,0.0,1
 2026-09-22,3,Ketel Marte,Kyle Freeland,74.02980235590584,"Hit, 1-5",@COL,606466,607536,824302,True,5.0,1.0,0.0,1
