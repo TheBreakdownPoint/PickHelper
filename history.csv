@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-24,1,Luis Arraez,Bryse Wilson,75.05130121392615,"No Hit, 0-3",PHI,650333,669060,823411,True,3.0,0.0,0.0,0
+2026-09-24,2,Ketel Marte,Tanner Gordon,74.44622207608057,"Hit, 1-2",@COL,606466,685299,824298,True,2.0,1.0,2.0,1
+2026-09-24,3,Gabriel Moreno,Tanner Gordon,74.17152441492242,"Hit, 1-6",@COL,672515,685299,824298,True,6.0,1.0,0.0,1
+2026-09-24,4,Geraldo Perdomo,Tanner Gordon,74.01317462864469,"Hit, 3-5",@COL,672695,685299,824298,True,5.0,3.0,1.0,1
+2026-09-24,5,Corbin Carroll,Tanner Gordon,73.64533386682345,"Hit, 1-3",@COL,682998,685299,824298,True,3.0,1.0,1.0,1
+2026-09-24,6,Jeremy Pena,Mason Barnett,73.07443685851229,"Hit, 1-5",@OAK,665161,686930,824950,True,5.0,1.0,0.0,1
+2026-09-24,7,Yordan Alvarez,Mason Barnett,71.23174505956517,"Hit, 1-4",@OAK,670541,686930,824950,True,4.0,1.0,1.0,1
+2026-09-24,8,Jake McCarthy,Eduardo Rodríguez,70.72788735994594,"Hit, 1-3",COL,664983,593958,824298,True,3.0,1.0,0.0,1
+2026-09-24,9,Brice Turang,Andrew Painter,70.07442530037335,"Hit, 1-5",@PHI,668930,691725,823411,True,5.0,1.0,0.0,1
+2026-09-24,10,Otto Lopez,Matthew Boyd,69.98604976330792,"Hit, 1-3",@CHC,672640,571510,824623,True,3.0,1.0,1.0,1
 2026-09-23,1,Jake McCarthy,Merrill Kelly,74.45837104942291,"Hit, 1-4",COL,664983,518876,824301,True,4.0,1.0,0.0,1
 2026-09-23,2,Bobby Witt Jr.,Bryan Hudson,72.59162502364116,"Hit, 1-4",KC,677951,663542,824060,True,4.0,1.0,0.0,1
 2026-09-23,3,Steven Kwan,Sonny Gray,71.74088884741387,"Hit, 2-4",@BOS,680757,543243,824710,True,4.0,2.0,0.0,1
