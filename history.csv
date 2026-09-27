@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-26,1,Brandon Lowe,Justin Verlander,72.85066934068479,"Hit, 1-4",@DET,664040,434378,824219,True,4.0,1.0,0.0,1
+2026-09-26,2,Otto Lopez,Brent Suter,71.89090324557287,"Hit, 2-5",MIA,672640,608718,823813,True,5.0,2.0,0.0,1
+2026-09-26,3,Jake McCarthy,Davis Martin,71.09991362953302,"Hit, 1-4",@CWS,664983,663436,824543,True,4.0,1.0,1.0,1
+2026-09-26,4,Spencer Horwitz,Justin Verlander,70.90663168400727,"No Hit, 0-3",@DET,687462,434378,824219,True,3.0,0.0,1.0,0
+2026-09-26,5,Bryan Reynolds,Justin Verlander,70.5786988807176,"Hit, 2-4",@DET,668804,434378,824219,True,4.0,2.0,0.0,1
+2026-09-26,6,Jeremy Pena,Jack Perkins,70.07849850986089,"Hit, 4-6",@OAK,665161,678022,824949,True,6.0,4.0,0.0,1
+2026-09-26,7,Luis Arraez,Griffin Jax,70.03033050589934,Did Not Start,PHI,650333,643377,823407,,,,,2
+2026-09-26,8,Yordan Alvarez,Jack Perkins,69.9825212958576,"Hit, 2-5",@OAK,670541,678022,824949,True,5.0,2.0,0.0,1
+2026-09-26,9,Bobby Witt Jr.,Tanner Bibee,69.95212781867112,"Hit, 2-4",KC,677951,676440,824057,True,4.0,2.0,0.0,1
+2026-09-26,10,Xavier Edwards,Brent Suter,69.59210876792578,Did Not Start,MIA,669364,608718,823813,,,,,2
 2026-09-25,1,Jeremy Pena,Jacob Lopez,73.94382191147245,"No Hit, 0-5",@OAK,665161,682052,824947,True,5.0,0.0,0.0,0
 2026-09-25,2,Yandy Diaz,Cristopher Sánchez,71.20668263274338,"No Hit, 0-4",@PHI,650490,650911,823409,True,4.0,0.0,0.0,0
 2026-09-25,3,Pete Crow-Armstrong,Brayan Bello,71.14968769817648,"No Hit, 0-4",@BOS,691718,678394,824706,True,4.0,0.0,0.0,0
