@@ -1,4 +1,14 @@
 Date,Pick Rank,Batter,Projected Pitcher,Hit Probability,Outcome,Home Team,batter,pitcher,gamePk,started,ab,h,bb,OutcomeIndicator
+2026-09-30,1,Yordan Alvarez,Sean Burke,68.40613567267114,"No Hit, 0-4",HOU,670541,680732,849846,True,4.0,0.0,0.0,0
+2026-09-30,2,Jeremy Pena,Sean Burke,68.06829605701529,"Hit, 2-4",HOU,665161,680732,849846,True,4.0,2.0,0.0,1
+2026-09-30,3,Ronald Acuna Jr.,Cristopher Sánchez,68.0147855534576,"No Hit, 0-3",ATL,660670,650911,849841,True,3.0,0.0,2.0,0
+2026-09-30,4,Mauricio Dubon,Cristopher Sánchez,67.71175246808346,"Hit, 2-5",ATL,643289,650911,849841,True,5.0,2.0,0.0,1
+2026-09-30,5,Fernando Tatis Jr.,Kevin Gausman,67.35453357005908,"No Hit, 0-4",SD,665487,592332,849842,True,4.0,0.0,0.0,0
+2026-09-30,6,Cody Bellinger,Sonny Gray,66.99126254243247,"Hit, 2-5",NYY,641355,543243,849848,True,5.0,2.0,0.0,1
+2026-09-30,7,Bryce Harper,Tyler Mahle,65.61393727324194,"Hit, 2-5",@ATL,547180,641816,849841,True,5.0,2.0,0.0,1
+2026-09-30,8,Trea Turner,Tyler Mahle,65.28911762150668,"Hit, 1-5",@ATL,607208,641816,849841,True,5.0,1.0,0.0,1
+2026-09-30,9,Drake Baldwin,Cristopher Sánchez,65.24463950187331,"Hit, 2-5",ATL,686948,650911,849841,True,5.0,2.0,0.0,1
+2026-09-30,10,Bryson Stott,Tyler Mahle,65.23518686130357,"Hit, 1-5",@ATL,681082,641816,849841,True,5.0,1.0,0.0,1
 2026-09-27,1,Bobby Witt Jr.,Parker Messick,74.08322007871162,"No Hit, 0-4",KC,677951,800048,824055,True,4.0,0.0,0.0,0
 2026-09-27,2,Bo Bichette,DJ Herz,71.48899365877602,"Hit, 1-5",@WSH,666182,687792,822679,True,5.0,1.0,0.0,1
 2026-09-27,3,Drake Baldwin,Janson Junk,71.37635579453634,Did Not Start,@MIA,686948,676083,823814,,,,,2
